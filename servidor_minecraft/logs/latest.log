@@ -1,22 +1,151 @@
-[19:15:49] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[19:15:49] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[19:15:49] [main/INFO]: Loading 4 mods:
+[19:28:48] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[19:28:48] [ForkJoinPool-1-worker-1/WARN]: Mod tectonic uses the version 2.4.1a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:28:48] [main/INFO]: Loading 45 mods:
+	- fabric-api 0.115.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.2+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.2+e60e56d419
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.1+9ed317f519
+	   |-- fabric-data-generation-api-v1 20.2.25+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[19:15:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:15:50] [main/ERROR]: Failed to start the minecraft server
-joptsimple.UnrecognizedOptionException: m is not a recognized option
-	at joptsimple.OptionException.unrecognizedOption(OptionException.java:108) ~[jopt-simple-5.0.4.jar:?]
-	at joptsimple.OptionParser.validateOptionCharacters(OptionParser.java:633) ~[jopt-simple-5.0.4.jar:?]
-	at joptsimple.OptionParser.handleShortOptionCluster(OptionParser.java:528) ~[jopt-simple-5.0.4.jar:?]
-	at joptsimple.OptionParser.handleShortOptionToken(OptionParser.java:523) ~[jopt-simple-5.0.4.jar:?]
-	at joptsimple.OptionParserState$2.handleArgument(OptionParserState.java:59) ~[jopt-simple-5.0.4.jar:?]
-	at joptsimple.OptionParser.parse(OptionParser.java:396) ~[jopt-simple-5.0.4.jar:?]
-	at net.minecraft.server.Main.main(Main.java:89) [server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+	- sound_physics_remastered 1.21.1-1.4.8
+	- tectonic 2.4.1a
+	- terralith 2.5.8
+	- voicechat 1.21.1-2.5.26
+	   \-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+[19:28:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:28:49] [main/INFO]: Compatibility level set to JAVA_17
+[19:28:50] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:29:01] [main/INFO]: [voicechat] Compatibility version 18
+[19:29:01] [main/INFO]: [voicechat] Loading plugins
+[19:29:01] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[19:29:01] [main/INFO]: [voicechat] Initializing plugins
+[19:29:01] [main/INFO]: Initializing Simple Voice Chat integration
+[19:29:01] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[19:29:01] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[19:29:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:29:04] [main/INFO]: No existing world data, creating new world
+[19:29:05] [main/INFO]: Loaded 1296 recipes
+[19:29:06] [main/INFO]: Loaded 1400 advancements
+[19:29:07] [main/INFO]: Applied 0 biome modifications to 0 of 159 new biomes in 2.172 ms
+[19:29:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:29:07] [Server thread/INFO]: Loading properties
+[19:29:07] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:07] [Server thread/INFO]: Generating keypair
+[19:29:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:29:07] [Server thread/INFO]: Using epoll channel type
+[19:29:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:29:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:29:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:29:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:29:07] [Server thread/INFO]: Preparing level "world"
+[19:29:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:29:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:29:52] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[19:29:52] [Server thread/INFO]: Time elapsed: 15670 ms
+[19:29:52] [Server thread/INFO]: Done (44.605s)! For help, type "help"
+[19:29:52] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:29:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[19:30:11] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:65444] logged in with entity id 13 at (3.5, 75.0, 1.5)
+[19:30:12] [Server thread/INFO]: YoshiHD4K joined the game
+[19:30:12] [Server thread/INFO]: [voicechat] Received secret request of YoshiHD4K (18)
+[19:30:12] [Server thread/INFO]: [voicechat] Sent secret to YoshiHD4K
+[19:30:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f4b014b-f4dc-3f9a-9f3f-d0512d718892
+[19:30:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f4b014b-f4dc-3f9a-9f3f-d0512d718892
+[19:30:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player YoshiHD4K (2f4b014b-f4dc-3f9a-9f3f-d0512d718892) successfully connected to voice chat
+[19:31:20] [Server thread/INFO]: Made YoshiHD4K a server operator
+[19:31:26] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Adventure Mode]
+[19:31:31] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Spectator Mode]
+[19:34:52] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Adventure Mode]
+[19:35:26] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
+[19:35:34] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Spectator Mode]
+[19:35:53] [Server thread/INFO]: YoshiHD4K lost connection: Disconnected
+[19:35:53] [Server thread/INFO]: YoshiHD4K left the game
+[19:35:53] [Server thread/INFO]: [voicechat] Disconnecting client YoshiHD4K
+[19:36:02] [Server thread/INFO]: Stopping the server
+[19:36:02] [Server thread/INFO]: Stopping server
+[19:36:02] [Server thread/INFO]: Saving players
+[19:36:02] [Server thread/INFO]: Saving worlds
+[19:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
