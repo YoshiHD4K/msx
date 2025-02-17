@@ -734,3 +734,54 @@ java.lang.IllegalArgumentException: Book iammusicplayer:manual has use_resource_
 [22:09:56] [Server thread/INFO]: jaylvssae joined the game
 [22:09:56] [Server thread/INFO]: [voicechat] Received secret request of jaylvssae (18)
 [22:09:56] [Server thread/INFO]: [voicechat] Sent secret to jaylvssae
+[22:10:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:10:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:10:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838) successfully connected to voice chat
+[22:10:39] [Server thread/INFO]: jaylvssae lost connection: Disconnected
+[22:10:39] [Server thread/INFO]: jaylvssae left the game
+[22:10:39] [Server thread/INFO]: [voicechat] Disconnecting client jaylvssae
+[22:10:42] [Server thread/INFO]: jaylvssae[/100.92.130.74:58898] logged in with entity id 2468 at (-0.5, 78.0, 31.5)
+[22:10:42] [Server thread/INFO]: Syncing config to jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838)
+[22:10:42] [Server thread/INFO]: Loading config from file...
+[22:10:42] [Server thread/INFO]: jaylvssae joined the game
+[22:10:43] [Server thread/INFO]: [voicechat] Received secret request of jaylvssae (18)
+[22:10:43] [Server thread/INFO]: [voicechat] Sent secret to jaylvssae
+[22:11:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:11:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:11:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838) successfully connected to voice chat
+[22:12:28] [Server thread/INFO]: jaylvssae lost connection: Timed out
+[22:12:28] [Server thread/INFO]: jaylvssae left the game
+[22:12:28] [Server thread/INFO]: [voicechat] Disconnecting client jaylvssae
+[22:12:40] [Server thread/INFO]: jaylvssae[/100.92.130.74:58919] logged in with entity id 2919 at (26.52477240423269, 87.0, 93.97804728032882)
+[22:12:40] [Server thread/INFO]: Syncing config to jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838)
+[22:12:40] [Server thread/INFO]: Loading config from file...
+[22:12:40] [Server thread/INFO]: jaylvssae joined the game
+[22:12:41] [Server thread/INFO]: [voicechat] Received secret request of jaylvssae (18)
+[22:12:41] [Server thread/INFO]: [voicechat] Sent secret to jaylvssae
+[22:13:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:13:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:13:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838) successfully connected to voice chat
+[22:13:35] [Server thread/INFO]: jaylvssae lost connection: Timed out
+[22:13:35] [Server thread/INFO]: jaylvssae left the game
+[22:13:35] [Server thread/INFO]: [voicechat] Disconnecting client jaylvssae
+[22:13:39] [Server thread/INFO]: jaylvssae[/100.92.130.74:58926] logged in with entity id 3163 at (26.52477240423269, 87.0, 93.97804728032882)
+[22:13:39] [Server thread/INFO]: Syncing config to jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838)
+[22:13:39] [Server thread/INFO]: Loading config from file...
+[22:13:39] [Server thread/INFO]: jaylvssae joined the game
+[22:13:40] [Server thread/INFO]: [voicechat] Received secret request of jaylvssae (18)
+[22:13:40] [Server thread/INFO]: [voicechat] Sent secret to jaylvssae
+[22:14:39] [Server thread/INFO]: jaylvssae lost connection: Disconnected
+[22:14:39] [Server thread/INFO]: jaylvssae left the game
+[22:14:39] [Server thread/INFO]: [voicechat] Disconnecting client jaylvssae
+[22:14:48] [Server thread/INFO]: jaylvssae[/100.92.130.74:58934] logged in with entity id 3399 at (26.52477240423269, 87.0, 93.97804728032882)
+[22:14:48] [Server thread/INFO]: Syncing config to jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838)
+[22:14:48] [Server thread/INFO]: Loading config from file...
+[22:14:48] [Server thread/INFO]: jaylvssae joined the game
+[22:14:48] [Server thread/INFO]: [voicechat] Received secret request of jaylvssae (18)
+[22:14:48] [Server thread/INFO]: [voicechat] Sent secret to jaylvssae
+[22:15:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:15:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b238b883-4c36-36fb-9f1a-3e83b3c02838
+[22:15:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player jaylvssae (b238b883-4c36-36fb-9f1a-3e83b3c02838) successfully connected to voice chat
+[22:15:36] [Server thread/INFO]: jaylvssae lost connection: Timed out
+[22:15:36] [Server thread/INFO]: jaylvssae left the game
+[22:15:36] [Server thread/INFO]: [voicechat] Disconnecting client jaylvssae
