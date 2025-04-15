@@ -22,12 +22,13 @@
     "breakMangroveRoots": true,
     "searchAreaRadius": -1,
     "allowedAdjacentBlocks": [],
-    "adjacentStopMode": "STOP_ALL"
+    "adjacentStopMode": "STOP_ALL",
+    "spawnItemsAtBreakPoint": false
   },
   "tools": {
     "allowed": [],
     "denied": [],
-    "preserve": false,
+    "durabilityMode": "NORMAL",
     "ignoreTools": false,
     "damageMultiplicand": 1.0,
     "damageRounding": "ROUND_DOWN",
@@ -38,9 +39,6 @@
     "allowedTags": []
   },
   "enchantment": {
-    "registerEnchant": false,
-    "registerSpecificEnchant": false,
-    "hideEnchant": false,
     "requireEnchantment": false
   },
   "sneakMode": "SNEAK_DISABLE",
