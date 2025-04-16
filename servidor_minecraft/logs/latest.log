@@ -602,3 +602,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [00:06:02] [Server thread/INFO]: [Not Secure] [Server] XDDDDD
 [00:07:11] [Server thread/INFO]: LivioG lost connection: Disconnected
 [00:07:11] [Server thread/INFO]: LivioG left the game
+[00:11:52] [Server thread/INFO]: [Not Secure] [Server] hello
+[00:11:54] [Server thread/INFO]: Stopping the server
+[00:11:54] [Server thread/INFO]: Stopping server
+[00:11:54] [Server thread/INFO]: Saving players
+[00:11:54] [Server thread/INFO]: Saving worlds
+[00:11:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:11:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[00:11:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:11:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:11:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[00:11:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:11:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[00:11:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:11:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:11:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[00:11:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:11:54] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
