@@ -2786,6 +2786,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-04-16 03:51:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2025-04-16 03:08:59 +0000"
