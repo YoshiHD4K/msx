@@ -68,6 +68,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "spider_nest": "2025-04-16 02:33:53 +0000",
       "field": "2025-04-16 00:06:48 +0000",
       "seasonal_forest": "2025-04-16 02:28:29 +0000",
       "shrubland": "2025-04-16 01:43:26 +0000",
@@ -2216,78 +2217,143 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-16 02:29:08 +0000",
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_cornflower": "2025-04-16 02:31:30 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_oxeye_daisy": "2025-04-16 02:31:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_oxeye_daisy": "2025-04-16 02:31:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_feather": "2025-04-16 02:35:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_feather": "2025-04-16 02:35:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_bow": "2025-04-16 02:37:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "betternether:recipes/transportation/crimson_chest_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 02:29:08 +0000"
+      "has_chest": "2025-04-16 02:39:40 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-16 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-16 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-16 02:44:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

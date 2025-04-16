@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-16 02:39:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -165,6 +171,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-04-16 01:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -225,6 +237,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-16 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
     },
     "done": true
   },
@@ -372,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-16 02:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-16 01:43:09 +0000"
@@ -414,6 +438,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-04-16 01:43:09 +0000"
@@ -438,6 +468,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/birch_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -459,6 +495,12 @@
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
     },
     "done": true
   },
@@ -552,6 +594,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-16 02:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:07:45 +0000"
@@ -573,6 +621,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
     },
     "done": true
   },
@@ -600,6 +654,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-16 01:47:20 +0000"
@@ -609,6 +669,12 @@
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -645,6 +711,12 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -810,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 02:35:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_reed_gate": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -918,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-16 02:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:07:45 +0000"
@@ -939,6 +1023,12 @@
   "betternether:recipes/decorations/dark_oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
     },
     "done": true
   },
@@ -975,6 +1065,12 @@
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -1032,6 +1128,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-16 02:36:52 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_sofa": {
     "criteria": {
       "has_wool": "2025-04-16 01:45:24 +0000"
@@ -1044,9 +1146,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-04-16 01:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -1098,6 +1212,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-16 02:36:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -1113,6 +1239,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-16 01:50:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 02:36:52 +0000"
     },
     "done": true
   },
@@ -1172,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-16 02:36:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/spruce_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -1199,6 +1337,12 @@
   "betternether:recipes/decorations/wart_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:38:21 +0000"
     },
     "done": true
   },
@@ -1259,6 +1403,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-16 01:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -1388,6 +1538,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 02:36:52 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2025-04-16 01:57:41 +0000"
@@ -1409,6 +1565,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-16 01:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:36:59 +0000"
     },
     "done": true
   },
@@ -1487,6 +1649,12 @@
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2025-04-16 01:50:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-04-16 02:36:37 +0000"
     },
     "done": true
   },
