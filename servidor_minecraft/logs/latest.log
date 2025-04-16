@@ -1,15 +1,15 @@
-[01:20:10] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.13
-[01:20:11] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[04:15:06] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.13
+[04:15:06] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[01:20:11] [ForkJoinPool-1-worker-2/WARN]: Mod tool_trims uses the version 2.2.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:20:12] [main/WARN]: Warnings were found!
+[04:15:06] [ForkJoinPool-1-worker-2/WARN]: Mod tool_trims uses the version 2.2.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[04:15:07] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Spawn Animations' (spawnanimations) 1.10+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Spawn Animations' (spawnanimations) 1.10+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
-[01:20:12] [main/INFO]: Loading 180 mods:
+[04:15:07] [main/INFO]: Loading 180 mods:
 	- accessories 1.1.0-beta.36+1.21.1
 	- advancednetherite 2.2.1-1.21.1
 	- animated-logo 1.0
@@ -221,182 +221,182 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.1-Fabric-5.1.1
 	   \-- org_reflections_reflections 0.10.2
-[01:20:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:20:13] [main/INFO]: Compatibility level set to JAVA_17
-[01:20:13] [main/INFO]: Compatibility level set to JAVA_21
-[01:20:14] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:20:14] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:20:14] [main/WARN]: Error loading class: net/minecraft/class_425 (java.lang.ClassNotFoundException: net/minecraft/class_425)
-[01:20:14] [main/WARN]: @Mixin target net.minecraft.class_425 was not found animated-logo.mixins.json:SplashOverlayMixin from mod animated-logo
-[01:20:15] [main/INFO]:  Isaiah's Lucky Blocks Mod
-[01:20:15] [main/INFO]:  Minecraft 1.21.1
-[01:20:15] [main/INFO]: Applied mixin: MixinBlockItem...
-[01:20:15] [main/INFO]: Applied mixin: MixinServerPlayerInteractionManager...
-[01:20:15] [main/INFO]: Applied mixin: MixinRecipeManager2...
-[01:20:15] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[01:20:15] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[01:20:15] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[01:20:15] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[01:20:16] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[01:20:16] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[01:20:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:20:45] [main/INFO]: Registering Listeners!
-[01:20:45] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[01:20:45] [main/INFO]: Initializing mod
-[01:20:47] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[01:20:47] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[01:20:47] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[01:20:47] [main/ERROR]: No data fixer registered for artifacts:mimic
-[01:20:47] [main/INFO]: Reflections took 99 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:47] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:47] [main/INFO]: Reflections took 14 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:47] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:47] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:47] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:47] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
-[01:20:47] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 1 values
-[01:20:47] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:48] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:48] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
-[01:20:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:20:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
-[01:20:48] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[01:20:48] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[01:20:49] [main/INFO]: Loading Collective version 8.1.
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:shattered
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:sludge
-[01:20:49] [main/ERROR]: No data fixer registered for deeperdarker:stalker
-[01:20:49] [main/ERROR]: No data fixer registered for crystallized_amber
-[01:20:49] [main/ERROR]: No data fixer registered for sculk_jaw
-[01:20:49] [main/INFO]: ExpandAbility here, who dis?
-[01:20:50] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[01:20:50] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[01:20:50] [main/ERROR]: No data fixer registered for anomaly
-[01:20:50] [main/INFO]: Initializing Gravestones
-[01:20:50] [main/INFO]: Hello Fabric world!
-[01:20:51] [main/INFO]: Constructing common components for magnumtorch:main
-[01:20:51] [main/INFO]: Hello Fabric world!
-[01:20:51] [main/INFO]: chyz: who would've thought that if you don't summon satan things go better. you can put that in wisdom if you like
-[01:20:51] [main/INFO]: Initializing PneumonoCore
-[01:20:51] [main/INFO]: Constructing common components for puzzleslib:main
-[01:20:52] [main/INFO]: Initializing Silk
-[01:20:53] [main/INFO]: [Spawn Animations] MidnightLib detected!
-[01:20:53] [main/INFO]: [Spawn Animations] Registering server started event...
-[01:20:53] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
-[01:20:53] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01:20:53] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[01:20:53] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[01:20:53] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[01:20:53] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[01:20:53] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[01:20:53] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[01:20:55] [main/ERROR]: No data fixer registered for 
-[01:20:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[01:20:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[01:20:56] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[01:20:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[01:20:56] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
-[01:20:56] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
-[01:20:56] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
-[01:20:57] [main/INFO]: Reflections took 28 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:57] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[01:20:57] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:57] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:57] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:57] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[01:20:57] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
-[01:20:57] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01:20:57] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01:20:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:20:58] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
-[01:20:58] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
-[01:20:58] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
-[01:20:58] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
-[01:20:58] [main/INFO]: Running Pre Patchers on ./world/.
-[01:20:59] [main/INFO]: Everything up to date
-[01:20:59] [main/INFO]: Processing wover.datapack.registry Entrypoints
-[01:20:59] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
-[01:20:59] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
-[01:20:59] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
-[01:20:59] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
-[01:20:59] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
-[01:21:01] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5f7e6611)
-[01:21:01] [main/INFO]: Unable to build Biome List yet
-[01:21:01] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:01] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (5f5efaff)
-[01:21:01] [main/INFO]: Unable to build Biome List yet
-[01:21:01] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:01] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (73702854)
-[01:21:01] [main/INFO]: Unable to build Biome List yet
-[01:21:01] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:01] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (649a0e15)
-[01:21:01] [main/INFO]: Unable to build Biome List yet
-[01:21:01] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:01] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (161ea745)
-[01:21:01] [main/INFO]: Unable to build Biome List yet
-[01:21:01] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:01] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (332015dc)
-[01:21:01] [main/INFO]: Unable to build Biome List yet
-[01:21:01] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:01] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[01:21:02] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (30537358)
-[01:21:02] [main/INFO]: Unable to build Biome List yet
-[01:21:02] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:02] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:02] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7b3ba72c)
-[01:21:02] [main/INFO]: Unable to build Biome List yet
-[01:21:02] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:02] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:03] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[01:21:03] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[01:21:03] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[01:21:03] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[01:21:04] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[01:21:04] [Worker-Main-1/ERROR]: Unable to building bartering table
-[01:21:06] [main/INFO]: Disabling Recipe: bclib:test_star
-[01:21:06] [main/INFO]: Moving luckyblock recipes to custom map.
-[01:21:07] [main/INFO]: Loaded 3131 recipes
-[01:21:07] [main/INFO]: Loading luckyblock recipes.
-[01:21:07] [main/INFO]: EE IS NILL!!: luckyblocks:player_head
-[01:21:07] [main/INFO]: Loaded 3142 recipes
-[01:21:07] [main/INFO]: Added 0 recipes in 5ms
-[01:21:07] [main/ERROR]: Failed to load function better_babies:entity/loadup
+[04:15:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:15:07] [main/INFO]: Compatibility level set to JAVA_17
+[04:15:07] [main/INFO]: Compatibility level set to JAVA_21
+[04:15:08] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:15:08] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:15:08] [main/WARN]: Error loading class: net/minecraft/class_425 (java.lang.ClassNotFoundException: net/minecraft/class_425)
+[04:15:08] [main/WARN]: @Mixin target net.minecraft.class_425 was not found animated-logo.mixins.json:SplashOverlayMixin from mod animated-logo
+[04:15:09] [main/INFO]:  Isaiah's Lucky Blocks Mod
+[04:15:09] [main/INFO]:  Minecraft 1.21.1
+[04:15:09] [main/INFO]: Applied mixin: MixinBlockItem...
+[04:15:09] [main/INFO]: Applied mixin: MixinServerPlayerInteractionManager...
+[04:15:09] [main/INFO]: Applied mixin: MixinRecipeManager2...
+[04:15:09] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[04:15:09] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[04:15:09] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[04:15:09] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[04:15:09] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[04:15:09] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[04:15:09] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:15:25] [main/INFO]: Registering Listeners!
+[04:15:25] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[04:15:25] [main/INFO]: Initializing mod
+[04:15:26] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[04:15:26] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[04:15:26] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[04:15:26] [main/ERROR]: No data fixer registered for artifacts:mimic
+[04:15:26] [main/INFO]: Reflections took 81 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:26] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:26] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:26] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:26] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[04:15:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[04:15:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:26] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
+[04:15:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[04:15:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[04:15:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:26] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:26] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[04:15:27] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[04:15:27] [main/INFO]: Loading Collective version 8.1.
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[04:15:27] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[04:15:27] [main/ERROR]: No data fixer registered for crystallized_amber
+[04:15:27] [main/ERROR]: No data fixer registered for sculk_jaw
+[04:15:27] [main/INFO]: ExpandAbility here, who dis?
+[04:15:28] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[04:15:28] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[04:15:28] [main/ERROR]: No data fixer registered for anomaly
+[04:15:28] [main/INFO]: Initializing Gravestones
+[04:15:28] [main/INFO]: Hello Fabric world!
+[04:15:28] [main/INFO]: Constructing common components for magnumtorch:main
+[04:15:29] [main/INFO]: Hello Fabric world!
+[04:15:29] [main/INFO]: assume less - mald more
+[04:15:29] [main/INFO]: Initializing PneumonoCore
+[04:15:29] [main/INFO]: Constructing common components for puzzleslib:main
+[04:15:29] [main/INFO]: Initializing Silk
+[04:15:30] [main/INFO]: [Spawn Animations] MidnightLib detected!
+[04:15:30] [main/INFO]: [Spawn Animations] Registering server started event...
+[04:15:30] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[04:15:30] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04:15:30] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[04:15:30] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[04:15:30] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[04:15:30] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[04:15:30] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[04:15:30] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[04:15:31] [main/ERROR]: No data fixer registered for 
+[04:15:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[04:15:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[04:15:32] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[04:15:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[04:15:32] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
+[04:15:32] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
+[04:15:32] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[04:15:32] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:32] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
+[04:15:32] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:32] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:32] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:32] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[04:15:32] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[04:15:33] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[04:15:33] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[04:15:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:15:34] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[04:15:34] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
+[04:15:34] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
+[04:15:34] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
+[04:15:34] [main/INFO]: Running Pre Patchers on ./world/.
+[04:15:34] [main/INFO]: Everything up to date
+[04:15:34] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[04:15:34] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[04:15:34] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[04:15:34] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[04:15:34] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[04:15:34] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (2f71ec51)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4fbcd5e5)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (12a7865d)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (2fb3540)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (564192da)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (d3a0697)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (35f952bc)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:36] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (518d0b)
+[04:15:36] [main/INFO]: Unable to build Biome List yet
+[04:15:36] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:36] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:37] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[04:15:37] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[04:15:37] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[04:15:37] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[04:15:37] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[04:15:37] [Worker-Main-1/ERROR]: Unable to building bartering table
+[04:15:39] [main/INFO]: Disabling Recipe: bclib:test_star
+[04:15:39] [main/INFO]: Moving luckyblock recipes to custom map.
+[04:15:39] [main/INFO]: Loaded 3131 recipes
+[04:15:39] [main/INFO]: Loading luckyblock recipes.
+[04:15:39] [main/INFO]: EE IS NILL!!: luckyblocks:player_head
+[04:15:39] [main/INFO]: Loaded 3142 recipes
+[04:15:39] [main/INFO]: Added 0 recipes in 1ms
+[04:15:39] [main/ERROR]: Failed to load function better_babies:entity/loadup
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / data_api:flags/is_baby] at position 122: ...gs/is_baby<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -412,1646 +412,274 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 	at knot/net.minecraft.class_5349.method_29451(class_5349.java:89) ~[server-intermediary.jar:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[01:21:08] [main/WARN]: Found validation problems in advancement better_babies:player_interacted_with_entity/entities: 
+[04:15:40] [main/WARN]: Found validation problems in advancement better_babies:player_interacted_with_entity/entities: 
  at pet_mob.player[1]: Unknown condition table called data_api:flags/is_sneaking
-[01:21:08] [main/ERROR]: Couldn't load advancements: [better_babies:pack, minecraft:give_quest_trader_trade, minecraft:wander_add_map]
-[01:21:08] [main/INFO]: Loaded 3295 advancements
-[01:21:08] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:wolf_temptables
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6606c2d4)
-[01:21:12] [main/INFO]: Added 11 Biomes
-[01:21:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[01:21:12] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:12] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7f821092)
-[01:21:12] [main/INFO]: Added 2 Biomes
-[01:21:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[01:21:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[01:21:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[01:21:12] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:12] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6606c2d4)
-[01:21:12] [main/INFO]: Added 11 Biomes
-[01:21:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[01:21:12] [main/INFO]: Enforcing Correct Generator for minecraft:the_nether.
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6606c2d4)
-[01:21:12] [main/INFO]: Added 11 Biomes
-[01:21:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[01:21:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[01:21:12] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:12] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[01:21:12] [main/INFO]: Added 4 biomes to wover:is_end/highland in 12.04 ms
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7f821092)
-[01:21:12] [main/INFO]: Added 2 Biomes
-[01:21:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[01:21:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[01:21:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7b3ba72c)
-[01:21:12] [main/INFO]: Added 2 Biomes
-[01:21:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[01:21:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[01:21:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[01:21:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7b3ba72c)
-[01:21:12] [main/INFO]: Added 2 Biomes
-[01:21:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[01:21:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[01:21:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[01:21:12] [main/INFO]: Loading World with initially configured Dimensions.
-[01:21:13] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6606c2d4)
-[01:21:13] [main/INFO]: Added 11 Biomes
-[01:21:13] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[01:21:13] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[01:21:13] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7b3ba72c)
-[01:21:13] [main/INFO]: Added 2 Biomes
-[01:21:13] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[01:21:13] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[01:21:13] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[01:21:13] [main/INFO]: Applied 56 biome modifications and added 16 tags to 18 of 177 biomes in 48.30 ms
-[01:21:14] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01:21:14] [main/INFO]: Applied 472 biome modifications to 114 of 177 new biomes in 336.8 ms
-[01:21:14] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[01:21:14] [Server thread/INFO]: Dispatching loading event for config magnumtorch-server.toml
-[01:21:15] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2723 bytes (in 1 string chunks with the size of 10000)
-[01:21:15] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:21:15] [Server thread/INFO]: Loading properties
-[01:21:15] [Server thread/INFO]: Default game type: SURVIVAL
-[01:21:15] [Server thread/INFO]: Generating keypair
-[01:21:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:21:15] [Server thread/INFO]: Using epoll channel type
-[01:21:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:21:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:21:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:21:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:21:15] [Server thread/INFO]: Preparing level "world"
-[01:21:16] [Server thread/INFO]: World Dimensions: 
- - minecraft:the_nether: 
-     WoVer - Chunk Generator (2460b155)
-         preset     = wover:normal
-         noise      = minecraft:nether
-         features   = minecraft(41), betternether(95), incendium(36), biomesoplenty(27)
-     WoVer - Nether BiomeSource (6606c2d4)
-         biomes     = 40
-         namespaces = betternether(22), minecraft(5), incendium(8), biomesoplenty(5)
-         seed       = 0
-         height     = 192
-         config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
- - the_bumblezone:the_bumblezone: 
-     BzChunkGenerator (38ecfa60)
-         preset     = none
-         noise      = the_bumblezone:bz_noise_settings
-         features   = the_bumblezone(41)
-     BzBiomeSource (792e9c0e)
-         biomes     = 9
-         namespaces = the_bumblezone(9)
- - deeperdarker:otherside: 
-     class_3754 (7f0535a9)
-         preset     = none
-         noise      = deeperdarker:otherside
-         features   = minecraft(2), deeperdarker(44)
-     class_4766 (77b895f5)
-         biomes     = 4
-         namespaces = deeperdarker(4)
+[04:15:40] [main/ERROR]: Couldn't load advancements: [better_babies:pack, minecraft:give_quest_trader_trade, minecraft:wander_add_map]
+[04:15:40] [main/INFO]: Loaded 3295 advancements
+[04:15:40] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:wolf_temptables
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (57a05cf3)
+[04:15:43] [main/INFO]: Added 11 Biomes
+[04:15:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[04:15:43] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:43] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5e47a156)
+[04:15:43] [main/INFO]: Added 2 Biomes
+[04:15:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[04:15:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[04:15:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[04:15:43] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:43] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[04:15:43] [main/INFO]: Added 4 biomes to wover:is_end/highland in 4.638 ms
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5e47a156)
+[04:15:43] [main/INFO]: Added 2 Biomes
+[04:15:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[04:15:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[04:15:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (518d0b)
+[04:15:43] [main/INFO]: Added 2 Biomes
+[04:15:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[04:15:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[04:15:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (518d0b)
+[04:15:43] [main/INFO]: Added 2 Biomes
+[04:15:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[04:15:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[04:15:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (57a05cf3)
+[04:15:43] [main/INFO]: Added 11 Biomes
+[04:15:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[04:15:43] [main/INFO]: Enforcing Correct Generator for minecraft:the_nether.
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (57a05cf3)
+[04:15:43] [main/INFO]: Added 11 Biomes
+[04:15:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[04:15:43] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:43] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[04:15:43] [main/INFO]: Loading World with initially configured Dimensions.
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (57a05cf3)
+[04:15:43] [main/INFO]: Added 11 Biomes
+[04:15:43] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[04:15:43] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[04:15:43] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (518d0b)
+[04:15:43] [main/INFO]: Added 2 Biomes
+[04:15:43] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[04:15:43] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[04:15:43] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[04:15:43] [main/INFO]: Applied 56 biome modifications and added 16 tags to 18 of 177 biomes in 34.47 ms
+[04:15:44] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04:15:44] [main/INFO]: Applied 472 biome modifications to 114 of 177 new biomes in 206.1 ms
+[04:15:44] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[04:15:44] [Server thread/INFO]: Dispatching loading event for config magnumtorch-server.toml
+[04:15:45] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2723 bytes (in 1 string chunks with the size of 10000)
+[04:15:45] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:15:45] [Server thread/INFO]: Loading properties
+[04:15:45] [Server thread/INFO]: Default game type: SURVIVAL
+[04:15:45] [Server thread/INFO]: Generating keypair
+[04:15:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:15:45] [Server thread/INFO]: Using epoll channel type
+[04:15:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:15:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:15:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:15:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:15:45] [Server thread/INFO]: Preparing level "world"
+[04:15:45] [Server thread/INFO]: World Dimensions: 
  - minecraft:the_end: 
-     WoVer - Chunk Generator (456dcd63)
+     WoVer - Chunk Generator (7e8b6889)
          preset     = wover:normal
          noise      = minecraft:end
          features   = minecraft(5), biomesoplenty(17)
-     WoVer - The End  BiomeSource (7b3ba72c)
+     WoVer - The End  BiomeSource (518d0b)
          biomes     = 8
          namespaces = biomesoplenty(3), minecraft(5)
          seed       = 7210562256221756153
          height     = 128
          deciders   = 0
          config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
+ - minecraft:the_nether: 
+     WoVer - Chunk Generator (7672b229)
+         preset     = wover:normal
+         noise      = minecraft:nether
+         features   = minecraft(41), betternether(95), incendium(36), biomesoplenty(27)
+     WoVer - Nether BiomeSource (57a05cf3)
+         biomes     = 40
+         namespaces = betternether(22), incendium(8), minecraft(5), biomesoplenty(5)
+         seed       = 0
+         height     = 192
+         config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
+ - deeperdarker:otherside: 
+     class_3754 (7e06b744)
+         preset     = none
+         noise      = deeperdarker:otherside
+         features   = minecraft(2), deeperdarker(44)
+     class_4766 (2a08c751)
+         biomes     = 4
+         namespaces = deeperdarker(4)
+ - the_bumblezone:the_bumblezone: 
+     BzChunkGenerator (5019da71)
+         preset     = none
+         noise      = the_bumblezone:bz_noise_settings
+         features   = the_bumblezone(41)
+     BzBiomeSource (6feed7d9)
+         biomes     = 9
+         namespaces = the_bumblezone(9)
  - minecraft:overworld: 
-     class_3754 (35304aea)
+     class_3754 (1586adde)
          preset     = minecraft:normal
          noise      = minecraft:overworld
          features   = minecraft(148), yungsextras(62), yungsbridges(1), biomesoplenty(203), artifacts(1)
-     class_4766 (29fec88)
+     class_4766 (ab76818)
          biomes     = 114
          namespaces = minecraft(53), biomesoplenty(61)
-[01:21:16] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 147 (2.822 ms) using WoVer - Nether BiomeSource (6606c2d4)
+[04:15:45] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 147 (1.171 ms) using WoVer - Nether BiomeSource (57a05cf3)
     biomes     = 40
-    namespaces = betternether(22), minecraft(5), incendium(8), biomesoplenty(5)
+    namespaces = betternether(22), incendium(8), minecraft(5), biomesoplenty(5)
     seed       = 0
     height     = 192
     config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[01:21:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:21:40] [Server thread/INFO]: Time elapsed: 9431 ms
-[01:21:40] [Server thread/INFO]: Done (24.602s)! For help, type "help"
-[01:21:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[01:21:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[01:21:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[01:21:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[01:21:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[01:21:40] [Server thread/INFO]: [Spawn Animations] Sending global config to server...
-[01:21:40] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01:21:40] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01:21:57] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:54550] logged in with entity id 49 at (53.97616259200612, 113.0, 832.0890272205332)
-[01:21:57] [Server thread/INFO]: Sending server config values to client
-[01:21:57] [Server thread/INFO]: Creating new config sync packet
-[01:21:57] [Server thread/INFO]: Loading config from file...
-[01:21:57] [Server thread/INFO]: YoshiHD4K joined the game
-[01:21:58] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
-[01:21:59] [Server thread/INFO]: Receiving client config
-[01:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4689ms or 93 ticks behind
-[01:28:04] [Thread-22/WARN]: Failed to fetch skin: not found
-[01:28:06] [Server thread/INFO]: Luisillo0516[/100.113.11.119:63338] logged in with entity id 902 at (15.804603246110803, 111.0, 863.6029797907684)
-[01:28:06] [Server thread/INFO]: Sending server config values to client
-[01:28:06] [Server thread/INFO]: Creating new config sync packet
-[01:28:06] [Server thread/INFO]: Loading config from file...
-[01:28:06] [Server thread/INFO]: Luisillo0516 joined the game
-[01:28:06] [Server thread/INFO]: [showmeyourskin] Client of Luisillo0516 accepted server config.
-[01:28:07] [Server thread/INFO]: Receiving client config
-[01:28:18] [Server thread/INFO]: YoshiHD4K lost connection: Disconnected
-[01:28:18] [Server thread/INFO]: YoshiHD4K left the game
-[01:29:23] [Thread-23/WARN]: Failed to fetch skin: not found
-[01:29:25] [Server thread/INFO]: j_leoneltorres[/100.85.97.56:55165] logged in with entity id 1135 at (5.5, 106.0, 1.5)
-[01:29:25] [Server thread/INFO]: Sending server config values to client
-[01:29:25] [Server thread/INFO]: Creating new config sync packet
-[01:29:25] [Server thread/INFO]: Loading config from file...
-[01:29:25] [Server thread/INFO]: j_leoneltorres joined the game
-[01:29:25] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
-[01:29:26] [Server thread/INFO]: Receiving client config
-[01:29:29] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:54596] logged in with entity id 1384 at (56.48969190952955, 113.0, 831.3072664768086)
-[01:29:29] [Server thread/INFO]: Sending server config values to client
-[01:29:29] [Server thread/INFO]: Creating new config sync packet
-[01:29:29] [Server thread/INFO]: Loading config from file...
-[01:29:29] [Server thread/INFO]: YoshiHD4K joined the game
-[01:29:30] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
-[01:29:30] [Server thread/INFO]: Receiving client config
-[01:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:30:21] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
-[01:30:53] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:31:27] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:31:45] [Server thread/INFO]: [YoshiHD4K: Skin changed]
-[01:32:10] [Server thread/INFO]: [Not Secure] <YoshiHD4K> ./skin set mojang (Nombre de la cuenta)
-[01:32:47] [Server thread/INFO]: [Luisillo0516: Applied skin changes for j_leoneltorres]
-[01:33:05] [Server thread/INFO]: [Luisillo0516: Applied skin changes for j_leoneltorres]
-[01:33:11] [Server thread/INFO]: [Not Secure] <YoshiHD4K> https://es.namemc.com
-[01:33:23] [Server thread/INFO]: [YoshiHD4K: Made j_leoneltorres a server operator]
-[01:34:28] [Server thread/INFO]: j_leoneltorres has made the advancement [Best Friends Forever]
-[01:37:33] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:38:09] [Server thread/INFO]: [Luisillo0516: No skin changes]
-[01:38:52] [Server thread/INFO]: [Luisillo0516: No skin changes]
-[01:39:34] [Thread-45/WARN]: Failed to fetch skin: not found
-[01:39:37] [Server thread/INFO]: LivioG[/100.64.175.52:57088] logged in with entity id 2970 at (-26.497526799991455, 115.0, 87.55107220782972)
-[01:39:37] [Server thread/INFO]: Sending server config values to client
-[01:39:37] [Server thread/INFO]: Creating new config sync packet
-[01:39:37] [Server thread/INFO]: Loading config from file...
-[01:39:37] [Server thread/INFO]: LivioG joined the game
-[01:39:37] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:39:38] [Server thread/INFO]: Receiving client config
-[01:39:40] [Server thread/INFO]: [YoshiHD4K: Skin changed]
-[01:39:48] [Server thread/INFO]: [YoshiHD4K: Applied skin changes for j_leoneltorres]
-[01:40:07] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:40:38] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:40:50] [Server thread/WARN]: LivioG moved too quickly! 0.9031881076105179,-2.0,-10.038110397332247
-[01:41:18] [Server thread/INFO]: [YoshiHD4K: Applied skin changes for j_leoneltorres]
-[01:41:26] [Server thread/WARN]: LivioG moved too quickly! 7.050604779282764,0.9247991098810502,-7.393212347679448
-[01:41:35] [Server thread/INFO]: [YoshiHD4K: Skin changed]
-[01:41:52] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:42:14] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:42:52] [Server thread/INFO]: SEBAXWARRIOR[/100.77.245.96:49595] logged in with entity id 4367 at (51.93302711200478, 112.0, 839.5216800315463)
-[01:42:52] [Server thread/INFO]: Sending server config values to client
-[01:42:52] [Server thread/INFO]: Creating new config sync packet
-[01:42:52] [Server thread/INFO]: Loading config from file...
-[01:42:52] [Server thread/INFO]: SEBAXWARRIOR joined the game
-[01:42:52] [Server thread/INFO]: [showmeyourskin] Client of SEBAXWARRIOR accepted server config.
-[01:42:54] [Server thread/INFO]: Receiving client config
-[01:43:11] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
-[01:43:26] [Server thread/INFO]: [YoshiHD4K: Teleported LivioG to YoshiHD4K]
-[01:44:42] [Server thread/INFO]: [YoshiHD4K: Applied skin changes for LivioG]
-[01:45:10] [Server thread/INFO]: [YoshiHD4K: Applied skin changes for LivioG]
-[01:45:38] [Server thread/INFO]: LivioG lost connection: Timed out
-[01:45:38] [Server thread/INFO]: LivioG left the game
-[01:45:38] [Server thread/WARN]: handleDisconnection() called twice
-[01:45:45] [Server thread/INFO]: LivioG[/100.64.175.52:57290] logged in with entity id 4841 at (4.494852618555726, 111.0, 829.445593229242)
-[01:45:45] [Server thread/INFO]: Sending server config values to client
-[01:45:45] [Server thread/INFO]: Creating new config sync packet
-[01:45:45] [Server thread/INFO]: Loading config from file...
-[01:45:45] [Server thread/INFO]: LivioG joined the game
-[01:45:45] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:45:45] [Server thread/INFO]: Receiving client config
-[01:46:37] [Server thread/WARN]: LivioG moved too quickly! -5.966652813920675,2.249187078744683,-7.871378013780372
-[01:46:39] [Server thread/INFO]: [Luisillo0516: Applied skin changes for Luisillo0516]
-[01:47:01] [Server thread/WARN]: LivioG moved too quickly! 9.429174655444946,0.0,3.576770176416403
-[01:47:05] [Server thread/INFO]: [Not Secure] <Luisillo0516> Eteer3K
-[01:47:49] [Server thread/WARN]: LivioG moved too quickly! 7.124408198077376,1.0,-7.193250065200573
-[01:48:05] [Server thread/INFO]: [Not Secure] <Luisillo0516> PikaHB
-[01:48:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:48:33] [Server thread/INFO]: LivioG lost connection: Flying is not enabled on this server
-[01:48:33] [Server thread/INFO]: LivioG left the game
-[01:48:39] [Server thread/INFO]: LivioG[/100.64.175.52:57316] logged in with entity id 5565 at (73.69999998807907, 113.16610926093821, 798.7231383255485)
-[01:48:39] [Server thread/INFO]: Sending server config values to client
-[01:48:39] [Server thread/INFO]: Creating new config sync packet
-[01:48:39] [Server thread/INFO]: Loading config from file...
-[01:48:39] [Server thread/INFO]: LivioG joined the game
-[01:48:39] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:48:39] [Server thread/INFO]: Receiving client config
-[01:49:21] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 142.500000, 70.500000, 33.500000]
-[01:49:21] [Server thread/WARN]: LivioG moved too quickly! -2.1790481021645007,0.16610926093821377,9.841767336100588
-[01:49:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:49:26] [Server thread/INFO]: LivioG lost connection: Flying is not enabled on this server
-[01:49:26] [Server thread/INFO]: LivioG left the game
-[01:49:33] [Server thread/INFO]: LivioG[/100.64.175.52:57335] logged in with entity id 6162 at (66.8182803384717, 113.00133597911214, 829.7979304329797)
-[01:49:33] [Server thread/INFO]: Sending server config values to client
-[01:49:33] [Server thread/INFO]: Creating new config sync packet
-[01:49:33] [Server thread/INFO]: Loading config from file...
-[01:49:33] [Server thread/INFO]: LivioG joined the game
-[01:49:33] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:49:33] [Server thread/INFO]: Receiving client config
-[01:49:54] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=132, y=68, z=-1}) doesn't have enough leaves around top most log
-[01:49:56] [Server thread/INFO]: [YoshiHD4K: Applied skin changes for Luisillo0516]
-[01:50:14] [Server thread/WARN]: LivioG moved too quickly! 4.770367066755028,0.6319031399820005,8.962890107616545
-[01:50:14] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to Luisillo0516]
-[01:50:24] [Server thread/WARN]: LivioG moved too quickly! 6.990814532296056,4.249187078744683,-5.964977855211259
-[01:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01:50:47] [Server thread/WARN]: LivioG moved too quickly! -10.07632029812796,-0.3693736602695026,2.2074595713172585
-[01:51:03] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to Luisillo0516]
-[01:51:18] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=152, y=63, z=-47}) doesn't have enough leaves around top most log
-[01:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[01:51:50] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to LivioG]
-[01:52:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:52:07] [Server thread/INFO]: LivioG lost connection: Flying is not enabled on this server
-[01:52:07] [Server thread/INFO]: LivioG left the game
-[01:52:11] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 54.500000, 112.500000, 838.500000]
-[01:52:14] [Server thread/INFO]: LivioG[/100.64.175.52:57544] logged in with entity id 7286 at (69.41650018695633, 113.16610926093821, 835.9770293484124)
-[01:52:14] [Server thread/INFO]: Sending server config values to client
-[01:52:14] [Server thread/INFO]: Creating new config sync packet
-[01:52:14] [Server thread/INFO]: Loading config from file...
-[01:52:14] [Server thread/INFO]: LivioG joined the game
-[01:52:14] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:52:14] [Server thread/INFO]: Receiving client config
-[01:53:04] [Server thread/INFO]: LivioG lost connection: Timed out
-[01:53:04] [Server thread/INFO]: LivioG left the game
-[01:53:17] [Server thread/INFO]: LivioG[/100.64.175.52:57775] logged in with entity id 7866 at (-5.661176840015071, 113.0, 846.4829679749278)
-[01:53:17] [Server thread/INFO]: Sending server config values to client
-[01:53:17] [Server thread/INFO]: Creating new config sync packet
-[01:53:17] [Server thread/INFO]: Loading config from file...
-[01:53:17] [Server thread/INFO]: LivioG joined the game
-[01:53:17] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:53:18] [Server thread/INFO]: Receiving client config
-[01:53:28] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to SEBAXWARRIOR]
-[01:55:55] [Server thread/WARN]: LivioG moved too quickly! 4.703275947445729,0.0,-8.877253685880873
-[01:58:25] [Server thread/INFO]: LivioG lost connection: Disconnected
-[01:58:25] [Server thread/INFO]: LivioG left the game
-[01:58:49] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 56.500000, 112.500000, 839.500000]
-[01:58:59] [Server thread/INFO]: LivioG[/100.64.175.52:58295] logged in with entity id 8951 at (-26.857665498183408, 112.0, 795.5105684629332)
-[01:58:59] [Server thread/INFO]: Sending server config values to client
-[01:58:59] [Server thread/INFO]: Creating new config sync packet
-[01:58:59] [Server thread/INFO]: Loading config from file...
-[01:58:59] [Server thread/INFO]: LivioG joined the game
-[01:58:59] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:58:59] [Server thread/INFO]: Receiving client config
-[01:59:11] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-29, y=111, z=796}) doesn't have enough leaves around top most log
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:21] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:22] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:23] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:24] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:25] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:26] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:27] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:28] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:29] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:30] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:31] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:32] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:33] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:34] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:35] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:36] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:37] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:38] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:39] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:40] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:41] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/WARN]: LivioG was kicked for floating too long!
-[01:59:42] [Server thread/INFO]: LivioG lost connection: Flying is not enabled on this server
-[01:59:42] [Server thread/INFO]: LivioG left the game
-[01:59:51] [Server thread/INFO]: LivioG[/100.64.175.52:58310] logged in with entity id 9088 at (-28.877752400190985, 112.25220334025373, 796.4861802344888)
-[01:59:51] [Server thread/INFO]: Sending server config values to client
-[01:59:51] [Server thread/INFO]: Creating new config sync packet
-[01:59:51] [Server thread/INFO]: Loading config from file...
-[01:59:52] [Server thread/INFO]: LivioG joined the game
-[01:59:52] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[01:59:52] [Server thread/INFO]: Receiving client config
-[02:00:02] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-35, y=110, z=796}) doesn't have enough leaves around top most log
-[02:00:18] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 53.500000, 57.500000, -1969.500000]
-[02:00:22] [Server thread/WARN]: LivioG moved too quickly! 1.2451671814084975,-1.1661092609382138,-10.122702228656635
-[02:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
-[02:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[02:00:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:00:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:00:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:01] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=25, y=118, z=674}) doesn't have enough leaves around top most log
-[02:01:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=30, y=117, z=668}) doesn't have enough leaves around top most log
-[02:01:13] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=34, y=118, z=666}) doesn't have enough leaves around top most log
-[02:01:19] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=30, y=117, z=658}) doesn't have enough leaves around top most log
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:01:27] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=37, y=121, z=652}) doesn't have enough leaves around top most log
-[02:02:10] [Server thread/INFO]: LivioG has made the advancement [Stone Age]
-[02:02:13] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
-[02:03:48] [Server thread/INFO]: LivioG has made the advancement [Getting an Upgrade]
-[02:04:11] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
-[02:04:11] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
-[02:04:11] [Server thread/ERROR]: 
-java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
-	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02:05:13] [Server thread/INFO]: YoshiHD4K was blown up by Creeper
-[02:05:13] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (78, 56, 841)
-[02:07:23] [Server thread/INFO]: LivioG fell from a high place
-[02:07:23] [Server thread/INFO]: Placed LivioG's Gravestone at (93, 17, 572)
-[02:07:45] [Server thread/INFO]: j_leoneltorres has made the advancement [Stone Age]
-[02:08:43] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 77.500000, 56.500000, 841.500000]
-[02:08:46] [Server thread/INFO]: YoshiHD4K has found their grave at (78, 56, 841)
-[02:08:49] [Server thread/INFO]: YoshiHD4K was slain by Zombie
-[02:08:49] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (77, 56, 841)
-[02:08:57] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 77.500000, 56.500000, 841.500000]
-[02:08:59] [Server thread/INFO]: YoshiHD4K has found their grave at (77, 56, 841)
-[02:10:21] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -175.500000, 67.500000, 255.500000]
-[02:10:52] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 155.500000, 118.500000, 361.500000]
-[02:10:58] [Server thread/INFO]: j_leoneltorres has made the advancement [Getting an Upgrade]
-[02:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[02:11:05] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 77.500000, 120.500000, 853.500000]
-[02:11:10] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 57.500000, 119.500000, 833.500000]
-[02:11:17] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 72.500000, 111.500000, 842.500000]
-[02:11:22] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 54.500000, 112.500000, 840.500000]
-[02:11:28] [Server thread/INFO]: LivioG was shot by Skeleton
-[02:11:28] [Server thread/INFO]: Placed LivioG's Gravestone at (116, -4, 543)
-[02:12:05] [Server thread/WARN]: LivioG moved too quickly! 2.4735098423216684,-10.680841710067227,2.0
-[02:12:09] [Server thread/INFO]: LivioG lost connection: Timed out
-[02:12:09] [Server thread/INFO]: LivioG left the game
-[02:12:11] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 77.500000, 111.500000, 844.500000]
-[02:12:17] [Server thread/INFO]: LivioG[/100.64.175.52:58639] logged in with entity id 16014 at (13.380868186577619, 88.40617885469534, 18.69999998807907)
-[02:12:17] [Server thread/INFO]: Sending server config values to client
-[02:12:17] [Server thread/INFO]: Creating new config sync packet
-[02:12:17] [Server thread/INFO]: Loading config from file...
-[02:12:17] [Server thread/INFO]: LivioG joined the game
-[02:12:17] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:12:17] [Server thread/INFO]: Receiving client config
-[02:13:32] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -11.500000, 113.500000, 797.500000]
-[02:13:32] [Server thread/WARN]: LivioG moved too quickly! -5.22588631875044,-0.002582784583815112,8.67360184207871
-[02:14:36] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -167.500000, 82.500000, 788.500000]
-[02:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[02:15:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6840ms or 136 ticks behind
-[02:15:22] [Server thread/INFO]: YoshiHD4K hit the ground too hard
-[02:15:22] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (93, 18, 572)
-[02:15:53] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 93.500000, 18.500000, 572.500000]
-[02:15:55] [Server thread/INFO]: YoshiHD4K has found their grave at (93, 18, 572)
-[02:16:22] [Server thread/INFO]: [YoshiHD4K: Made LivioG a server operator]
-[02:17:03] [Server thread/INFO]: LivioG has made the advancement [Chest Slayer]
-[02:17:03] [Server thread/INFO]: LivioG has made the advancement [Amateur Archaeologist]
-[02:17:22] [Server thread/INFO]: LivioG has found their grave at (93, 17, 572)
-[02:19:07] [Server thread/INFO]: YoshiHD4K has made the advancement [Not Today, Thank You]
-[02:19:25] [Server thread/INFO]: LivioG has found their grave at (116, -4, 543)
-[02:20:28] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
-[02:20:40] [Server thread/INFO]: j_leoneltorres has made the advancement [Sweet Dreams]
-[02:21:01] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to LivioG]
-[02:21:17] [Server thread/INFO]: LivioG has made the advancement [Acquire Hardware]
-[02:21:23] [Server thread/INFO]: LivioG has made the advancement [Isn't It Iron Pick]
-[02:21:29] [Server thread/INFO]: LivioG has made the advancement [Diamonds!]
-[02:22:25] [Server thread/INFO]: YoshiHD4K has made the advancement [Isn't It Iron Pick]
-[02:22:51] [Server thread/INFO]: LivioG was shot by Skeleton
-[02:22:51] [Server thread/INFO]: Placed LivioG's Gravestone at (119, -8, 543)
-[02:22:51] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:22:51] [Server thread/ERROR]: Combo count: 4 is dual wielding: false
-[02:22:51] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:22:51] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:22:51] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:23:08] [Server thread/INFO]: [YoshiHD4K: Teleported LivioG to YoshiHD4K]
-[02:23:31] [Server thread/INFO]: LivioG has found their grave at (119, -8, 543)
-[02:23:32] [Server thread/INFO]: [Not Secure] <YoshiHD4K> a
-[02:24:53] [Server thread/INFO]: LivioG has made the advancement [Suit Up]
-[02:26:44] [Server thread/WARN]: LivioG moved too quickly! 7.9777602247232835,2.419999986886978,5.760644918274011
-[02:27:00] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:27:00] [Server thread/INFO]: LivioG lost connection: Flying is not enabled on this server
-[02:27:00] [Server thread/INFO]: LivioG left the game
-[02:27:26] [Server thread/INFO]: LivioG[/100.64.175.52:58865] logged in with entity id 24154 at (64.49274586750391, 3.753199980521202, 514.1737972495945)
-[02:27:26] [Server thread/INFO]: Sending server config values to client
-[02:27:26] [Server thread/INFO]: Creating new config sync packet
-[02:27:26] [Server thread/INFO]: Loading config from file...
-[02:27:26] [Server thread/INFO]: LivioG joined the game
-[02:27:26] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:27:26] [Server thread/INFO]: Receiving client config
-[02:29:15] [Server thread/INFO]: LivioG was slain by Zombie
-[02:29:15] [Server thread/INFO]: Placed LivioG's Gravestone at (107, 9, 439)
-[02:29:25] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:25] [Server thread/ERROR]: Combo count: 8 is dual wielding: false
-[02:29:25] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:25] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:25] [Server thread/ERROR]: Combo count: 9 is dual wielding: false
-[02:29:25] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:25] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:25] [Server thread/ERROR]: Combo count: 10 is dual wielding: false
-[02:29:25] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:25] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:25] [Server thread/ERROR]: Combo count: 11 is dual wielding: false
-[02:29:25] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:25] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 12 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 13 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 14 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 15 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 16 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 17 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 18 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:37] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[02:29:37] [Server thread/ERROR]: Combo count: 19 is dual wielding: false
-[02:29:37] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[02:29:37] [Server thread/ERROR]: Selected slot server: 3 | client: 3
-[02:29:41] [Server thread/INFO]: LivioG lost connection: Timed out
-[02:29:41] [Server thread/INFO]: LivioG left the game
-[02:30:28] [Server thread/INFO]: LivioG[/100.64.175.52:60169] logged in with entity id 25311 at (107.67118506998186, 9.221493638709472, 439.37957244749987)
-[02:30:28] [Server thread/INFO]: Sending server config values to client
-[02:30:28] [Server thread/INFO]: Creating new config sync packet
-[02:30:28] [Server thread/INFO]: Loading config from file...
-[02:30:28] [Server thread/INFO]: LivioG joined the game
-[02:30:28] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:30:28] [Server thread/INFO]: Receiving client config
-[02:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[02:32:16] [Server thread/INFO]: [YoshiHD4K: Teleported LivioG to YoshiHD4K]
-[02:32:57] [Server thread/INFO]: LivioG has found their grave at (107, 9, 439)
-[02:33:19] [Server thread/INFO]: Luisillo0516 has made the advancement [Not Today, Thank You]
-[02:35:37] [Server thread/INFO]: j_leoneltorres was blown up by Creeper
-[02:35:37] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (55, 113, 834)
-[02:36:34] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to SEBAXWARRIOR]
-[02:40:47] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
-[02:43:23] [Server thread/INFO]: LivioG lost connection: Timed out
-[02:43:23] [Server thread/INFO]: LivioG left the game
-[02:43:32] [Server thread/INFO]: LivioG[/100.64.175.52:60358] logged in with entity id 30150 at (116.30000001192093, -5.0, 547.027941458241)
-[02:43:32] [Server thread/INFO]: Sending server config values to client
-[02:43:32] [Server thread/INFO]: Creating new config sync packet
-[02:43:32] [Server thread/INFO]: Loading config from file...
-[02:43:32] [Server thread/INFO]: LivioG joined the game
-[02:43:32] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:43:32] [Server thread/INFO]: Receiving client config
-[02:44:33] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to SEBAXWARRIOR]
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:02] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:03] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:04] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:05] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:06] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:07] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:08] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:09] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:10] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:11] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:12] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:13] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:14] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:15] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:16] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:17] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:18] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:19] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/WARN]: LivioG was kicked for floating too long!
-[02:45:20] [Server thread/INFO]: LivioG lost connection: Disconnected
-[02:45:20] [Server thread/INFO]: LivioG left the game
-[02:45:43] [Server thread/INFO]: LivioG[/100.64.175.52:60480] logged in with entity id 31012 at (111.82221849024494, 3.2491870787446815, 558.0443364299563)
-[02:45:43] [Server thread/INFO]: Sending server config values to client
-[02:45:43] [Server thread/INFO]: Creating new config sync packet
-[02:45:43] [Server thread/INFO]: Loading config from file...
-[02:45:43] [Server thread/INFO]: LivioG joined the game
-[02:45:43] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:45:43] [Server thread/INFO]: Receiving client config
-[02:45:44] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
-[02:46:04] [Server thread/INFO]: LivioG was slain by Zombie
-[02:46:04] [Server thread/INFO]: Placed LivioG's Gravestone at (111, 2, 558)
-[02:46:29] [Server thread/INFO]: LivioG lost connection: Timed out
-[02:46:29] [Server thread/INFO]: LivioG left the game
-[02:46:55] [Server thread/INFO]: LivioG[/100.64.175.52:60492] logged in with entity id 31384 at (88.57551773070787, -2.0, 532.3000000119209)
-[02:46:55] [Server thread/INFO]: Sending server config values to client
-[02:46:55] [Server thread/INFO]: Creating new config sync packet
-[02:46:55] [Server thread/INFO]: Loading config from file...
-[02:46:55] [Server thread/INFO]: LivioG joined the game
-[02:46:56] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:46:56] [Server thread/INFO]: Receiving client config
-[02:47:30] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to YoshiHD4K]
-[02:48:04] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
-[02:48:11] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 160.500000, 112.500000, 660.500000]
-[02:48:40] [Server thread/INFO]: j_leoneltorres has found their grave at (55, 113, 834)
-[02:48:58] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[02:49:06] [Server thread/INFO]: Tree reached max size of 100
-[02:49:09] [Server thread/INFO]: Tree reached max size of 100
-[02:49:12] [Server thread/INFO]: Tree reached max size of 100
-[02:49:14] [Server thread/INFO]: Tree reached max size of 100
-[02:49:17] [Server thread/INFO]: Tree reached max size of 100
-[02:49:18] [Server thread/INFO]: Tree reached max size of 100
-[02:49:20] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=83, z=20}) doesn't have enough leaves around top most log
-[02:49:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=83, z=19}) doesn't have enough leaves around top most log
-[02:49:24] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=83, z=19}) doesn't have enough leaves around top most log
-[02:49:26] [Server thread/INFO]: Tree reached max size of 100
-[02:49:28] [Server thread/INFO]: Tree reached max size of 100
-[02:50:18] [Server thread/INFO]: Tree reached max size of 100
-[02:50:19] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=15, y=84, z=22}) doesn't have enough leaves around top most log
-[02:50:22] [Server thread/INFO]: Tree reached max size of 100
-[02:50:23] [Server thread/INFO]: Tree reached max size of 100
-[02:50:27] [Server thread/INFO]: Tree reached max size of 100
-[02:50:28] [Server thread/INFO]: Tree reached max size of 100
-[02:50:46] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=86, z=20}) doesn't have enough leaves around top most log
-[02:50:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=86, z=19}) doesn't have enough leaves around top most log
-[02:50:49] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 169.500000, 74.500000, 468.500000]
-[02:50:52] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=87, z=20}) doesn't have enough leaves around top most log
-[02:50:54] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=87, z=19}) doesn't have enough leaves around top most log
-[02:50:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=87, z=19}) doesn't have enough leaves around top most log
-[02:50:58] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=87, z=20}) doesn't have enough leaves around top most log
-[02:50:59] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=88, z=20}) doesn't have enough leaves around top most log
-[02:51:01] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=88, z=20}) doesn't have enough leaves around top most log
-[02:51:03] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=88, z=19}) doesn't have enough leaves around top most log
-[02:51:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=88, z=19}) doesn't have enough leaves around top most log
-[02:51:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=89, z=19}) doesn't have enough leaves around top most log
-[02:51:11] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=21, y=89, z=20}) doesn't have enough leaves around top most log
-[02:51:14] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=20, y=89, z=20}) doesn't have enough leaves around top most log
-[02:51:38] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=4, y=111, z=882}) doesn't have enough leaves around top most log
-[02:51:44] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 160.500000, 112.500000, 660.500000]
-[02:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[02:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4888ms or 97 ticks behind
-[02:52:17] [Server thread/INFO]: Tree reached max size of 100
-[02:52:22] [Server thread/INFO]: Tree reached max size of 100
-[02:52:23] [Server thread/INFO]: Tree reached max size of 100
-[02:52:26] [Server thread/INFO]: Tree reached max size of 100
-[02:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[02:52:27] [Server thread/INFO]: Tree reached max size of 100
-[02:52:29] [Server thread/INFO]: Tree reached max size of 100
-[02:52:31] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=31, y=86, z=40}) doesn't have enough leaves around top most log
-[02:52:33] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=32, y=86, z=40}) doesn't have enough leaves around top most log
-[02:54:23] [Server thread/WARN]: LivioG moved too quickly! 0.021415816467481363,1.4235592945430398,10.038510896329456
-[02:54:51] [Server thread/INFO]: LivioG lost connection: Disconnected
-[02:54:51] [Server thread/INFO]: LivioG left the game
-[02:55:12] [Server thread/INFO]: LivioG[/100.64.175.52:60585] logged in with entity id 36510 at (58.47224212485263, 67.25220334025373, 331.5568617233801)
-[02:55:12] [Server thread/INFO]: Sending server config values to client
-[02:55:12] [Server thread/INFO]: Creating new config sync packet
-[02:55:12] [Server thread/INFO]: Loading config from file...
-[02:55:12] [Server thread/INFO]: LivioG joined the game
-[02:55:13] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:55:13] [Server thread/INFO]: Receiving client config
-[02:55:46] [Server thread/INFO]: LivioG lost connection: Timed out
-[02:55:46] [Server thread/INFO]: LivioG left the game
-[02:56:21] [Server thread/INFO]: LivioG[/100.64.175.52:60868] logged in with entity id 37277 at (63.04981246438385, 65.162141421027, 348.1353383378661)
-[02:56:21] [Server thread/INFO]: Sending server config values to client
-[02:56:21] [Server thread/INFO]: Creating new config sync packet
-[02:56:21] [Server thread/INFO]: Loading config from file...
-[02:56:21] [Server thread/INFO]: LivioG joined the game
-[02:56:21] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
-[02:56:21] [Server thread/INFO]: Receiving client config
-[02:56:44] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 160.500000, 112.500000, 660.500000]
-[02:56:51] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[02:57:39] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -73.500000, 73.500000, 367.500000]
-[02:58:00] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-11, y=111, z=853}) doesn't have enough leaves around top most log
-[02:58:09] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to LivioG]
-[02:58:56] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 55.500000, 112.500000, 840.500000]
-[03:00:46] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to LivioG]
-[03:01:54] [Server thread/INFO]: LivioG hit the ground too hard
-[03:01:54] [Server thread/INFO]: Placed LivioG's Gravestone at (91, 0, 546)
-[03:02:11] [Server thread/INFO]: [YoshiHD4K: Teleported LivioG to YoshiHD4K]
-[03:02:14] [Server thread/INFO]: LivioG has found their grave at (91, 0, 546)
-[03:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[03:02:22] [Server thread/INFO]: LivioG has found their grave at (111, 2, 558)
-[03:02:40] [Server thread/INFO]: j_leoneltorres was blown up by Creeper
-[03:02:40] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (19, 101, 846)
-[03:03:02] [Server thread/INFO]: j_leoneltorres has found their grave at (19, 101, 846)
-[03:03:44] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
-[03:04:44] [Server thread/INFO]: LivioG was shot by Skeleton
-[03:04:44] [Server thread/INFO]: Placed LivioG's Gravestone at (111, -4, 541)
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 5 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 6 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 7 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 8 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 9 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 10 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:45] [Server thread/ERROR]: Combo count: 11 is dual wielding: false
-[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:46] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:46] [Server thread/ERROR]: Combo count: 12 is dual wielding: false
-[03:04:46] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:46] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:46] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:47] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:47] [Server thread/ERROR]: Combo count: 13 is dual wielding: false
-[03:04:47] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:47] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:47] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:47] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[03:04:47] [Server thread/ERROR]: Combo count: 14 is dual wielding: false
-[03:04:47] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
-[03:04:47] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
-[03:04:47] [Server thread/ERROR]: Selected slot server: 5 | client: 5
-[03:04:57] [Server thread/INFO]: LivioG lost connection: Disconnected
-[03:04:57] [Server thread/INFO]: LivioG left the game
-[03:06:49] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Hot Stuff]
-[03:07:46] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -84.500000, 104.500000, 411.500000]
-[03:08:37] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 9.500000, 109.500000, 826.500000]
-[03:08:44] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[03:11:16] [Server thread/INFO]: Luisillo0516 has made the advancement [Isn't It Iron Pick]
-[03:11:36] [Server thread/INFO]: Luisillo0516 has made the advancement [Suit Up]
-[03:14:18] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to SEBAXWARRIOR]
-[03:15:57] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[03:18:52] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -266.500000, 63.500000, -322.500000]
-[03:20:31] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 57.500000, 112.500000, 839.500000]
-[03:21:58] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[03:22:19] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -280.500000, 63.500000, -308.500000]
-[03:23:25] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
-[03:24:13] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 53.500000, 112.500000, 839.500000]
-[03:24:30] [Server thread/INFO]: j_leoneltorres was slain by Zombie
-[03:24:30] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (-20, 38, 790)
-[03:24:44] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 31.500000, -51.500000, 1081.500000]
-[03:25:32] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
-[03:25:34] [Server thread/INFO]: j_leoneltorres has found their grave at (-20, 38, 790)
-[03:29:05] [Server thread/INFO]: j_leoneltorres fell from a high place
-[03:29:05] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (-65, -21, 806)
-[03:31:20] [Server thread/INFO]: j_leoneltorres fell from a high place
-[03:31:20] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (-73, -34, 814)
-[03:32:05] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to -64.500000, -20.500000, 806.500000]
-[03:32:08] [Server thread/INFO]: j_leoneltorres has found their grave at (-65, -21, 806)
-[03:32:31] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to -72.500000, -34.500000, 814.500000]
-[03:32:36] [Server thread/INFO]: j_leoneltorres has found their grave at (-73, -34, 814)
-[03:33:43] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
-[03:36:57] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -35.500000, 83.500000, 370.500000]
-[03:38:44] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 54.500000, 112.500000, 839.500000]
-[03:48:54] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 163.500000, 64.500000, 2.500000]
-[03:50:20] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -52.500000, 65.500000, 319.500000]
-[03:51:05] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 230.500000, 63.500000, 96.500000]
-[03:51:20] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [The Parrots and the Bats]
-[03:51:54] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[03:53:07] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -87.500000, 103.500000, 411.500000]
-[03:54:41] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to -17.500000, 110.500000, 661.500000]
-[03:57:04] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 54.500000, 112.500000, 823.500000]
-[03:58:40] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
-[04:02:27] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 13.500000, 69.500000, -2022.500000]
-[04:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[04:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
-[04:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10724ms or 214 ticks behind
-[04:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
-[04:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
-[04:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[04:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[04:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
-[04:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
-[04:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
-[04:06:30] [Server thread/INFO]: YoshiHD4K has made the advancement [A Major Trial Of Strengh]
-[04:06:37] [Server thread/INFO]: YoshiHD4K has made the advancement [Sneak 100]
-[04:07:46] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[04:11:03] [Server thread/INFO]: Luisillo0516 lost connection: Disconnected
-[04:11:03] [Server thread/INFO]: Luisillo0516 left the game
-[04:13:35] [Server thread/INFO]: YoshiHD4K has made the advancement [Under Lock and Key]
-[04:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[04:14:03] [Server thread/INFO]: YoshiHD4K has made the advancement [Diamonds!]
+[04:16:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:16:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:16:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:16:07] [Server thread/INFO]: Time elapsed: 1042 ms
+[04:16:07] [Server thread/INFO]: Done (22.216s)! For help, type "help"
+[04:16:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[04:16:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[04:16:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[04:16:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[04:16:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[04:16:07] [Server thread/INFO]: [Spawn Animations] Sending global config to server...
+[04:16:07] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[04:16:07] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[04:16:10] [Server thread/INFO]: SEBAXWARRIOR[/100.77.245.96:52183] logged in with entity id 47 at (-442.8241565220279, 100.0, 845.4047677857957)
+[04:16:10] [Server thread/INFO]: Sending server config values to client
+[04:16:10] [Server thread/INFO]: Creating new config sync packet
+[04:16:10] [Server thread/INFO]: Loading config from file...
+[04:16:10] [Server thread/INFO]: SEBAXWARRIOR joined the game
+[04:16:12] [Server thread/INFO]: [showmeyourskin] Client of SEBAXWARRIOR accepted server config.
+[04:16:12] [Server thread/INFO]: Receiving client config
+[04:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[04:16:15] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:55446] logged in with entity id 178 at (-55.546534043226146, -7.0, -2332.1127506841603)
+[04:16:15] [Server thread/INFO]: Sending server config values to client
+[04:16:15] [Server thread/INFO]: Creating new config sync packet
+[04:16:15] [Server thread/INFO]: Loading config from file...
+[04:16:16] [Server thread/INFO]: YoshiHD4K joined the game
+[04:16:16] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
+[04:16:16] [Server thread/INFO]: Receiving client config
+[04:16:27] [Server thread/INFO]: j_leoneltorres[/100.85.97.56:55926] logged in with entity id 353 at (-17.84180740249621, 111.0, 813.3660613482768)
+[04:16:27] [Server thread/INFO]: Sending server config values to client
+[04:16:27] [Server thread/INFO]: Creating new config sync packet
+[04:16:27] [Server thread/INFO]: Loading config from file...
+[04:16:27] [Server thread/INFO]: j_leoneltorres joined the game
+[04:16:27] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
+[04:16:27] [Server thread/INFO]: Receiving client config
+[04:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7143ms or 142 ticks behind
+[04:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[04:16:55] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
+[04:16:56] [Server thread/INFO]: j_leoneltorres has made the advancement [A Major Trial Of Strengh]
+[04:17:07] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to YoshiHD4K]
+[04:17:09] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [A Major Trial Of Strengh]
+[04:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4003ms or 80 ticks behind
+[04:17:31] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Under Lock and Key]
+[04:17:46] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Cover Me with Diamonds]
+[04:17:54] [Server thread/INFO]: j_leoneltorres has made the advancement [Under Lock and Key]
+[04:18:12] [Server thread/INFO]: j_leoneltorres has made the advancement [Suit Up]
+[04:18:15] [Server thread/INFO]: j_leoneltorres has made the advancement [Cover Me with Diamonds]
+[04:18:30] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 14.500000, -8.500000, -2338.500000]
+[04:19:09] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
+[04:19:10] [Server thread/WARN]: YoshiHD4K moved too quickly! -4.30184330027237,-1.495200877005928,-9.07937803616278
+[04:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[04:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[04:19:56] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
+[04:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[04:20:31] [Server thread/INFO]: YoshiHD4K has made the advancement [Hot Stuff]
+[04:22:18] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 106.500000, 80.500000, -2213.500000]
+[04:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:22:30] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
+[04:22:34] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to j_leoneltorres]
+[04:22:56] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 65.500000, 112.500000, 850.500000]
+[04:23:07] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 7.500000, 109.500000, 815.500000]
+[04:23:10] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
+[04:23:20] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -8.500000, 85.500000, 522.500000]
+[04:23:25] [Server thread/INFO]: j_leoneltorres was shot by Skeleton
+[04:23:25] [Server thread/INFO]: Created new backpack backup file for j_leoneltorres with unique ID travelersbackpack.standard_16.04.2025-04.23.25.dat
+[04:23:25] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (20, 110, 828)
+[04:23:55] [Server thread/INFO]: j_leoneltorres has found their grave at (20, 110, 828)
+[04:29:35] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
+[04:29:54] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -317.500000, 125.500000, 1131.500000]
+[04:33:01] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 230.500000, 64.500000, -42.500000]
+[04:41:02] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 338.500000, -1.500000, -110.500000]
+[04:42:05] [Server thread/INFO]: YoshiHD4K was killed by Witch using magic
+[04:42:05] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.standard_16.04.2025-04.42.05.dat
+[04:42:05] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (327, -5, -116)
+[04:42:05] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:42:05] [Server thread/ERROR]: Combo count: 4 is dual wielding: false
+[04:42:05] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[04:42:05] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[04:42:05] [Server thread/ERROR]: Selected slot server: 0 | client: 0
+[04:42:22] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 327.500000, -4.500000, -115.500000]
+[04:42:35] [Server thread/INFO]: YoshiHD4K has found their grave at (327, -5, -116)
+[04:43:25] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 436.500000, 0.500000, -80.500000]
+[04:43:43] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to SEBAXWARRIOR]
+[04:49:34] [Server thread/INFO]: [YoshiHD4K: Skin changed]
+[04:53:28] [Server thread/INFO]: [YoshiHD4K: Skin changed]
+[04:56:13] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=91, y=110, z=858}) doesn't have enough leaves around top most log
+[04:56:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=92, y=110, z=844}) doesn't have enough leaves around top most log
+[05:02:31] [Server thread/INFO]: SEBAXWARRIOR lost connection: Disconnected
+[05:02:31] [Server thread/INFO]: SEBAXWARRIOR left the game
+[05:08:01] [Server thread/INFO]: j_leoneltorres lost connection: Disconnected
+[05:08:01] [Server thread/INFO]: j_leoneltorres left the game
+[05:08:27] [Server thread/INFO]: Stopping the server
+[05:08:27] [Server thread/INFO]: Stopping server
+[05:08:27] [Server thread/INFO]: Saving players
+[05:08:27] [Server thread/INFO]: YoshiHD4K lost connection: Server closed
+[05:08:27] [Server thread/INFO]: YoshiHD4K left the game
+[05:08:27] [Server thread/INFO]: Saving worlds
+[05:08:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:08:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:08:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:08:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[05:08:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05:08:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:08:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:08:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:08:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05:08:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05:08:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:08:27] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
