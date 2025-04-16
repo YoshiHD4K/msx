@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 02:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-16 01:57:41 +0000"
@@ -174,6 +180,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 02:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-16 01:59:16 +0000"
@@ -261,6 +273,12 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-16 02:20:40 +0000"
     },
     "done": true
   },
@@ -801,6 +819,12 @@
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 02:21:17 +0000"
     },
     "done": true
   },
@@ -1608,6 +1632,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-16 01:55:31 +0000",
       "mutton": "2025-04-16 01:46:11 +0000",
+      "apple": "2025-04-16 02:24:57 +0000",
       "beef": "2025-04-16 01:43:19 +0000"
     },
     "done": false
@@ -1621,6 +1646,12 @@
   "betternether:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 02:21:17 +0000"
     },
     "done": true
   },
