@@ -1936,3 +1936,70 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [03:01:54] [Server thread/INFO]: LivioG hit the ground too hard
 [03:01:54] [Server thread/INFO]: Placed LivioG's Gravestone at (91, 0, 546)
 [03:02:11] [Server thread/INFO]: [YoshiHD4K: Teleported LivioG to YoshiHD4K]
+[03:02:14] [Server thread/INFO]: LivioG has found their grave at (91, 0, 546)
+[03:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03:02:22] [Server thread/INFO]: LivioG has found their grave at (111, 2, 558)
+[03:02:40] [Server thread/INFO]: j_leoneltorres was blown up by Creeper
+[03:02:40] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (19, 101, 846)
+[03:03:02] [Server thread/INFO]: j_leoneltorres has found their grave at (19, 101, 846)
+[03:03:44] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
+[03:04:44] [Server thread/INFO]: LivioG was shot by Skeleton
+[03:04:44] [Server thread/INFO]: Placed LivioG's Gravestone at (111, -4, 541)
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 5 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 6 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 7 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 8 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 9 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 10 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:45] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:45] [Server thread/ERROR]: Combo count: 11 is dual wielding: false
+[03:04:45] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:45] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:46] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:46] [Server thread/ERROR]: Combo count: 12 is dual wielding: false
+[03:04:46] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:46] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:46] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:47] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:47] [Server thread/ERROR]: Combo count: 13 is dual wielding: false
+[03:04:47] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:47] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:47] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:47] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:04:47] [Server thread/ERROR]: Combo count: 14 is dual wielding: false
+[03:04:47] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[03:04:47] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[03:04:47] [Server thread/ERROR]: Selected slot server: 5 | client: 5
+[03:04:57] [Server thread/INFO]: LivioG lost connection: Disconnected
+[03:04:57] [Server thread/INFO]: LivioG left the game
+[03:06:49] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Hot Stuff]
+[03:07:46] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -84.500000, 104.500000, 411.500000]
+[03:08:37] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 9.500000, 109.500000, 826.500000]
+[03:08:44] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
+[03:11:16] [Server thread/INFO]: Luisillo0516 has made the advancement [Isn't It Iron Pick]
+[03:11:36] [Server thread/INFO]: Luisillo0516 has made the advancement [Suit Up]
