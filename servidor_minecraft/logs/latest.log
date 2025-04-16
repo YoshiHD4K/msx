@@ -612,3 +612,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [15:08:33] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 53.500000, 112.500000, 839.500000]
 [15:39:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=34, y=111, z=825}) doesn't have enough leaves around top most log
 [16:13:58] [Server thread/INFO]: Locating element minecraft:village_plains took 12 ms
+[16:28:43] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -179.500000, 104.500000, 996.500000]
+[16:30:30] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -280.500000, 116.500000, 1173.500000]
+[16:31:10] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -323.500000, 123.500000, 1149.500000]
