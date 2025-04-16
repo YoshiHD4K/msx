@@ -1317,3 +1317,41 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [02:08:57] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 77.500000, 56.500000, 841.500000]
 [02:08:59] [Server thread/INFO]: YoshiHD4K has found their grave at (77, 56, 841)
 [02:10:21] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -175.500000, 67.500000, 255.500000]
+[02:10:52] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 155.500000, 118.500000, 361.500000]
+[02:10:58] [Server thread/INFO]: j_leoneltorres has made the advancement [Getting an Upgrade]
+[02:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[02:11:05] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 77.500000, 120.500000, 853.500000]
+[02:11:10] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 57.500000, 119.500000, 833.500000]
+[02:11:17] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 72.500000, 111.500000, 842.500000]
+[02:11:22] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 54.500000, 112.500000, 840.500000]
+[02:11:28] [Server thread/INFO]: LivioG was shot by Skeleton
+[02:11:28] [Server thread/INFO]: Placed LivioG's Gravestone at (116, -4, 543)
+[02:12:05] [Server thread/WARN]: LivioG moved too quickly! 2.4735098423216684,-10.680841710067227,2.0
+[02:12:09] [Server thread/INFO]: LivioG lost connection: Timed out
+[02:12:09] [Server thread/INFO]: LivioG left the game
+[02:12:11] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 77.500000, 111.500000, 844.500000]
+[02:12:17] [Server thread/INFO]: LivioG[/100.64.175.52:58639] logged in with entity id 16014 at (13.380868186577619, 88.40617885469534, 18.69999998807907)
+[02:12:17] [Server thread/INFO]: Sending server config values to client
+[02:12:17] [Server thread/INFO]: Creating new config sync packet
+[02:12:17] [Server thread/INFO]: Loading config from file...
+[02:12:17] [Server thread/INFO]: LivioG joined the game
+[02:12:17] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
+[02:12:17] [Server thread/INFO]: Receiving client config
+[02:13:32] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -11.500000, 113.500000, 797.500000]
+[02:13:32] [Server thread/WARN]: LivioG moved too quickly! -5.22588631875044,-0.002582784583815112,8.67360184207871
+[02:14:36] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -167.500000, 82.500000, 788.500000]
+[02:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[02:15:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6840ms or 136 ticks behind
+[02:15:22] [Server thread/INFO]: YoshiHD4K hit the ground too hard
+[02:15:22] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (93, 18, 572)
+[02:15:53] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 93.500000, 18.500000, 572.500000]
+[02:15:55] [Server thread/INFO]: YoshiHD4K has found their grave at (93, 18, 572)
+[02:16:22] [Server thread/INFO]: [YoshiHD4K: Made LivioG a server operator]
+[02:17:03] [Server thread/INFO]: LivioG has made the advancement [Chest Slayer]
+[02:17:03] [Server thread/INFO]: LivioG has made the advancement [Amateur Archaeologist]
+[02:17:22] [Server thread/INFO]: LivioG has found their grave at (93, 17, 572)
+[02:19:07] [Server thread/INFO]: YoshiHD4K has made the advancement [Not Today, Thank You]
+[02:19:25] [Server thread/INFO]: LivioG has found their grave at (116, -4, 543)
+[02:20:28] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
+[02:20:40] [Server thread/INFO]: j_leoneltorres has made the advancement [Sweet Dreams]
+[02:21:01] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to LivioG]

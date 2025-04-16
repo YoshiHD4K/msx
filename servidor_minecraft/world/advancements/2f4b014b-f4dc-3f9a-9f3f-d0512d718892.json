@@ -68,6 +68,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "spider_nest": "2025-04-16 02:10:08 +0000",
       "field": "2025-04-15 02:18:08 +0000",
       "woodland": "2025-04-15 02:52:55 +0000",
       "floodplain": "2025-04-15 02:59:56 +0000",
