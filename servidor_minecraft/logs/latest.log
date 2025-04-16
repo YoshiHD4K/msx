@@ -618,3 +618,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [17:26:27] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -183.500000, 110.500000, 1119.500000]
 [17:28:04] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -318.500000, 125.500000, 1130.500000]
 [17:38:30] [Server thread/INFO]: YoshiHD4K has made the advancement [What a Deal!]
+[17:44:31] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 46.500000, 111.500000, 841.500000]
+[17:46:22] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -311.500000, 125.500000, 1112.500000]
+[17:53:10] [Server thread/INFO]: YoshiHD4K was slain by Zombie
+[17:53:10] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.spider_16.04.2025-17.53.10.dat
+[17:53:10] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (-334, 123, 1136)
