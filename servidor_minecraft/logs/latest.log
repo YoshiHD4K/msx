@@ -597,3 +597,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [13:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
 [13:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
 [14:19:38] [Server thread/INFO]: YoshiHD4K has made the advancement [The Parrots and the Bats]
+[14:22:55] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
+[14:23:14] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -97.500000, 71.500000, 668.500000]
+[14:32:30] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -69.500000, 24.500000, 661.500000]
+[14:35:44] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -185.500000, 6.500000, 622.500000]
+[14:38:01] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -184.500000, -1.500000, 549.500000]
+[14:40:50] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -262.500000, -19.500000, 489.500000]
+[14:56:27] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
+[15:01:06] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -93.500000, 75.500000, 442.500000]
+[15:02:21] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -40.500000, 91.500000, 390.500000]
+[15:03:07] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 152.500000, 119.500000, 329.500000]
+[15:03:29] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 56.500000, 112.500000, 840.500000]
+[15:07:03] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 158.500000, 119.500000, 336.500000]
+[15:08:33] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 53.500000, 112.500000, 839.500000]
