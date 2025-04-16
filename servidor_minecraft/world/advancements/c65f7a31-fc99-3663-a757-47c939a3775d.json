@@ -2343,77 +2343,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
+      "has_bowl": "2025-04-15 04:52:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
+      "has_slab": "2025-04-15 04:58:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
+      "has_wood_slab": "2025-04-15 04:58:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "another_furniture:recipes/spruce_bench": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
+      "has_slab": "2025-04-15 04:58:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "another_furniture:recipes/spruce_shutter": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
+      "has_slab": "2025-04-15 04:58:37 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-15 05:53:13 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
@@ -2436,12 +2394,6 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-15 05:02:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-04-15 05:34:04 +0000"
     },
     "done": true
   },
@@ -2469,45 +2421,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/oak_bench": {
-    "criteria": {
-      "has_slab": "2025-04-15 05:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-15 05:02:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_flower_box": {
-    "criteria": {
-      "has_slab": "2025-04-15 04:58:37 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_flower_box": {
-    "criteria": {
-      "has_slab": "2025-04-15 05:34:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-15 04:58:37 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_bench": {
-    "criteria": {
-      "has_slab": "2025-04-15 04:58:37 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_shutter": {
-    "criteria": {
-      "has_slab": "2025-04-15 04:58:37 +0000"
     },
     "done": true
   },
@@ -2517,9 +2433,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "another_furniture:recipes/oak_shutter": {
     "criteria": {
-      "has_bowl": "2025-04-15 04:52:14 +0000"
+      "has_slab": "2025-04-15 05:34:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-04-15 05:34:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-15 05:34:04 +0000"
     },
     "done": true
   },
