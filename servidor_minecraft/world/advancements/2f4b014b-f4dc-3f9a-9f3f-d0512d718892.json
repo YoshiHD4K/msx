@@ -70,15 +70,17 @@
     "criteria": {
       "forested_field": "2025-04-16 02:54:09 +0000",
       "spider_nest": "2025-04-16 02:10:08 +0000",
-      "field": "2025-04-15 02:18:08 +0000",
       "woodland": "2025-04-15 02:52:55 +0000",
-      "floodplain": "2025-04-15 02:59:56 +0000",
-      "seasonal_forest": "2025-04-16 02:30:16 +0000",
       "shrubland": "2025-04-15 03:17:05 +0000",
-      "highland": "2025-04-15 04:17:30 +0000",
       "maple_woods": "2025-04-15 04:13:42 +0000",
-      "rainforest": "2025-04-15 02:56:28 +0000",
       "rocky_shrubland": "2025-04-15 03:17:17 +0000",
+      "lush_desert": "2025-04-16 04:05:47 +0000",
+      "field": "2025-04-15 02:18:08 +0000",
+      "floodplain": "2025-04-15 02:59:56 +0000",
+      "lush_savanna": "2025-04-16 04:02:27 +0000",
+      "seasonal_forest": "2025-04-16 02:30:16 +0000",
+      "highland": "2025-04-15 04:17:30 +0000",
+      "rainforest": "2025-04-15 02:56:28 +0000",
       "coniferous_forest": "2025-04-14 23:30:15 +0000"
     },
     "done": false
@@ -2594,6 +2596,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-04-16 04:06:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-04-16 03:07:10 +0000"
@@ -3434,6 +3442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-16 04:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 02:27:04 +0000"
@@ -3509,6 +3523,12 @@
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-04-16 03:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-16 04:06:37 +0000"
     },
     "done": true
   },

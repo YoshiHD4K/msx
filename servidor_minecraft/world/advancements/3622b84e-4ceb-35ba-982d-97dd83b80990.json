@@ -4040,6 +4040,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2025-04-16 03:51:20 +0000",
+      "minecraft:pig": "2025-04-16 04:07:54 +0000",
       "minecraft:sheep": "2025-04-16 03:56:23 +0000"
     },
     "done": false
@@ -4128,6 +4129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-16 04:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 02:19:46 +0000"
@@ -4149,6 +4156,12 @@
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-04-16 03:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-16 04:12:31 +0000"
     },
     "done": true
   },
@@ -4293,6 +4306,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 02:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-16 04:12:31 +0000"
     },
     "done": true
   },
