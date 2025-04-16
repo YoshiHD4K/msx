@@ -1,4 +1,10 @@
 {
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 03:28:44 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/birch_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -74,6 +86,12 @@
   "betternether:recipes/decorations/warped_chair": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -107,6 +125,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-16 01:52:22 +0000"
@@ -128,6 +152,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-04-16 03:17:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
     },
     "done": true
   },
@@ -273,6 +303,12 @@
   "betternether:recipes/decorations/cherry_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
     },
     "done": true
   },
@@ -474,6 +510,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -648,6 +690,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -681,6 +729,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:07:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
     },
     "done": true
   },
@@ -729,6 +783,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-04-16 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
     },
     "done": true
   },
@@ -888,6 +948,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bamboo_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -1041,6 +1107,12 @@
   "betternether:recipes/decorations/nether_mushroom_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -1254,6 +1326,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_sofa": {
     "criteria": {
       "has_wool": "2025-04-16 01:45:24 +0000"
@@ -1296,6 +1374,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-16 03:33:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
@@ -1305,6 +1389,12 @@
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -1329,6 +1419,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-16 01:59:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -1446,6 +1542,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-16 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
     },
     "done": true
   },
@@ -1593,6 +1695,18 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-16 01:57:41 +0000"
@@ -1650,6 +1764,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-16 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -1899,6 +2019,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-16 01:45:25 +0000"
@@ -1959,6 +2085,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-16 01:59:16 +0000"
@@ -1968,6 +2100,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-04-16 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -2018,6 +2156,7 @@
       "cooked_porkchop": "2025-04-16 01:55:31 +0000",
       "mutton": "2025-04-16 01:46:11 +0000",
       "apple": "2025-04-16 02:24:57 +0000",
+      "rotten_flesh": "2025-04-16 03:33:56 +0000",
       "beef": "2025-04-16 01:43:19 +0000"
     },
     "done": false
@@ -2064,6 +2203,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-04-16 01:48:54 +0000"
@@ -2079,6 +2224,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-16 01:57:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },
@@ -2121,6 +2272,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-04-16 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-04-16 03:41:06 +0000"
     },
     "done": true
   },

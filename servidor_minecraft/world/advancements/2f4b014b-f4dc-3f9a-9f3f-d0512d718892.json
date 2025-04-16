@@ -2654,6 +2654,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-16 02:44:38 +0000"
@@ -2693,6 +2699,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-16 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
     },
     "done": true
   },
@@ -2852,6 +2864,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-16 02:32:31 +0000"
@@ -2867,6 +2885,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
     },
     "done": true
   },
@@ -2903,6 +2927,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-16 03:02:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
     },
     "done": true
   },
@@ -2951,6 +2981,12 @@
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-04-16 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
     },
     "done": true
   },
@@ -3236,6 +3272,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 02:27:04 +0000"
@@ -3323,6 +3365,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-16 02:44:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
     },
     "done": true
   },
@@ -3434,6 +3482,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-16 03:19:02 +0000"
@@ -3479,6 +3533,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-16 03:02:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-16 03:39:20 +0000"
     },
     "done": true
   },
