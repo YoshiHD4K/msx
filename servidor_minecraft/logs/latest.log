@@ -610,3 +610,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [15:03:29] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 56.500000, 112.500000, 840.500000]
 [15:07:03] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 158.500000, 119.500000, 336.500000]
 [15:08:33] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 53.500000, 112.500000, 839.500000]
+[15:39:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=34, y=111, z=825}) doesn't have enough leaves around top most log
