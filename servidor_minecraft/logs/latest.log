@@ -1,15 +1,15 @@
-[03:13:33] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.13
-[03:13:34] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[00:01:31] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.13
+[00:01:32] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[03:13:34] [ForkJoinPool-1-worker-2/WARN]: Mod tool_trims uses the version 2.2.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:13:34] [main/WARN]: Warnings were found!
+[00:01:32] [ForkJoinPool-1-worker-1/WARN]: Mod tool_trims uses the version 2.2.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:01:33] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Spawn Animations' (spawnanimations) 1.10+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Spawn Animations' (spawnanimations) 1.10+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
-[03:13:34] [main/INFO]: Loading 180 mods:
+[00:01:33] [main/INFO]: Loading 180 mods:
 	- accessories 1.1.0-beta.36+1.21.1
 	- advancednetherite 2.2.1-1.21.1
 	- animated-logo 1.0
@@ -221,182 +221,182 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.1-Fabric-5.1.1
 	   \-- org_reflections_reflections 0.10.2
-[03:13:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:13:35] [main/INFO]: Compatibility level set to JAVA_17
-[03:13:35] [main/INFO]: Compatibility level set to JAVA_21
-[03:13:35] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:13:35] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:13:35] [main/WARN]: Error loading class: net/minecraft/class_425 (java.lang.ClassNotFoundException: net/minecraft/class_425)
-[03:13:35] [main/WARN]: @Mixin target net.minecraft.class_425 was not found animated-logo.mixins.json:SplashOverlayMixin from mod animated-logo
-[03:13:36] [main/INFO]:  Isaiah's Lucky Blocks Mod
-[03:13:36] [main/INFO]:  Minecraft 1.21.1
-[03:13:36] [main/INFO]: Applied mixin: MixinBlockItem...
-[03:13:36] [main/INFO]: Applied mixin: MixinServerPlayerInteractionManager...
-[03:13:36] [main/INFO]: Applied mixin: MixinRecipeManager2...
-[03:13:36] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[03:13:36] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[03:13:36] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[03:13:36] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[03:13:36] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[03:13:37] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[03:13:37] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:13:53] [main/INFO]: Registering Listeners!
-[03:13:53] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[03:13:53] [main/INFO]: Initializing mod
-[03:13:55] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[03:13:55] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[03:13:55] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[03:13:55] [main/ERROR]: No data fixer registered for artifacts:mimic
-[03:13:55] [main/INFO]: Reflections took 72 ms to scan 1 urls, producing 1 keys and 2 values
-[03:13:55] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 2 values
-[03:13:55] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
-[03:13:55] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[03:13:55] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[03:13:55] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[03:13:55] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
-[03:13:55] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
-[03:13:55] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
-[03:13:55] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[03:13:55] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[03:13:55] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[03:13:56] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[03:13:56] [main/INFO]: Loading Collective version 8.1.
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:shattered
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:sludge
-[03:13:56] [main/ERROR]: No data fixer registered for deeperdarker:stalker
-[03:13:56] [main/ERROR]: No data fixer registered for crystallized_amber
-[03:13:56] [main/ERROR]: No data fixer registered for sculk_jaw
-[03:13:56] [main/INFO]: ExpandAbility here, who dis?
-[03:13:57] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[03:13:57] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[03:13:57] [main/ERROR]: No data fixer registered for anomaly
-[03:13:57] [main/INFO]: Initializing Gravestones
-[03:13:57] [main/INFO]: Hello Fabric world!
-[03:13:57] [main/INFO]: Constructing common components for magnumtorch:main
-[03:13:57] [main/INFO]: Hello Fabric world!
-[03:13:58] [main/INFO]: Noaaan: I'm talking to my inner demons. Which is all of you
-[03:13:58] [main/INFO]: Initializing PneumonoCore
-[03:13:58] [main/INFO]: Constructing common components for puzzleslib:main
-[03:13:58] [main/INFO]: Initializing Silk
-[03:13:59] [main/INFO]: [Spawn Animations] MidnightLib detected!
-[03:13:59] [main/INFO]: [Spawn Animations] Registering server started event...
-[03:13:59] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
-[03:13:59] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03:13:59] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[03:13:59] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[03:13:59] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[03:13:59] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[03:13:59] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[03:13:59] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[03:14:00] [main/ERROR]: No data fixer registered for 
-[03:14:01] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[03:14:01] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[03:14:01] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[03:14:01] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[03:14:01] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
-[03:14:01] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
-[03:14:01] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
-[03:14:01] [DefaultDispatcher-worker-1/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
-[03:14:01] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
-[03:14:01] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
-[03:14:01] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[03:14:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[03:14:01] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 2 values
-[03:14:01] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 2 values
-[03:14:02] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03:14:02] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[03:14:02] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:14:02] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
-[03:14:02] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
-[03:14:02] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
-[03:14:02] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
-[03:14:02] [main/INFO]: Running Pre Patchers on ./world/.
-[03:14:02] [main/INFO]: Everything up to date
-[03:14:02] [main/INFO]: Processing wover.datapack.registry Entrypoints
-[03:14:02] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
-[03:14:02] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
-[03:14:02] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
-[03:14:02] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
-[03:14:02] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
-[03:14:04] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (40d878a5)
-[03:14:04] [main/INFO]: Unable to build Biome List yet
-[03:14:04] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:04] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:04] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (1f7978f1)
-[03:14:04] [main/INFO]: Unable to build Biome List yet
-[03:14:04] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:04] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:04] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (589e73f8)
-[03:14:04] [main/INFO]: Unable to build Biome List yet
-[03:14:04] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:04] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:04] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (27838df1)
-[03:14:04] [main/INFO]: Unable to build Biome List yet
-[03:14:04] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:04] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:04] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (7179b2b3)
-[03:14:04] [main/INFO]: Unable to build Biome List yet
-[03:14:04] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:04] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:04] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7f02f282)
-[03:14:04] [main/INFO]: Unable to build Biome List yet
-[03:14:04] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:04] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
-[03:14:05] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (790ad7ea)
-[03:14:05] [main/INFO]: Unable to build Biome List yet
-[03:14:05] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:05] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:05] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (19c86378)
-[03:14:05] [main/INFO]: Unable to build Biome List yet
-[03:14:05] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:05] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:05] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[03:14:05] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[03:14:05] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[03:14:05] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[03:14:06] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[03:14:06] [Worker-Main-1/ERROR]: Unable to building bartering table
-[03:14:08] [main/INFO]: Disabling Recipe: bclib:test_star
-[03:14:08] [main/INFO]: Moving luckyblock recipes to custom map.
-[03:14:08] [main/INFO]: Loaded 3131 recipes
-[03:14:08] [main/INFO]: Loading luckyblock recipes.
-[03:14:08] [main/INFO]: EE IS NILL!!: luckyblocks:player_head
-[03:14:08] [main/INFO]: Loaded 3142 recipes
-[03:14:08] [main/INFO]: Added 0 recipes in 2ms
-[03:14:08] [main/ERROR]: Failed to load function better_babies:entity/loadup
+[00:01:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:01:34] [main/INFO]: Compatibility level set to JAVA_17
+[00:01:34] [main/INFO]: Compatibility level set to JAVA_21
+[00:01:35] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:35] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:36] [main/WARN]: Error loading class: net/minecraft/class_425 (java.lang.ClassNotFoundException: net/minecraft/class_425)
+[00:01:36] [main/WARN]: @Mixin target net.minecraft.class_425 was not found animated-logo.mixins.json:SplashOverlayMixin from mod animated-logo
+[00:01:37] [main/INFO]:  Isaiah's Lucky Blocks Mod
+[00:01:37] [main/INFO]:  Minecraft 1.21.1
+[00:01:37] [main/INFO]: Applied mixin: MixinBlockItem...
+[00:01:37] [main/INFO]: Applied mixin: MixinServerPlayerInteractionManager...
+[00:01:37] [main/INFO]: Applied mixin: MixinRecipeManager2...
+[00:01:37] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[00:01:37] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[00:01:37] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[00:01:37] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[00:01:37] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[00:01:39] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[00:01:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:02:08] [main/INFO]: Registering Listeners!
+[00:02:08] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[00:02:08] [main/INFO]: Initializing mod
+[00:02:11] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[00:02:11] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[00:02:11] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[00:02:11] [main/ERROR]: No data fixer registered for artifacts:mimic
+[00:02:12] [main/INFO]: Reflections took 291 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:12] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:13] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:13] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:13] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:13] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 1 values
+[00:02:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:02:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:13] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:13] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
+[00:02:13] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
+[00:02:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[00:02:13] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:02:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:02:14] [main/INFO]: Loading Collective version 8.1.
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[00:02:15] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[00:02:15] [main/ERROR]: No data fixer registered for crystallized_amber
+[00:02:15] [main/ERROR]: No data fixer registered for sculk_jaw
+[00:02:15] [main/INFO]: ExpandAbility here, who dis?
+[00:02:16] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[00:02:16] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[00:02:16] [main/ERROR]: No data fixer registered for anomaly
+[00:02:16] [main/INFO]: Initializing Gravestones
+[00:02:16] [main/INFO]: Hello Fabric world!
+[00:02:16] [main/INFO]: Constructing common components for magnumtorch:main
+[00:02:16] [main/INFO]: Hello Fabric world!
+[00:02:17] [main/INFO]: chyzman: No sound or Ender Dragon leakage. Although Ender Dragon sound leakage is still a thing
+[00:02:17] [main/INFO]: Initializing PneumonoCore
+[00:02:17] [main/INFO]: Constructing common components for puzzleslib:main
+[00:02:18] [main/INFO]: Initializing Silk
+[00:02:19] [main/INFO]: [Spawn Animations] MidnightLib detected!
+[00:02:19] [main/INFO]: [Spawn Animations] Registering server started event...
+[00:02:19] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[00:02:19] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:02:19] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:02:19] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[00:02:19] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[00:02:19] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[00:02:19] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[00:02:19] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[00:02:21] [main/ERROR]: No data fixer registered for 
+[00:02:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[00:02:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[00:02:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[00:02:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[00:02:25] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
+[00:02:25] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
+[00:02:25] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[00:02:26] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:26] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
+[00:02:26] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:26] [DefaultDispatcher-worker-1/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[00:02:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:26] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:02:26] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:02:26] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[00:02:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:27] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[00:02:27] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
+[00:02:27] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
+[00:02:27] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
+[00:02:27] [main/INFO]: Running Pre Patchers on ./world/.
+[00:02:27] [main/INFO]: Everything up to date
+[00:02:27] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[00:02:27] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[00:02:27] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[00:02:27] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[00:02:27] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[00:02:27] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[00:02:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6645004e)
+[00:02:29] [main/INFO]: Unable to build Biome List yet
+[00:02:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (3572f0e3)
+[00:02:29] [main/INFO]: Unable to build Biome List yet
+[00:02:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6476074f)
+[00:02:29] [main/INFO]: Unable to build Biome List yet
+[00:02:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (64a225f6)
+[00:02:29] [main/INFO]: Unable to build Biome List yet
+[00:02:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (134e2151)
+[00:02:29] [main/INFO]: Unable to build Biome List yet
+[00:02:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4fbd4911)
+[00:02:29] [main/INFO]: Unable to build Biome List yet
+[00:02:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[00:02:30] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (365aebf1)
+[00:02:30] [main/INFO]: Unable to build Biome List yet
+[00:02:30] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:30] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:30] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5a7651d5)
+[00:02:30] [main/INFO]: Unable to build Biome List yet
+[00:02:30] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:30] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:31] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[00:02:31] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[00:02:31] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[00:02:31] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[00:02:32] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[00:02:32] [Worker-Main-1/ERROR]: Unable to building bartering table
+[00:02:35] [main/INFO]: Disabling Recipe: bclib:test_star
+[00:02:35] [main/INFO]: Moving luckyblock recipes to custom map.
+[00:02:36] [main/INFO]: Loaded 3131 recipes
+[00:02:36] [main/INFO]: Loading luckyblock recipes.
+[00:02:36] [main/INFO]: EE IS NILL!!: luckyblocks:player_head
+[00:02:36] [main/INFO]: Loaded 3142 recipes
+[00:02:36] [main/INFO]: Added 0 recipes in 2ms
+[00:02:36] [main/ERROR]: Failed to load function better_babies:entity/loadup
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / data_api:flags/is_baby] at position 122: ...gs/is_baby<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -412,148 +412,148 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 	at knot/net.minecraft.class_5349.method_29451(class_5349.java:89) ~[server-intermediary.jar:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[03:14:08] [main/WARN]: Found validation problems in advancement better_babies:player_interacted_with_entity/entities: 
+[00:02:36] [main/WARN]: Found validation problems in advancement better_babies:player_interacted_with_entity/entities: 
  at pet_mob.player[1]: Unknown condition table called data_api:flags/is_sneaking
-[03:14:08] [main/ERROR]: Couldn't load advancements: [better_babies:pack, minecraft:give_quest_trader_trade, minecraft:wander_add_map]
-[03:14:08] [main/INFO]: Loaded 3295 advancements
-[03:14:09] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:wolf_temptables
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7ab1b0f8)
-[03:14:12] [main/INFO]: Added 11 Biomes
-[03:14:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[03:14:12] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:12] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (2ae6a92f)
-[03:14:12] [main/INFO]: Added 2 Biomes
-[03:14:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[03:14:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[03:14:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[03:14:12] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:12] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7ab1b0f8)
-[03:14:12] [main/INFO]: Added 11 Biomes
-[03:14:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[03:14:12] [main/INFO]: Enforcing Correct Generator for minecraft:the_nether.
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7ab1b0f8)
-[03:14:12] [main/INFO]: Added 11 Biomes
-[03:14:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[03:14:12] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:12] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[03:14:12] [main/INFO]: Added 4 biomes to wover:is_end/highland in 6.467 ms
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (2ae6a92f)
-[03:14:12] [main/INFO]: Added 2 Biomes
-[03:14:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[03:14:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[03:14:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (19c86378)
-[03:14:12] [main/INFO]: Added 2 Biomes
-[03:14:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[03:14:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[03:14:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (19c86378)
-[03:14:12] [main/INFO]: Added 2 Biomes
-[03:14:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[03:14:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[03:14:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[03:14:12] [main/INFO]: Loading World with initially configured Dimensions.
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (7ab1b0f8)
-[03:14:12] [main/INFO]: Added 11 Biomes
-[03:14:12] [main/INFO]:  - betternether:old_swampland, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:soul_plain, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
-[03:14:12] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
-[03:14:12] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (19c86378)
-[03:14:12] [main/INFO]: Added 2 Biomes
-[03:14:12] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[03:14:12] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[03:14:12] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[03:14:12] [main/INFO]: Applied 56 biome modifications and added 16 tags to 18 of 177 biomes in 46.72 ms
-[03:14:13] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03:14:13] [main/INFO]: Applied 472 biome modifications to 114 of 177 new biomes in 176.9 ms
-[03:14:13] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[03:14:13] [Server thread/INFO]: Dispatching loading event for config magnumtorch-server.toml
-[03:14:14] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2723 bytes (in 1 string chunks with the size of 10000)
-[03:14:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:14:14] [Server thread/INFO]: Loading properties
-[03:14:14] [Server thread/INFO]: Default game type: SURVIVAL
-[03:14:14] [Server thread/INFO]: Generating keypair
-[03:14:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:14:14] [Server thread/INFO]: Using epoll channel type
-[03:14:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:14:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:14:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:14:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:14:14] [Server thread/INFO]: Preparing level "world"
-[03:14:14] [Server thread/INFO]: World Dimensions: 
+[00:02:36] [main/ERROR]: Couldn't load advancements: [better_babies:pack, minecraft:give_quest_trader_trade, minecraft:wander_add_map]
+[00:02:36] [main/INFO]: Loaded 3295 advancements
+[00:02:37] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:wolf_temptables
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4dbded12)
+[00:02:42] [main/INFO]: Added 11 Biomes
+[00:02:42] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[00:02:42] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:42] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5364f372)
+[00:02:42] [main/INFO]: Added 2 Biomes
+[00:02:42] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:02:42] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:02:42] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:02:42] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:42] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4dbded12)
+[00:02:42] [main/INFO]: Added 11 Biomes
+[00:02:42] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[00:02:42] [main/INFO]: Enforcing Correct Generator for minecraft:the_nether.
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4dbded12)
+[00:02:42] [main/INFO]: Added 11 Biomes
+[00:02:42] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[00:02:42] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:42] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:02:42] [main/INFO]: Added 4 biomes to wover:is_end/highland in 6.252 ms
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5364f372)
+[00:02:42] [main/INFO]: Added 2 Biomes
+[00:02:42] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:02:42] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:02:42] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5a7651d5)
+[00:02:42] [main/INFO]: Added 2 Biomes
+[00:02:42] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:02:42] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:02:42] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5a7651d5)
+[00:02:42] [main/INFO]: Added 2 Biomes
+[00:02:42] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:02:42] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:02:42] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:02:42] [main/INFO]: Loading World with initially configured Dimensions.
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4dbded12)
+[00:02:42] [main/INFO]: Added 11 Biomes
+[00:02:42] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[00:02:42] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[00:02:42] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (5a7651d5)
+[00:02:42] [main/INFO]: Added 2 Biomes
+[00:02:42] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:02:42] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:02:42] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:02:42] [main/INFO]: Applied 56 biome modifications and added 16 tags to 18 of 177 biomes in 33.73 ms
+[00:02:44] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[00:02:44] [main/INFO]: Applied 472 biome modifications to 114 of 177 new biomes in 305.5 ms
+[00:02:44] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[00:02:44] [Server thread/INFO]: Dispatching loading event for config magnumtorch-server.toml
+[00:02:44] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2723 bytes (in 1 string chunks with the size of 10000)
+[00:02:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:02:44] [Server thread/INFO]: Loading properties
+[00:02:44] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:44] [Server thread/INFO]: Generating keypair
+[00:02:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:45] [Server thread/INFO]: Using epoll channel type
+[00:02:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:45] [Server thread/INFO]: Preparing level "world"
+[00:02:45] [Server thread/INFO]: World Dimensions: 
  - deeperdarker:otherside: 
-     class_3754 (15249481)
+     class_3754 (9e62979)
          preset     = none
          noise      = deeperdarker:otherside
          features   = minecraft(2), deeperdarker(44)
-     class_4766 (69ebec1b)
+     class_4766 (168c2b8c)
          biomes     = 4
          namespaces = deeperdarker(4)
- - minecraft:overworld: 
-     class_3754 (2a0e7f06)
-         preset     = minecraft:normal
-         noise      = minecraft:overworld
-         features   = minecraft(148), yungsextras(62), yungsbridges(1), biomesoplenty(203), artifacts(1)
-     class_4766 (3bb9d783)
-         biomes     = 114
-         namespaces = minecraft(53), biomesoplenty(61)
  - minecraft:the_nether: 
-     WoVer - Chunk Generator (5accf8db)
+     WoVer - Chunk Generator (5e8ba9a7)
          preset     = wover:normal
          noise      = minecraft:nether
          features   = minecraft(41), betternether(95), incendium(36), biomesoplenty(27)
-     WoVer - Nether BiomeSource (7ab1b0f8)
+     WoVer - Nether BiomeSource (4dbded12)
          biomes     = 40
-         namespaces = incendium(8), betternether(22), biomesoplenty(5), minecraft(5)
+         namespaces = betternether(22), incendium(8), biomesoplenty(5), minecraft(5)
          seed       = 0
          height     = 192
          config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
+ - minecraft:overworld: 
+     class_3754 (6933e244)
+         preset     = minecraft:normal
+         noise      = minecraft:overworld
+         features   = minecraft(148), yungsextras(62), yungsbridges(1), biomesoplenty(203), artifacts(1)
+     class_4766 (aef3586)
+         biomes     = 114
+         namespaces = minecraft(53), biomesoplenty(61)
  - minecraft:the_end: 
-     WoVer - Chunk Generator (ecfed95)
+     WoVer - Chunk Generator (2715c656)
          preset     = wover:normal
          noise      = minecraft:end
          features   = minecraft(5), biomesoplenty(17)
-     WoVer - The End  BiomeSource (19c86378)
+     WoVer - The End  BiomeSource (5a7651d5)
          biomes     = 8
          namespaces = minecraft(5), biomesoplenty(3)
          seed       = 7210562256221756153
@@ -561,255 +561,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
          deciders   = 0
          config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
  - the_bumblezone:the_bumblezone: 
-     BzChunkGenerator (4f279d17)
+     BzChunkGenerator (480df609)
          preset     = none
          noise      = the_bumblezone:bz_noise_settings
          features   = the_bumblezone(41)
-     BzBiomeSource (74da5d58)
+     BzBiomeSource (3d2002cf)
          biomes     = 9
          namespaces = the_bumblezone(9)
-[03:14:14] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 147 (4.274 ms) using WoVer - Nether BiomeSource (7ab1b0f8)
+[00:02:45] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 147 (2.663 ms) using WoVer - Nether BiomeSource (4dbded12)
     biomes     = 40
-    namespaces = incendium(8), betternether(22), biomesoplenty(5), minecraft(5)
+    namespaces = betternether(22), incendium(8), biomesoplenty(5), minecraft(5)
     seed       = 0
     height     = 192
     config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[03:14:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:14:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:14:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:14:36] [Server thread/INFO]: Time elapsed: 1075 ms
-[03:14:36] [Server thread/INFO]: Done (21.941s)! For help, type "help"
-[03:14:36] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[03:14:36] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[03:14:36] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[03:14:36] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[03:14:36] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[03:14:36] [Server thread/INFO]: [Spawn Animations] Sending global config to server...
-[03:14:36] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03:14:36] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[03:14:39] [Thread-14/WARN]: Failed to fetch skin: not found
-[03:14:41] [Server thread/INFO]: Luisillo0516[/100.113.11.119:59917] logged in with entity id 68 at (182.05816231457231, 62.0, -1804.4623450131512)
-[03:14:41] [Server thread/INFO]: Sending server config values to client
-[03:14:41] [Server thread/INFO]: Creating new config sync packet
-[03:14:41] [Server thread/INFO]: Loading config from file...
-[03:14:41] [Server thread/INFO]: Luisillo0516 joined the game
-[03:14:42] [Server thread/INFO]: [showmeyourskin] Client of Luisillo0516 accepted server config.
-[03:14:42] [Server thread/INFO]: Receiving client config
-[03:14:44] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:54214] logged in with entity id 140 at (176.48859196839132, 72.23152379758702, -1787.8185953108975)
-[03:14:44] [Server thread/INFO]: Sending server config values to client
-[03:14:44] [Server thread/INFO]: Creating new config sync packet
-[03:14:44] [Server thread/INFO]: Loading config from file...
-[03:14:44] [Server thread/INFO]: YoshiHD4K joined the game
-[03:14:44] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
-[03:14:44] [Server thread/INFO]: Receiving client config
-[03:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[03:14:45] [Server thread/INFO]: SEBAXWARRIOR[/100.77.245.96:59851] logged in with entity id 164 at (10.073979362590515, 114.0, 811.1547258033717)
-[03:14:45] [Server thread/INFO]: Sending server config values to client
-[03:14:45] [Server thread/INFO]: Creating new config sync packet
-[03:14:45] [Server thread/INFO]: Loading config from file...
-[03:14:45] [Server thread/INFO]: SEBAXWARRIOR joined the game
-[03:14:45] [Server thread/INFO]: [showmeyourskin] Client of SEBAXWARRIOR accepted server config.
-[03:14:45] [Server thread/INFO]: Receiving client config
-[03:15:04] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=176, y=77, z=-1783}) doesn't have enough leaves around top most log
-[03:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10473ms or 209 ticks behind
-[03:16:36] [Server thread/INFO]: [Not Secure] <SEBAXWARRIOR> xaero-waypoint:si:S:24:105:889:2:false:0:Internal-overworld-waypoints
-[03:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
-[03:16:53] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 24.500000, 105.500000, 889.500000]
-[03:17:04] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 24.500000, 105.500000, 889.500000]
-[03:17:33] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=60, y=112, z=804}) doesn't have enough leaves around top most log
-[03:20:28] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 168.500000, 111.500000, 666.500000]
-[03:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4345ms or 86 ticks behind
-[03:22:10] [Server thread/INFO]: Luisillo0516 has made the advancement [Acquire Hardware]
-[03:23:01] [Server thread/INFO]: [YoshiHD4K: Gamerule playersSleepingPercentage is now set to: 1]
-[03:23:48] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 159.500000, 111.500000, 671.500000]
-[03:25:55] [Server thread/WARN]: SEBAXWARRIOR moved too quickly! 9.687843036761421,3.0724278036804407,1.0425016216174754
-[03:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
-[03:26:29] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to YoshiHD4K]
-[03:29:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=82, y=111, z=863}) doesn't have enough leaves around top most log
-[03:30:52] [Server thread/INFO]: Luisillo0516 has made the advancement [A Seedy Place]
-[03:31:24] [Server thread/INFO]: [Not Secure] <Luisillo0516> xaero-waypoint:Futuro Huerto:F:160:112:660:10:false:0:Internal-overworld-waypoints
-[03:31:55] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 160.500000, 112.500000, 660.500000]
-[03:32:48] [Server thread/INFO]: YoshiHD4K has made the advancement [Acquire Hardware]
-[03:33:30] [Server thread/INFO]: [Not Secure] <SEBAXWARRIOR> xaero-waypoint:posibilidad de casa:P:66:111:845:3:false:0:Internal-overworld-waypoints
-[03:33:42] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 66.500000, 111.500000, 845.500000]
-[03:34:29] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 160.500000, 112.500000, 660.500000]
-[03:34:49] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 66.500000, 111.500000, 845.500000]
-[03:35:24] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 68.500000, 111.500000, 846.500000]
-[03:36:19] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=19, y=111, z=854}) doesn't have enough leaves around top most log
-[03:36:37] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=12, y=111, z=861}) doesn't have enough leaves around top most log
-[03:37:18] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=44, y=111, z=818}) doesn't have enough leaves around top most log
-[03:37:25] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=49, y=112, z=817}) doesn't have enough leaves around top most log
-[03:37:27] [Server thread/INFO]: [Not Secure] <Luisillo0516> xaero-waypoint:Fuera de mi cesped:F:8:112:865:4:false:0:Internal-overworld-waypoints
-[03:37:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1, y=112, z=870}) doesn't have enough leaves around top most log
-[03:38:01] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-9, y=112, z=872}) doesn't have enough leaves around top most log
-[03:38:52] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
-[03:40:39] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Suit Up]
-[03:41:25] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Isn't It Iron Pick]
-[03:43:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=68, y=111, z=856}) doesn't have enough leaves around top most log
-[03:43:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=73, y=111, z=862}) doesn't have enough leaves around top most log
-[03:44:09] [Server thread/INFO]: [Not Secure] [Server] Ha entrado Hildred
-[03:44:18] [Server thread/INFO]: [Not Secure] <Luisillo0516> NOOOOOOOOOO
-[03:56:10] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 37.500000, 233.500000, -1843.500000]
-[03:57:16] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=4, y=110, z=870}) doesn't have enough leaves around top most log
-[03:57:56] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 28.500000, 100.500000, 893.500000]
-[03:58:38] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 26.500000, 233.500000, -1841.500000]
-[04:07:15] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 68.500000, 111.500000, 847.500000]
-[04:08:13] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to -184.500000, 81.500000, 13.500000]
-[04:09:14] [Server thread/INFO]: [YoshiHD4K: No skin changes]
-[04:09:54] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 31.500000, 233.500000, -1843.500000]
-[04:10:25] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 160.500000, 112.500000, 660.500000]
-[04:10:47] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 66.500000, 111.500000, 845.500000]
-[04:10:54] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 9.500000, 112.500000, 866.500000]
-[04:12:36] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
-[04:12:36] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
-[04:12:36] [Server thread/ERROR]: 
-java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
-	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[04:13:41] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 44.500000, 96.500000, 589.500000]
-[04:14:01] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 127.500000, 73.500000, 7.500000]
-[04:14:39] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
-[04:16:02] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=138, y=69, z=28}) doesn't have enough leaves around top most log
-[04:18:15] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 73.500000, 111.500000, 855.500000]
-[04:18:38] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 30.500000, 233.500000, -1844.500000]
-[04:20:11] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 67.500000, 111.500000, 848.500000]
-[04:20:21] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 846.500000]
-[04:21:07] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to YoshiHD4K]
-[04:22:36] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 119.500000, 76.500000, -17.500000]
-[04:23:37] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Not Today, Thank You]
-[04:23:39] [Server thread/INFO]: SEBAXWARRIOR has made the advancement [Voluntary Exile]
-[04:23:44] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 8.500000, 112.500000, 865.500000]
-[04:27:04] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=9, y=111, z=864}) doesn't have enough leaves around top most log
-[04:28:45] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=74, y=111, z=838}) doesn't have enough leaves around top most log
-[04:28:47] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=79, y=111, z=842}) doesn't have enough leaves around top most log
-[04:30:08] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -325.500000, 79.500000, -54.500000]
-[04:30:11] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-331, y=80, z=-56}) doesn't have enough leaves around top most log
-[04:30:25] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 634.500000, 73.500000, 682.500000]
-[04:30:54] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -196.500000, 72.500000, -547.500000]
-[04:31:07] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -4.500000, 72.500000, -1333.500000]
-[04:32:58] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 63.500000, 111.500000, 859.500000]
-[04:34:22] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 61.500000, 80.500000, 1112.500000]
-[04:35:26] [Server thread/INFO]: Locating element minecraft:dark_forest took 174 ms
-[04:35:30] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to -153.500000, 71.500000, 58.500000]
-[04:35:35] [Server thread/INFO]: [Not Secure] <YoshiHD4K> 468 112 1112
-[04:36:18] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 36.500000, 104.500000, 1413.500000]
-[04:36:21] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-165, y=64, z=58}) doesn't have enough leaves around top most log
-[04:36:23] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 55.500000, 102.500000, 1466.500000]
-[04:36:58] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 110.500000, 64.500000, 1223.500000]
-[04:37:12] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 66.500000, 111.500000, 845.500000]
-[04:37:14] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=50, y=112, z=828}) doesn't have enough leaves around top most log
-[04:37:15] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=50, y=113, z=828}) doesn't have enough leaves around top most log
-[04:37:16] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=50, y=114, z=828}) doesn't have enough leaves around top most log
-[04:37:17] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=50, y=115, z=828}) doesn't have enough leaves around top most log
-[04:37:18] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=50, y=116, z=828}) doesn't have enough leaves around top most log
-[04:37:44] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 210.500000, 65.500000, 1249.500000]
-[04:37:55] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to -85.500000, 73.500000, 135.500000]
-[04:38:07] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to -9.500000, 92.500000, 19.500000]
-[04:38:22] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to 10.500000, 112.500000, 863.500000]
-[04:38:41] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=49, y=114, z=834}) doesn't have enough leaves around top most log
-[04:38:53] [Server thread/INFO]: [Luisillo0516: Teleported Luisillo0516 to -23.500000, 116.500000, 22.500000]
-[04:38:55] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=52, y=117, z=828}) doesn't have enough leaves around top most log
-[04:39:07] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=56, y=117, z=828}) doesn't have enough leaves around top most log
-[04:39:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=57, y=113, z=828}) doesn't have enough leaves around top most log
-[04:39:09] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=57, y=112, z=828}) doesn't have enough leaves around top most log
-[04:39:12] [Server thread/INFO]: Tree reached max size of 100
-[04:39:14] [Server thread/INFO]: Tree reached max size of 100
-[04:39:14] [Server thread/INFO]: Tree reached max size of 100
-[04:39:16] [Server thread/INFO]: Tree reached max size of 100
-[04:39:17] [Server thread/INFO]: Tree reached max size of 100
-[04:39:18] [Server thread/INFO]: Tree reached max size of 100
-[04:39:20] [Server thread/INFO]: Tree reached max size of 100
-[04:39:21] [Server thread/INFO]: Tree reached max size of 100
-[04:39:23] [Server thread/INFO]: Tree reached max size of 100
-[04:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[04:39:24] [Server thread/INFO]: Tree reached max size of 100
-[04:39:25] [Server thread/INFO]: Tree reached max size of 100
-[04:39:26] [Server thread/INFO]: Tree reached max size of 100
-[04:39:27] [Server thread/INFO]: Tree reached max size of 100
-[04:39:31] [Server thread/INFO]: Tree reached max size of 100
-[04:39:32] [Server thread/INFO]: Tree reached max size of 100
-[04:39:34] [Server thread/INFO]: Tree reached max size of 100
-[04:39:35] [Server thread/INFO]: Tree reached max size of 100
-[04:39:36] [Server thread/INFO]: Tree reached max size of 100
-[04:39:37] [Server thread/INFO]: Tree reached max size of 100
-[04:39:38] [Server thread/INFO]: Tree reached max size of 100
-[04:39:39] [Server thread/INFO]: Tree reached max size of 100
-[04:39:39] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=49, y=112, z=834}) doesn't have enough leaves around top most log
-[04:39:40] [Server thread/INFO]: Tree reached max size of 100
-[04:39:42] [Server thread/INFO]: Tree reached max size of 100
-[04:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5548ms or 110 ticks behind
-[04:39:44] [Server thread/INFO]: Tree reached max size of 100
-[04:39:46] [Server thread/INFO]: Tree reached max size of 100
-[04:39:47] [Server thread/INFO]: Tree reached max size of 100
-[04:39:48] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=49, y=114, z=833}) doesn't have enough leaves around top most log
-[04:39:49] [Server thread/INFO]: Tree reached max size of 100
-[04:39:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=49, y=113, z=833}) doesn't have enough leaves around top most log
-[04:39:50] [Server thread/INFO]: Tree reached max size of 100
-[04:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[04:40:03] [Server thread/INFO]: Tree reached max size of 100
-[04:40:04] [Server thread/INFO]: Tree reached max size of 100
-[04:40:05] [Server thread/INFO]: Tree reached max size of 100
-[04:40:06] [Server thread/INFO]: Tree reached max size of 100
-[04:40:47] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=97, z=15}) doesn't have enough leaves around top most log
-[04:40:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=96, z=15}) doesn't have enough leaves around top most log
-[04:40:50] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=95, z=15}) doesn't have enough leaves around top most log
-[04:40:51] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=94, z=15}) doesn't have enough leaves around top most log
-[04:40:52] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=93, z=15}) doesn't have enough leaves around top most log
-[04:40:53] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=92, z=15}) doesn't have enough leaves around top most log
-[04:40:56] [Server thread/WARN]: SEBAXWARRIOR moved too quickly! 8.505196284970452,0.12486439780541048,-5.471750056348128
-[04:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
-[04:40:57] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-32, y=91, z=15}) doesn't have enough leaves around top most log
-[04:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
-[04:41:28] [Server thread/INFO]: Tree reached max size of 100
-[04:41:30] [Server thread/INFO]: Tree reached max size of 100
-[04:41:32] [Server thread/WARN]: SEBAXWARRIOR moved too quickly! 7.488751843969226,2.580000013113022,-6.503146759782112
-[04:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
-[04:41:33] [Server thread/INFO]: Tree reached max size of 100
-[04:41:35] [Server thread/INFO]: Tree reached max size of 100
-[04:41:37] [Server thread/INFO]: Tree reached max size of 100
-[04:41:38] [Server thread/INFO]: Tree reached max size of 100
-[04:41:40] [Server thread/INFO]: Tree reached max size of 100
-[04:41:41] [Server thread/INFO]: Tree reached max size of 100
-[04:41:42] [Server thread/INFO]: Tree reached max size of 100
-[04:41:43] [Server thread/INFO]: Tree reached max size of 100
-[04:41:45] [Server thread/INFO]: Tree reached max size of 100
-[04:41:45] [Server thread/INFO]: Tree reached max size of 100
-[04:41:48] [Server thread/INFO]: Tree reached max size of 100
-[04:41:49] [Server thread/INFO]: Tree reached max size of 100
-[04:41:50] [Server thread/INFO]: Tree reached max size of 100
-[04:41:51] [Server thread/INFO]: Tree reached max size of 100
-[04:41:52] [Server thread/INFO]: Tree reached max size of 100
-[04:41:53] [Server thread/INFO]: Tree reached max size of 100
-[04:41:54] [Server thread/INFO]: Tree reached max size of 100
-[04:41:55] [Server thread/INFO]: Tree reached max size of 100
-[04:41:57] [Server thread/INFO]: Tree reached max size of 100
-[04:41:58] [Server thread/INFO]: Tree reached max size of 100
-[04:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[04:42:00] [Server thread/INFO]: Tree reached max size of 100
-[04:42:01] [Server thread/INFO]: Tree reached max size of 100
-[04:42:12] [Server thread/INFO]: Tree reached max size of 100
-[04:42:13] [Server thread/INFO]: Tree reached max size of 100
-[04:42:14] [Server thread/INFO]: Tree reached max size of 100
-[04:42:16] [Server thread/INFO]: Tree reached max size of 100
-[04:42:17] [Server thread/INFO]: Tree reached max size of 100
-[04:42:30] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[04:42:30] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[04:42:30] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[04:42:54] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-53, y=96, z=5}) doesn't have enough leaves around top most log
-[04:42:55] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-53, y=95, z=5}) doesn't have enough leaves around top most log
+[00:03:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:03:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:03:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:03:10] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[00:03:10] [Server thread/INFO]: Time elapsed: 1421 ms
+[00:03:10] [Server thread/INFO]: Done (25.495s)! For help, type "help"
+[00:03:11] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[00:03:11] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[00:03:11] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[00:03:11] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[00:03:11] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[00:03:11] [Server thread/INFO]: [Spawn Animations] Sending global config to server...
+[00:03:11] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:03:11] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[00:05:12] [Thread-14/WARN]: Failed to fetch skin: not found
+[00:05:15] [Server thread/INFO]: LivioG[/100.64.175.52:59114] logged in with entity id 33 at (2.5, 109.0, -9.5)
+[00:05:15] [Server thread/INFO]: Sending server config values to client
+[00:05:15] [Server thread/INFO]: Creating new config sync packet
+[00:05:15] [Server thread/INFO]: Loading config from file...
+[00:05:15] [Server thread/INFO]: LivioG joined the game
+[00:05:15] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
+[00:05:17] [Server thread/INFO]: Receiving client config
+[00:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[00:05:43] [Server thread/INFO]: [Not Secure] [Server] hola bolivio
+[00:05:54] [Server thread/INFO]: [Not Secure] <LivioG> hola putas
+[00:06:02] [Server thread/INFO]: [Not Secure] [Server] XDDDDD
+[00:07:11] [Server thread/INFO]: LivioG lost connection: Disconnected
+[00:07:11] [Server thread/INFO]: LivioG left the game
