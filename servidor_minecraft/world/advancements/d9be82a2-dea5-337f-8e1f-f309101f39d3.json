@@ -256,6 +256,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-16 02:19:52 +0000",
+      "rotten_flesh": "2025-04-17 02:47:31 +0000",
       "cooked_mutton": "2025-04-16 01:44:02 +0000",
       "cooked_beef": "2025-04-17 02:33:08 +0000",
       "beef": "2025-04-16 02:15:52 +0000"
@@ -2356,6 +2357,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-17 02:51:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
@@ -2434,6 +2441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-17 02:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
@@ -2449,6 +2462,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-17 02:49:01 +0000"
     },
     "done": true
   },
