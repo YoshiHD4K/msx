@@ -648,3 +648,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [01:48:30] [Server thread/INFO]: j_leoneltorres joined the game
 [01:48:30] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
 [01:48:30] [Server thread/INFO]: Receiving client config
+[01:53:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-275, y=119, z=1027}) doesn't have enough leaves around top most log
+[01:57:26] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-285, y=118, z=1012}) doesn't have enough leaves around top most log
+[01:59:53] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 81.500000, 111.500000, 845.500000]
+[02:00:53] [Server thread/INFO]: j_leoneltorres has made the advancement [Isn't It Iron Pick]
+[02:16:02] [Server thread/INFO]: [Not Secure] <YoshiHD4K> preguntenle si tiene novio
+[02:17:26] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
