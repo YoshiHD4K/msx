@@ -213,6 +213,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-16 01:41:42 +0000",
+      "minecraft:deep_dark": "2025-04-17 03:15:50 +0000",
       "minecraft:river": "2025-04-16 02:08:57 +0000"
     },
     "done": false
@@ -259,7 +260,8 @@
       "rotten_flesh": "2025-04-17 02:47:31 +0000",
       "cooked_mutton": "2025-04-16 01:44:02 +0000",
       "cooked_beef": "2025-04-17 02:33:08 +0000",
-      "beef": "2025-04-16 02:15:52 +0000"
+      "beef": "2025-04-16 02:15:52 +0000",
+      "cooked_salmon": "2025-04-17 03:17:44 +0000"
     },
     "done": false
   },
@@ -2519,6 +2521,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-17 03:22:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-17 03:03:15 +0000"
@@ -2597,9 +2605,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 03:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-17 03:07:17 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-17 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-17 03:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-17 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-17 03:19:12 +0000"
     },
     "done": true
   },
