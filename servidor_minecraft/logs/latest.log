@@ -844,3 +844,81 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [03:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
 [03:42:53] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -173.500000, 89.500000, 705.500000]
 [03:43:03] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 15.500000, 110.500000, 831.500000]
+[03:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
+[03:44:14] [Server thread/INFO]: [deivdd: Teleported deivdd to -2.500000, 105.500000, 817.500000]
+[03:44:30] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 52.500000, 112.500000, 839.500000]
+[03:44:36] [Server thread/INFO]: [deivdd: Teleported deivdd to -31.500000, 110.500000, 813.500000]
+[03:44:55] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -121.500000, -44.500000, 906.500000]
+[03:45:11] [Server thread/INFO]: deivdd lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:45:11] [Server thread/INFO]: deivdd left the game
+[03:45:19] [Server thread/INFO]: deivdd[/100.112.142.19:54343] logged in with entity id 78529 at (76.85319192734883, 111.5, 850.79928636933)
+[03:45:19] [Server thread/INFO]: Sending server config values to client
+[03:45:19] [Server thread/INFO]: Creating new config sync packet
+[03:45:19] [Server thread/INFO]: Loading config from file...
+[03:45:19] [Server thread/INFO]: deivdd joined the game
+[03:45:19] [Server thread/INFO]: [showmeyourskin] Client of deivdd accepted server config.
+[03:45:19] [Server thread/INFO]: Receiving client config
+[03:45:21] [Server thread/INFO]: deivdd lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:45:21] [Server thread/INFO]: deivdd left the game
+[03:45:24] [Server thread/INFO]: deivdd[/100.112.142.19:54352] logged in with entity id 78562 at (76.85319192734883, 111.5, 850.79928636933)
+[03:45:24] [Server thread/INFO]: Sending server config values to client
+[03:45:24] [Server thread/INFO]: Creating new config sync packet
+[03:45:24] [Server thread/INFO]: Loading config from file...
+[03:45:24] [Server thread/INFO]: deivdd joined the game
+[03:45:24] [Server thread/INFO]: [showmeyourskin] Client of deivdd accepted server config.
+[03:45:24] [Server thread/INFO]: Receiving client config
+[03:45:42] [Server thread/INFO]: deivdd lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:45:42] [Server thread/INFO]: deivdd left the game
+[03:45:46] [Server thread/INFO]: deivdd[/100.112.142.19:54364] logged in with entity id 78701 at (76.49370809531531, 111.0, 840.3208558522025)
+[03:45:46] [Server thread/INFO]: Sending server config values to client
+[03:45:46] [Server thread/INFO]: Creating new config sync packet
+[03:45:46] [Server thread/INFO]: Loading config from file...
+[03:45:46] [Server thread/INFO]: deivdd joined the game
+[03:45:46] [Server thread/INFO]: [showmeyourskin] Client of deivdd accepted server config.
+[03:45:46] [Server thread/INFO]: Receiving client config
+[03:46:10] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
+[03:46:17] [Server thread/INFO]: YoshiHD4K lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:46:17] [Server thread/INFO]: YoshiHD4K left the game
+[03:46:32] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:59017] logged in with entity id 78899 at (74.67819424121528, 111.0, 839.7939696305333)
+[03:46:32] [Server thread/INFO]: Sending server config values to client
+[03:46:32] [Server thread/INFO]: Creating new config sync packet
+[03:46:32] [Server thread/INFO]: Loading config from file...
+[03:46:32] [Server thread/INFO]: YoshiHD4K joined the game
+[03:46:32] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
+[03:46:33] [Server thread/INFO]: Receiving client config
+[03:46:51] [Server thread/INFO]: LivioG was slain by Cave Spider
+[03:46:51] [Server thread/INFO]: Placed LivioG's Gravestone at (-79, 39, 781)
+[03:47:02] [Server thread/INFO]: deivdd lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:47:02] [Server thread/INFO]: deivdd left the game
+[03:47:07] [Server thread/INFO]: deivdd[/100.112.142.19:54388] logged in with entity id 79130 at (77.42566417877343, 112.0, 850.5269486334754)
+[03:47:07] [Server thread/INFO]: Sending server config values to client
+[03:47:07] [Server thread/INFO]: Creating new config sync packet
+[03:47:07] [Server thread/INFO]: Loading config from file...
+[03:47:07] [Server thread/INFO]: deivdd joined the game
+[03:47:07] [Server thread/INFO]: [showmeyourskin] Client of deivdd accepted server config.
+[03:47:07] [Server thread/INFO]: Receiving client config
+[03:47:10] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to deivdd]
+[03:47:22] [Server thread/INFO]: deivdd lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:47:22] [Server thread/INFO]: deivdd left the game
+[03:47:26] [Server thread/INFO]: deivdd[/100.112.142.19:54400] logged in with entity id 79198 at (77.55606589156828, 112.0, 850.523821367807)
+[03:47:26] [Server thread/INFO]: Sending server config values to client
+[03:47:26] [Server thread/INFO]: Creating new config sync packet
+[03:47:26] [Server thread/INFO]: Loading config from file...
+[03:47:26] [Server thread/INFO]: deivdd joined the game
+[03:47:26] [Server thread/INFO]: [showmeyourskin] Client of deivdd accepted server config.
+[03:47:26] [Server thread/INFO]: Receiving client config
+[03:47:44] [Server thread/INFO]: SEBAXWARRIOR lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:custom_payload'
+[03:47:44] [Server thread/INFO]: SEBAXWARRIOR left the game
+[03:47:55] [Server thread/INFO]: SEBAXWARRIOR[/100.77.245.96:57069] logged in with entity id 79321 at (77.16958068984023, 111.5, 850.4718691652702)
+[03:47:55] [Server thread/INFO]: Sending server config values to client
+[03:47:55] [Server thread/INFO]: Creating new config sync packet
+[03:47:55] [Server thread/INFO]: Loading config from file...
+[03:47:55] [Server thread/INFO]: SEBAXWARRIOR joined the game
+[03:47:55] [Server thread/INFO]: [showmeyourskin] Client of SEBAXWARRIOR accepted server config.
+[03:47:57] [Server thread/INFO]: Receiving client config
+[03:49:18] [Server thread/INFO]: LivioG has found their grave at (-79, 39, 781)
+[03:51:42] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to deivdd]
+[03:54:00] [Server thread/INFO]: LivioG burned to death
+[03:54:00] [Server thread/INFO]: Placed LivioG's Gravestone at (-1, 13, 792)
+[03:54:11] [Server thread/INFO]: deivdd has made the advancement [A Seedy Place]
