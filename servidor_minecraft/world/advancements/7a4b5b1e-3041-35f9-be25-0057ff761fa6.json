@@ -2911,5 +2911,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 15:49:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 15:49:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
