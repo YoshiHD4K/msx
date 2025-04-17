@@ -654,3 +654,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [02:00:53] [Server thread/INFO]: j_leoneltorres has made the advancement [Isn't It Iron Pick]
 [02:16:02] [Server thread/INFO]: [Not Secure] <YoshiHD4K> preguntenle si tiene novio
 [02:17:26] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
+[02:23:10] [Server thread/INFO]: LivioG[/100.64.175.52:64278] logged in with entity id 33151 at (110.56725855781512, -4.0, 541.265787216661)
+[02:23:10] [Server thread/INFO]: Sending server config values to client
+[02:23:10] [Server thread/INFO]: Creating new config sync packet
+[02:23:10] [Server thread/INFO]: Loading config from file...
+[02:23:11] [Server thread/INFO]: LivioG joined the game
+[02:23:11] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
+[02:23:11] [Server thread/INFO]: Receiving client config
+[02:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:26:26] [Server thread/INFO]: LivioG has found their grave at (111, -4, 541)
+[02:27:34] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to LivioG]
+[02:28:04] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to YoshiHD4K]
+[02:28:24] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 75.500000, 111.500000, 838.500000]
+[02:28:29] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to j_leoneltorres]
