@@ -61,36 +61,6 @@
       }
     },
     {
-      "owner": "7a4b5b1e-3041-35f9-be25-0057ff761fa6",
-      "firstGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": -9,
-        "posY": 110,
-        "posZ": 786
-      },
-      "secondGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": 20,
-        "posY": 110,
-        "posZ": 828
-      },
-      "thirdGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": -73,
-        "posY": -34,
-        "posZ": 814
-      }
-    },
-    {
       "owner": "2f4b014b-f4dc-3f9a-9f3f-d0512d718892",
       "firstGrave": {
         "dimension": {
@@ -157,27 +127,57 @@
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": -1,
-        "posY": 13,
-        "posZ": 792
+        "posX": 28,
+        "posY": 63,
+        "posZ": -1838
       },
       "secondGrave": {
         "dimension": {
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": -79,
-        "posY": 39,
-        "posZ": 781
+        "posX": 16,
+        "posY": 47,
+        "posZ": 788
       },
       "thirdGrave": {
         "dimension": {
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": 111,
-        "posY": -4,
-        "posZ": 541
+        "posX": 16,
+        "posY": 46,
+        "posZ": 788
+      }
+    },
+    {
+      "owner": "7a4b5b1e-3041-35f9-be25-0057ff761fa6",
+      "firstGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": -3,
+        "posY": 104,
+        "posZ": 793
+      },
+      "secondGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": -9,
+        "posY": 110,
+        "posZ": 786
+      },
+      "thirdGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 20,
+        "posY": 110,
+        "posZ": 828
       }
     }
   ]

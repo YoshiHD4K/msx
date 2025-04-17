@@ -922,3 +922,42 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [03:54:00] [Server thread/INFO]: LivioG burned to death
 [03:54:00] [Server thread/INFO]: Placed LivioG's Gravestone at (-1, 13, 792)
 [03:54:11] [Server thread/INFO]: deivdd has made the advancement [A Seedy Place]
+[03:55:46] [Server thread/INFO]: Named entity class_1428['Raul'/79477, l='ServerLevel[world]', x=74.96, y=111.70, z=845.47] died: Raul was slain by Fox
+[03:55:50] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=52, y=111, z=860}) doesn't have enough leaves around top most log
+[03:55:55] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=44, y=111, z=865}) doesn't have enough leaves around top most log
+[03:57:01] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=44, y=112, z=851}) doesn't have enough leaves around top most log
+[03:57:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=54, y=111, z=852}) doesn't have enough leaves around top most log
+[03:57:13] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=45, y=111, z=872}) doesn't have enough leaves around top most log
+[03:57:22] [Server thread/INFO]: LivioG has found their grave at (-1, 13, 792)
+[03:57:56] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to -311.500000, 125.500000, 1110.500000]
+[03:58:01] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=59, y=109, z=868}) doesn't have enough leaves around top most log
+[03:58:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=66, y=110, z=870}) doesn't have enough leaves around top most log
+[03:58:28] [Server thread/INFO]: LivioG burned to death
+[03:58:28] [Server thread/INFO]: Placed LivioG's Gravestone at (-13, 16, 799)
+[03:59:25] [Server thread/INFO]: LivioG fell from a high place
+[03:59:25] [Server thread/INFO]: Placed LivioG's Gravestone at (16, 46, 788)
+[03:59:31] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=48, y=111, z=882}) doesn't have enough leaves around top most log
+[03:59:47] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to LivioG]
+[03:59:57] [Server thread/INFO]: [deivdd: Teleported deivdd to LivioG]
+[04:00:31] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 38.500000, 232.500000, -1840.500000]
+[04:00:31] [Server thread/INFO]: j_leoneltorres has made the advancement [Acquire Hardware]
+[04:00:40] [Server thread/INFO]: [deivdd: Teleported deivdd to SEBAXWARRIOR]
+[04:00:41] [Server thread/INFO]: LivioG fell from a high place
+[04:00:41] [Server thread/INFO]: Placed LivioG's Gravestone at (16, 47, 788)
+[04:00:41] [Server thread/INFO]: LivioG has found their grave at (16, 46, 788)
+[04:00:41] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to LivioG]
+[04:00:50] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to SEBAXWARRIOR]
+[04:01:21] [Server thread/INFO]: [deivdd: Teleported deivdd to SEBAXWARRIOR]
+[04:01:39] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to LivioG]
+[04:01:46] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to deivdd]
+[04:01:55] [Server thread/INFO]: [deivdd: Teleported LivioG to deivdd]
+[04:02:06] [Server thread/INFO]: LivioG was doomed to fall by deivdd
+[04:02:06] [Server thread/INFO]: Placed LivioG's Gravestone at (28, 63, -1838)
+[04:02:12] [Server thread/INFO]: j_leoneltorres was slain by Zombie
+[04:02:12] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (-3, 104, 793)
+[04:02:13] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 38.500000, 78.500000, -1833.500000]
+[04:02:26] [Server thread/INFO]: [deivdd: Teleported deivdd to j_leoneltorres]
+[04:02:26] [Server thread/INFO]: j_leoneltorres has found their grave at (-3, 104, 793)
+[04:02:38] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
+[04:02:44] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to j_leoneltorres]
+[04:03:32] [Server thread/INFO]: LivioG has found their grave at (16, 47, 788)
