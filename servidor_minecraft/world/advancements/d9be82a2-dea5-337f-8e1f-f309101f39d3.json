@@ -2369,12 +2369,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-17 03:01:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
@@ -2387,21 +2381,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-04-17 02:55:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-04-17 02:55:37 +0000"
     },
     "done": true
   },
@@ -2435,21 +2417,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-04-17 02:55:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-04-17 02:55:37 +0000"
     },
     "done": true
   },
@@ -2459,21 +2429,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2025-04-17 02:55:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:26:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-04-17 02:37:34 +0000"
     },
     "done": true
   },
@@ -2495,9 +2453,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-04-17 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-17 02:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-17 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-17 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-17 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-17 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-17 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-04-17 02:55:37 +0000"
     },
     "done": true
   },
@@ -2507,15 +2507,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
-    "criteria": {
-      "has_tuff": "2025-04-17 02:26:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-17 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 03:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-17 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 03:07:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 03:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-17 03:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 03:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-17 03:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 03:07:17 +0000"
     },
     "done": true
   },

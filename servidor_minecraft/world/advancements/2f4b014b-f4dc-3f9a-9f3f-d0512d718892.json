@@ -4144,6 +4144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-17 03:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-17 02:56:58 +0000"
@@ -4165,6 +4171,18 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_the_recipe": "2025-04-17 01:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-17 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-17 03:03:19 +0000"
     },
     "done": true
   },

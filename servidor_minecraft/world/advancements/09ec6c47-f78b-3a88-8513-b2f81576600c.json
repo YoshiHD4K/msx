@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-17 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -131,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-17 02:52:40 +0000"
@@ -140,6 +164,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-17 02:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -153,6 +183,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-04-17 02:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -240,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 03:02:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -270,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-04-17 02:48:46 +0000"
@@ -285,6 +333,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 02:56:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -384,6 +438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -414,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 03:02:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -429,6 +495,12 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 02:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 03:02:28 +0000"
     },
     "done": true
   },
@@ -582,6 +654,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_minecraft:gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -609,6 +687,12 @@
   "betternether:recipes/decorations/nether_sakura_ladder": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -657,6 +741,12 @@
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2025-04-17 02:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -852,6 +942,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-04-17 03:02:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -942,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-04-17 03:02:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
@@ -957,6 +1059,12 @@
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-17 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },
@@ -1139,6 +1247,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-04-17 02:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-17 03:02:29 +0000"
     },
     "done": true
   },
@@ -1454,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 03:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 02:56:49 +0000"
@@ -1463,6 +1583,24 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_ingots/iron": "2025-04-17 02:56:49 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 03:02:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-17 03:02:33 +0000"
     },
     "done": true
   },
@@ -1484,11 +1622,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-04-17 03:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-17 02:51:02 +0000"
+      "bread": "2025-04-17 02:51:02 +0000",
+      "mushroom_stew": "2025-04-17 03:07:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-17 03:02:33 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/transportation/activator_rail": {
     "criteria": {
@@ -1535,6 +1692,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-17 02:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-17 03:02:33 +0000"
     },
     "done": true
   },
@@ -1595,6 +1758,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-04-17 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-17 03:02:27 +0000"
     },
     "done": true
   },

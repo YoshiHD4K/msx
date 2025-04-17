@@ -121,36 +121,6 @@
       }
     },
     {
-      "owner": "09ec6c47-f78b-3a88-8513-b2f81576600c",
-      "firstGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": 69,
-        "posY": 108,
-        "posZ": 845
-      },
-      "secondGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": 0,
-        "posY": 0,
-        "posZ": 0
-      },
-      "thirdGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": 0,
-        "posY": 0,
-        "posZ": 0
-      }
-    },
-    {
       "owner": "2f4b014b-f4dc-3f9a-9f3f-d0512d718892",
       "firstGrave": {
         "dimension": {
@@ -178,6 +148,36 @@
         "posX": 327,
         "posY": -5,
         "posZ": -116
+      }
+    },
+    {
+      "owner": "09ec6c47-f78b-3a88-8513-b2f81576600c",
+      "firstGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": -14,
+        "posY": 134,
+        "posZ": 653
+      },
+      "secondGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 69,
+        "posY": 108,
+        "posZ": 845
+      },
+      "thirdGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0
       }
     }
   ]
