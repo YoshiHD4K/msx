@@ -633,3 +633,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [01:19:45] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-289, y=120, z=1068}) doesn't have enough leaves around top most log
 [01:25:44] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 57.500000, 112.500000, 838.500000]
 [01:29:59] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -322.500000, 125.500000, 1115.500000]
+[01:38:58] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=121, y=112, z=802}) doesn't have enough leaves around top most log
+[01:39:03] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=124, y=111, z=794}) doesn't have enough leaves around top most log
+[01:39:10] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -23.500000, 110.500000, 803.500000]
+[01:40:36] [Server thread/INFO]: [YoshiHD4K: Successfully filled 1460 block(s)]
