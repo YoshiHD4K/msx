@@ -4702,6 +4702,24 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-04-17 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-17 04:40:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-04-17 04:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-17 04:07:05 +0000"
@@ -4711,6 +4729,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-04-17 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-04-17 04:40:52 +0000"
     },
     "done": true
   },
