@@ -626,3 +626,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [01:03:43] [Server thread/INFO]: [YoshiHD4K: Successfully filled 1599 block(s)]
 [01:03:56] [Server thread/INFO]: [YoshiHD4K: Successfully filled 1599 block(s)]
 [01:08:10] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -308.500000, 125.500000, 1109.500000]
+[01:13:50] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 4.500000, 110.500000, 821.500000]
+[01:14:51] [Server thread/INFO]: [YoshiHD4K: Successfully filled 767 block(s)]
+[01:14:59] [Server thread/INFO]: [YoshiHD4K: Successfully filled 457 block(s)]
+[01:15:24] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -307.500000, 125.500000, 1111.500000]
+[01:19:45] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-289, y=120, z=1068}) doesn't have enough leaves around top most log
