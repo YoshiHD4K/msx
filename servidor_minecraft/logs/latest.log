@@ -637,3 +637,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [01:39:03] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=124, y=111, z=794}) doesn't have enough leaves around top most log
 [01:39:10] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -23.500000, 110.500000, 803.500000]
 [01:40:36] [Server thread/INFO]: [YoshiHD4K: Successfully filled 1460 block(s)]
+[01:40:59] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -360.500000, 120.500000, 1140.500000]
+[01:47:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-239, y=118, z=1060}) doesn't have enough leaves around top most log
+[01:48:28] [Server thread/INFO]: j_leoneltorres lost connection: Disconnected
+[01:48:28] [Server thread/INFO]: j_leoneltorres left the game
+[01:48:30] [Server thread/INFO]: j_leoneltorres[/100.85.97.56:52699] logged in with entity id 21498 at (4.2114765872137605, 105.0, 808.324368936141)
+[01:48:30] [Server thread/INFO]: Sending server config values to client
+[01:48:30] [Server thread/INFO]: Creating new config sync packet
+[01:48:30] [Server thread/INFO]: Loading config from file...
+[01:48:30] [Server thread/INFO]: j_leoneltorres joined the game
+[01:48:30] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
+[01:48:30] [Server thread/INFO]: Receiving client config
