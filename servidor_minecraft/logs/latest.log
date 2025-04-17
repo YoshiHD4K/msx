@@ -1012,3 +1012,19 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [04:24:20] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 86.500000, 69.500000, 163.500000]
 [04:24:22] [Server thread/INFO]: YoshiHD4K has found their grave at (85, 69, 163)
 [04:24:34] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to deivdd]
+[04:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:25:20] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 55.500000, 112.500000, 837.500000]
+[04:25:57] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to deivdd]
+[04:30:08] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to deivdd]
+[04:30:37] [Server thread/INFO]: YoshiHD4K has reached the goal [Postmortal]
+[04:31:35] [Server thread/INFO]: SEBAXWARRIOR was slain by Vindicator
+[04:31:35] [Server thread/INFO]: Created new backpack backup file for SEBAXWARRIOR with unique ID travelersbackpack.standard_17.04.2025-04.31.35.dat
+[04:31:35] [Server thread/INFO]: Placed SEBAXWARRIOR's Gravestone at (93, 68, 148)
+[04:31:49] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to 93.500000, 68.500000, 148.500000]
+[04:31:50] [Server thread/INFO]: SEBAXWARRIOR has found their grave at (93, 68, 148)
+[04:32:21] [Server thread/INFO]: YoshiHD4K was killed by Evoker using magic
+[04:32:21] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.spider_17.04.2025-04.32.21.dat
+[04:32:21] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (79, 82, 157)
+[04:32:31] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 79.500000, 82.500000, 156.500000]
+[04:32:33] [Server thread/INFO]: YoshiHD4K has found their grave at (79, 82, 157)
+[04:33:48] [Server thread/INFO]: [deivdd: Teleported deivdd to SEBAXWARRIOR]

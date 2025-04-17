@@ -357,6 +357,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-17 02:51:02 +0000",
+      "golden_apple": "2025-04-17 04:23:56 +0000",
       "cooked_mutton": "2025-04-17 03:18:20 +0000",
       "mushroom_stew": "2025-04-17 03:07:45 +0000",
       "pumpkin_pie": "2025-04-17 04:20:28 +0000",
