@@ -619,3 +619,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [16:05:53] [Server thread/INFO]: YoshiHD4K has made the advancement [When in Rome]
 [16:06:15] [Server thread/INFO]: [Not Secure] <j_leoneltorres> estoy en canal de discord
 [16:06:36] [Server thread/INFO]: [Not Secure] <YoshiHD4K> voy
+[16:12:09] [Server thread/INFO]: YoshiHD4K lost connection: Timed out
+[16:12:09] [Server thread/INFO]: YoshiHD4K left the game
+[16:12:09] [Server thread/WARN]: handleDisconnection() called twice
