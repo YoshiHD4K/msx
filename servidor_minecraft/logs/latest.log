@@ -697,3 +697,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [02:47:56] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 11.500000, 110.500000, 826.500000]
 [02:47:59] [Server thread/INFO]: deivdd has found their grave at (69, 108, 845)
 [02:50:55] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -240.500000, 118.500000, 1062.500000]
+[02:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02:52:40] [Server thread/INFO]: deivdd has made the advancement [Stone Age]
+[02:52:49] [Server thread/INFO]: YoshiHD4K has made the advancement [Voluntary Exile]
+[02:53:34] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=30, y=111, z=829}) doesn't have enough leaves around top most log
+[02:53:36] [Server thread/INFO]: Villager class_1646['Fletcher'/47958, l='ServerLevel[world]', x=-315.47, y=121.56, z=1104.22] died, message: 'Fletcher was slain by Vindicator'
+[02:53:43] [Server thread/INFO]: Villager class_1646['Unemployed'/47960, l='ServerLevel[world]', x=-310.61, y=121.00, z=1100.33] died, message: 'Unemployed was slain by Vindicator'
+[02:53:43] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=31, y=111, z=825}) doesn't have enough leaves around top most log
+[02:53:44] [Server thread/INFO]: Villager class_1646['Armorer'/47965, l='ServerLevel[world]', x=-309.57, y=121.57, z=1099.79] died, message: 'Armorer was slain by Vindicator'
+[02:53:44] [Server thread/INFO]: Villager class_1646['Toolsmith'/47962, l='ServerLevel[world]', x=-309.36, y=120.31, z=1098.39] died, message: 'Toolsmith was slain by Vindicator'
+[02:53:46] [Server thread/INFO]: Villager class_1646['Unemployed'/47967, l='ServerLevel[world]', x=-309.65, y=120.85, z=1098.59] died, message: 'Unemployed was slain by Vindicator'
+[02:53:47] [Server thread/INFO]: Villager class_1646['Weaponsmith'/47959, l='ServerLevel[world]', x=-313.21, y=122.30, z=1098.45] died, message: 'Weaponsmith was slain by Vindicator'
+[02:53:50] [Server thread/INFO]: Villager class_1646['Fletcher'/47961, l='ServerLevel[world]', x=-317.49, y=121.56, z=1104.95] died, message: 'Fletcher was slain by Vindicator'
+[02:53:55] [Server thread/INFO]: deivdd has made the advancement [Getting an Upgrade]
+[02:54:26] [Server thread/INFO]: YoshiHD4K was slain by Vindicator
+[02:54:26] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.spider_17.04.2025-02.54.26.dat
+[02:54:26] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (-319, 123, 1105)
+[02:54:40] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -315.500000, 126.500000, 1099.500000]
+[02:54:45] [Server thread/INFO]: YoshiHD4K has found their grave at (-319, 123, 1105)
+[02:56:44] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to YoshiHD4K]
+[02:56:49] [Server thread/INFO]: deivdd has made the advancement [Acquire Hardware]
+[02:56:58] [Server thread/INFO]: YoshiHD4K has made the advancement [Take Aim]
+[02:57:15] [Server thread/INFO]: [SEBAXWARRIOR: Teleported SEBAXWARRIOR to j_leoneltorres]
+[02:57:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[02:57:33] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+[02:57:33] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[02:57:33] [Server thread/ERROR]: 
+java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:58:49] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -301.500000, 124.500000, 1118.500000]
+[02:59:44] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -320.500000, 113.500000, 1166.500000]
+[02:59:55] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -301.500000, 124.500000, 1112.500000]
+[03:00:22] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -300.500000, 93.500000, 1113.500000]
+[03:00:36] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -316.500000, 105.500000, 1161.500000]
+[03:01:01] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -306.500000, 125.500000, 1124.500000]
+[03:01:04] [Server thread/INFO]: LivioG has made the advancement [Not Today, Thank You]
