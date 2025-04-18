@@ -631,3 +631,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [04:01:31] [Server thread/INFO]: j_leoneltorres has made the advancement [Voluntary Exile]
 [04:03:35] [Server thread/INFO]: [YoshiHD4K: Gave 30 [Block of Quartz] to j_leoneltorres]
 [04:10:09] [Server thread/INFO]: [YoshiHD4K: Gave 64 [Sand] to j_leoneltorres]
+[04:18:58] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 155.500000, 118.500000, 276.500000]
+[04:18:59] [Server thread/ERROR]: Recoverable errors when loading section [10, -3, 14]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: betternether:blue_crying_obsidian -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: betternether:blue_obsidian -> using default)
+[04:18:59] [Server thread/ERROR]: Recoverable errors when loading section [10, -2, 14]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: betternether:blue_obsidian -> using default)
+[04:18:59] [Server thread/ERROR]: Recoverable errors when loading section [9, -3, 14]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: betternether:blue_obsidian -> using default)
+[04:18:59] [Server thread/ERROR]: Recoverable errors when loading section [9, -2, 14]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: betternether:blue_obsidian -> using default)
+[04:20:21] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -9.500000, 110.500000, 775.500000]
+[04:21:29] [Server thread/INFO]: [Not Secure] <YoshiHD4K> xaero-waypoint:Shared Location:S:-166:64:-479:8:false:0:Internal-overworld-waypoints
+[04:22:24] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to -165.500000, 64.500000, -478.500000]
