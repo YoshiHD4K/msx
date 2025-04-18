@@ -605,3 +605,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [02:48:46] [Server thread/INFO]: YoshiHD4K has made the advancement [Ol' Betsy]
 [02:49:20] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 148.500000, 34.500000, 186.500000]
 [02:49:32] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to YoshiHD4K]
+[02:54:03] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
+[02:54:20] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 16.500000, 78.500000, 107.500000]
+[02:54:23] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
+[02:54:27] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 16.500000, 78.500000, 107.500000]
+[02:54:30] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
+[02:58:47] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -55.500000, 58.500000, -256.500000]
+[03:00:51] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:01:18] [Server thread/INFO]: [j_leoneltorres: Teleported YoshiHD4K to j_leoneltorres]
