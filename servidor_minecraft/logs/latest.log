@@ -619,3 +619,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [03:08:42] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=53, y=113, z=833}) doesn't have enough leaves around top most log
 [03:26:29] [Server thread/INFO]: j_leoneltorres has made the advancement [Amateur Archaeologist]
 [03:31:54] [Server thread/INFO]: [YoshiHD4K: Gave 128 [Sand] to j_leoneltorres]
+[03:42:33] [Server thread/INFO]: j_leoneltorres was blown up by Creeper
+[03:42:33] [Server thread/INFO]: Created new backpack backup file for j_leoneltorres with unique ID travelersbackpack.standard_18.04.2025-03.42.33.dat
+[03:42:33] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (7, 110, 801)
+[03:42:57] [Server thread/INFO]: j_leoneltorres has found their grave at (7, 110, 801)
+[03:50:33] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
+[03:52:20] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
