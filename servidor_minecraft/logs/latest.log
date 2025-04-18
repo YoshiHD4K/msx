@@ -523,3 +523,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [00:54:20] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
 [00:54:21] [Server thread/INFO]: Receiving client config
 [00:54:45] [Server thread/WARN]: YoshiHD4K moved too quickly! -9.150143750781204,-2.176759275064242,-3.8837760296446504
+[01:15:22] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to YoshiHD4K]
+[01:15:58] [Server thread/INFO]: [Not Secure] <j_leoneltorres> yoshiHD4K
+[01:16:10] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to j_leoneltorres]
+[01:16:44] [Server thread/INFO]: [Not Secure] <YoshiHD4K> ./tp YoshiHD4K j_leoneltorres
+[01:16:52] [Server thread/INFO]: [j_leoneltorres: Teleported YoshiHD4K to j_leoneltorres]
+[01:18:19] [Server thread/INFO]: j_leoneltorres has made the advancement [Hot Stuff]
