@@ -701,3 +701,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [05:59:38] [Server thread/INFO]: YoshiHD4K has reached the goal [Zombie Doctor]
 [06:00:29] [Server thread/INFO]: Villager class_1646['Fletcher'/63353, l='ServerLevel[world]', x=-14.49, y=109.00, z=769.30] died, message: 'Fletcher was slain by Zombie'
 [06:03:17] [Server thread/INFO]: Villager class_1646['Weaponsmith'/63423, l='ServerLevel[world]', x=-8.49, y=109.00, z=769.30] died, message: 'Weaponsmith was slain by Zombie'
+[06:10:31] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -11.500000, 110.500000, 773.500000]
+[06:12:20] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
+[06:12:36] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
+[06:13:04] [Server thread/INFO]: Villager class_1646['Unemployed'/61020, l='ServerLevel[world]', x=-6.50, y=109.00, z=769.30] died, message: 'Unemployed was slain by Zombie'
