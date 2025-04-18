@@ -629,3 +629,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [03:55:49] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
 [03:56:57] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
 [04:01:31] [Server thread/INFO]: j_leoneltorres has made the advancement [Voluntary Exile]
+[04:03:35] [Server thread/INFO]: [YoshiHD4K: Gave 30 [Block of Quartz] to j_leoneltorres]
+[04:10:09] [Server thread/INFO]: [YoshiHD4K: Gave 64 [Sand] to j_leoneltorres]
