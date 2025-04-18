@@ -695,3 +695,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [05:54:10] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (-15, 110, 771)
 [05:54:15] [Server thread/INFO]: Villager class_1646['Fletcher'/61016, l='ServerLevel[world]', x=-14.49, y=109.00, z=769.30] died, message: 'Fletcher was slain by Zombie'
 [05:54:24] [Server thread/INFO]: YoshiHD4K has found their grave at (-15, 110, 771)
+[05:55:06] [Server thread/INFO]: Villager class_1646['Weaponsmith'/61019, l='ServerLevel[world]', x=-8.50, y=109.00, z=769.30] died, message: 'Weaponsmith was slain by Zombie'
+[05:55:29] [Server thread/INFO]: Villager class_1646['Toolsmith'/61018, l='ServerLevel[world]', x=-10.50, y=109.00, z=769.30] died, message: 'Toolsmith was slain by Zombie'
+[05:56:23] [Server thread/INFO]: Villager class_1646['Armorer'/61017, l='ServerLevel[world]', x=-12.49, y=109.00, z=769.30] died, message: 'Armorer was slain by Zombie'
+[05:59:38] [Server thread/INFO]: YoshiHD4K has reached the goal [Zombie Doctor]
+[06:00:29] [Server thread/INFO]: Villager class_1646['Fletcher'/63353, l='ServerLevel[world]', x=-14.49, y=109.00, z=769.30] died, message: 'Fletcher was slain by Zombie'
+[06:03:17] [Server thread/INFO]: Villager class_1646['Weaponsmith'/63423, l='ServerLevel[world]', x=-8.49, y=109.00, z=769.30] died, message: 'Weaponsmith was slain by Zombie'
