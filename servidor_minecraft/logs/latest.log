@@ -625,3 +625,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [03:42:57] [Server thread/INFO]: j_leoneltorres has found their grave at (7, 110, 801)
 [03:50:33] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
 [03:52:20] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
+[03:55:11] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
+[03:55:49] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
+[03:56:57] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
+[04:01:31] [Server thread/INFO]: j_leoneltorres has made the advancement [Voluntary Exile]
