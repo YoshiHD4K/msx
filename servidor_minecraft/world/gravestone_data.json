@@ -155,13 +155,22 @@
       "firstGrave": {
         "dimension": {
           "field_13353": "minecraft",
+          "field_13355": "the_nether"
+        },
+        "posX": 30,
+        "posY": 87,
+        "posZ": 154
+      },
+      "secondGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
           "field_13355": "overworld"
         },
         "posX": 5,
         "posY": 110,
         "posZ": 815
       },
-      "secondGrave": {
+      "thirdGrave": {
         "dimension": {
           "field_13353": "minecraft",
           "field_13355": "overworld"
@@ -169,15 +178,6 @@
         "posX": 117,
         "posY": 64,
         "posZ": 184
-      },
-      "thirdGrave": {
-        "dimension": {
-          "field_13353": "minecraft",
-          "field_13355": "overworld"
-        },
-        "posX": 2,
-        "posY": 95,
-        "posZ": 760
       }
     }
   ]

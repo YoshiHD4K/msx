@@ -533,3 +533,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [01:27:58] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to YoshiHD4K]
 [01:39:17] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 171.500000, 67.500000, -2234.500000]
 [01:40:07] [Server thread/INFO]: j_leoneltorres has made the advancement [Diamonds!]
+[01:41:59] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 50.500000, 112.500000, 825.500000]
+[01:44:58] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -303.500000, 124.500000, 1112.500000]
+[01:47:00] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to YoshiHD4K]
+[01:52:47] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 24.500000, 105.500000, 889.500000]
+[01:53:05] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to YoshiHD4K]
+[01:53:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:31] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:32] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:32] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:33] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:36] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:36] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:36] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:36] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:36] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:36] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:38] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12319ms or 246 ticks behind
+[01:53:40] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:40] [Server thread/INFO]: YoshiHD4K has made the advancement [A Terrible Fortress]
+[01:53:47] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:53:52] [Server thread/INFO]: j_leoneltorres has made the advancement [A Terrible Fortress]
+[01:54:25] [Server thread/INFO]: j_leoneltorres has made the advancement [Into Fire]
+[01:55:39] [Server thread/INFO]: YoshiHD4K has made the advancement [Into Fire]
+[01:56:30] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[01:57:12] [Server thread/INFO]: j_leoneltorres was slain by Wither Skeleton
+[01:57:12] [Server thread/INFO]: Created new backpack backup file for j_leoneltorres with unique ID travelersbackpack.standard_18.04.2025-01.57.12.dat
+[01:57:12] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (30, 87, 154)
+[01:57:40] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
+[01:57:42] [Server thread/INFO]: j_leoneltorres has found their grave at (30, 87, 154)
+[02:00:23] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:diamond_horse_armor
