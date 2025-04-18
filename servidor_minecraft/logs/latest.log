@@ -682,3 +682,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [05:06:11] [Server thread/INFO]: j_leoneltorres lost connection: Timed out
 [05:06:11] [Server thread/INFO]: j_leoneltorres left the game
 [05:06:11] [Server thread/WARN]: handleDisconnection() called twice
+[05:20:10] [Server thread/INFO]: YoshiHD4K has made the advancement [Local Brewery]
