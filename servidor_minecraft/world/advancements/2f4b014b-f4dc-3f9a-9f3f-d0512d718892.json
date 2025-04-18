@@ -3679,6 +3679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-18 05:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-18 01:55:39 +0000"
@@ -3793,6 +3799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-18 05:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 02:35:50 +0000"
@@ -3862,6 +3874,12 @@
   "another_furniture:recipes/warped_table": {
     "criteria": {
       "has_planks": "2025-04-18 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-18 05:03:31 +0000"
     },
     "done": true
   },

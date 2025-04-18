@@ -672,3 +672,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [04:46:07] [Server thread/INFO]: j_leoneltorres has found their grave at (-32, 110, 790)
 [04:46:40] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -314.500000, 126.500000, 1101.500000]
 [04:46:54] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -10.500000, 113.500000, 769.500000]
+[04:59:45] [Server thread/INFO]: j_leoneltorres burned to death
+[04:59:45] [Server thread/INFO]: Created new backpack backup file for j_leoneltorres with unique ID travelersbackpack.standard_18.04.2025-04.59.45.dat
+[04:59:45] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (-18, 110, 826)
+[05:00:02] [Server thread/INFO]: j_leoneltorres has found their grave at (-18, 110, 826)
+[05:00:10] [Server thread/INFO]: [YoshiHD4K: The difficulty has been set to Easy]
+[05:03:21] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -218.500000, 64.500000, -434.500000]
+[05:04:16] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 16.500000, 110.500000, 824.500000]
+[05:06:11] [Server thread/INFO]: j_leoneltorres lost connection: Timed out
+[05:06:11] [Server thread/INFO]: j_leoneltorres left the game
+[05:06:11] [Server thread/WARN]: handleDisconnection() called twice
