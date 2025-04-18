@@ -683,3 +683,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [05:06:11] [Server thread/INFO]: j_leoneltorres left the game
 [05:06:11] [Server thread/WARN]: handleDisconnection() called twice
 [05:20:10] [Server thread/INFO]: YoshiHD4K has made the advancement [Local Brewery]
+[05:40:49] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -161.500000, 71.500000, -566.500000]
+[05:41:50] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 153.500000, 110.500000, 253.500000]
+[05:42:00] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -68.500000, 75.500000, 458.500000]
+[05:42:10] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 993.500000, 71.500000, -79.500000]
+[05:42:20] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 1482.500000, 83.500000, -31.500000]
+[05:46:24] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -5.500000, 110.500000, 779.500000]
+[05:47:04] [Server thread/INFO]: [YoshiHD4K: The difficulty has been set to Hard]
+[05:54:10] [Server thread/INFO]: YoshiHD4K was blown up by Creeper
+[05:54:10] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.spider_18.04.2025-05.54.10.dat
+[05:54:10] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (-15, 110, 771)
+[05:54:15] [Server thread/INFO]: Villager class_1646['Fletcher'/61016, l='ServerLevel[world]', x=-14.49, y=109.00, z=769.30] died, message: 'Fletcher was slain by Zombie'
+[05:54:24] [Server thread/INFO]: YoshiHD4K has found their grave at (-15, 110, 771)
