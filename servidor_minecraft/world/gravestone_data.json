@@ -157,27 +157,27 @@
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": 7,
-        "posY": 110,
-        "posZ": 801
+        "posX": -6,
+        "posY": 109,
+        "posZ": 805
       },
       "secondGrave": {
         "dimension": {
           "field_13353": "minecraft",
-          "field_13355": "the_nether"
+          "field_13355": "overworld"
         },
-        "posX": 9,
-        "posY": 78,
-        "posZ": 182
+        "posX": -32,
+        "posY": 110,
+        "posZ": 790
       },
       "thirdGrave": {
         "dimension": {
           "field_13353": "minecraft",
-          "field_13355": "the_nether"
+          "field_13355": "overworld"
         },
-        "posX": -21,
-        "posY": 66,
-        "posZ": 101
+        "posX": -28,
+        "posY": 110,
+        "posZ": 828
       }
     }
   ]
