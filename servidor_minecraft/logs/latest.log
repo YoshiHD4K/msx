@@ -515,3 +515,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [00:31:18] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
 [00:31:19] [Server thread/INFO]: Receiving client config
 [00:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[00:54:20] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:50641] logged in with entity id 3330 at (54.93339353820341, 113.0, 831.7414677615562)
+[00:54:20] [Server thread/INFO]: Sending server config values to client
+[00:54:20] [Server thread/INFO]: Creating new config sync packet
+[00:54:20] [Server thread/INFO]: Loading config from file...
+[00:54:20] [Server thread/INFO]: YoshiHD4K joined the game
+[00:54:20] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
+[00:54:21] [Server thread/INFO]: Receiving client config
+[00:54:45] [Server thread/WARN]: YoshiHD4K moved too quickly! -9.150143750781204,-2.176759275064242,-3.8837760296446504
