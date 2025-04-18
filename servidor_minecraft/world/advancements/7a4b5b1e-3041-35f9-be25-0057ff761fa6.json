@@ -2822,6 +2822,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-04-18 03:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-18 01:40:00 +0000"
@@ -3049,6 +3055,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-18 01:40:14 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-18 03:26:29 +0000"
     },
     "done": true
   },

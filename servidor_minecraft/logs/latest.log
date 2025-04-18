@@ -617,3 +617,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [03:05:44] [Server thread/INFO]: [YoshiHD4K: Gave 3 [Acacia Trapdoor] to YoshiHD4K]
 [03:08:33] [Server thread/INFO]: [YoshiHD4K: Gave 3 [Spruce Trapdoor] to YoshiHD4K]
 [03:08:42] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=53, y=113, z=833}) doesn't have enough leaves around top most log
+[03:26:29] [Server thread/INFO]: j_leoneltorres has made the advancement [Amateur Archaeologist]
+[03:31:54] [Server thread/INFO]: [YoshiHD4K: Gave 128 [Sand] to j_leoneltorres]
