@@ -1,15 +1,15 @@
-[18:40:56] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.13
-[18:40:56] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[00:29:29] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.13
+[00:29:29] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 11
-[18:40:57] [ForkJoinPool-1-worker-1/WARN]: Mod tool_trims uses the version 2.2.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[18:40:57] [main/WARN]: Warnings were found!
+[00:29:30] [ForkJoinPool-1-worker-1/WARN]: Mod tool_trims uses the version 2.2.2b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[00:29:30] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Spawn Animations' (spawnanimations) 1.10+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Spawn Animations' (spawnanimations) 1.10+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
-[18:40:57] [main/INFO]: Loading 180 mods:
+[00:29:30] [main/INFO]: Loading 180 mods:
 	- accessories 1.1.0-beta.36+1.21.1
 	- advancednetherite 2.2.1-1.21.1
 	- animated-logo 1.0
@@ -221,165 +221,164 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.1-Fabric-5.1.1
 	   \-- org_reflections_reflections 0.10.2
-[18:40:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:40:57] [main/INFO]: Compatibility level set to JAVA_17
-[18:40:57] [main/INFO]: Compatibility level set to JAVA_21
-[18:40:58] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:40:58] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[18:40:58] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[18:40:58] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[18:40:58] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[18:40:58] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[18:40:58] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[18:40:58] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[18:40:58] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
-[18:40:58] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:40:58] [main/WARN]: Error loading class: net/minecraft/class_425 (java.lang.ClassNotFoundException: net/minecraft/class_425)
-[18:40:58] [main/WARN]: @Mixin target net.minecraft.class_425 was not found animated-logo.mixins.json:SplashOverlayMixin from mod animated-logo
-[18:40:59] [main/INFO]:  Isaiah's Lucky Blocks Mod
-[18:40:59] [main/INFO]:  Minecraft 1.21.1
-[18:40:59] [main/INFO]: Applied mixin: MixinBlockItem...
-[18:40:59] [main/INFO]: Applied mixin: MixinServerPlayerInteractionManager...
-[18:40:59] [main/INFO]: Applied mixin: MixinRecipeManager2...
-[18:40:59] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[18:40:59] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[18:40:59] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[18:40:59] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[18:40:59] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[18:40:59] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[18:41:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:41:14] [main/INFO]: Registering Listeners!
-[18:41:14] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[18:41:14] [main/INFO]: Initializing mod
-[18:41:15] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[18:41:15] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[18:41:15] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[18:41:15] [main/ERROR]: No data fixer registered for artifacts:mimic
-[18:41:15] [main/INFO]: Reflections took 121 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:15] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:15] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:15] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:15] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:15] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[18:41:15] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
-[18:41:15] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:15] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:15] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[18:41:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[18:41:15] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:15] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:15] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
-[18:41:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[18:41:16] [main/INFO]: Loading Collective version 8.1.
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:shattered
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:sludge
-[18:41:16] [main/ERROR]: No data fixer registered for deeperdarker:stalker
-[18:41:16] [main/ERROR]: No data fixer registered for crystallized_amber
-[18:41:16] [main/ERROR]: No data fixer registered for sculk_jaw
-[18:41:16] [main/INFO]: ExpandAbility here, who dis?
-[18:41:17] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[18:41:17] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[18:41:17] [main/ERROR]: No data fixer registered for anomaly
-[18:41:17] [main/INFO]: Initializing Gravestones
-[18:41:17] [main/INFO]: Hello Fabric world!
-[18:41:17] [main/INFO]: Constructing common components for magnumtorch:main
-[18:41:17] [main/INFO]: Hello Fabric world!
-[18:41:17] [main/INFO]: forge?
-[18:41:17] [main/INFO]: Initializing PneumonoCore
-[18:41:17] [main/INFO]: Constructing common components for puzzleslib:main
-[18:41:18] [main/INFO]: Initializing Silk
-[18:41:18] [main/INFO]: [Spawn Animations] MidnightLib detected!
-[18:41:18] [main/INFO]: [Spawn Animations] Registering server started event...
-[18:41:18] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
-[18:41:18] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[18:41:18] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[18:41:18] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[18:41:18] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[18:41:18] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[18:41:18] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[18:41:18] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[18:41:19] [main/ERROR]: No data fixer registered for 
-[18:41:20] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[18:41:20] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[18:41:20] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[18:41:20] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[18:41:20] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
-[18:41:20] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
-[18:41:20] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
-[18:41:20] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:20] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[18:41:20] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:20] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:20] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:20] [DefaultDispatcher-worker-1/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
-[18:41:20] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[18:41:21] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18:41:21] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[18:41:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:41:21] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
-[18:41:21] [main/INFO]: Running Pre Patchers on ./world/.
-[18:41:21] [main/INFO]: Everything up to date
-[18:41:21] [main/WARN]: Missing data pack incendium
-[18:41:22] [main/INFO]: Processing wover.datapack.registry Entrypoints
-[18:41:22] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
-[18:41:22] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
-[18:41:22] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
-[18:41:22] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
-[18:41:22] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
-[18:41:23] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (e3426a9)
-[18:41:23] [main/INFO]: Unable to build Biome List yet
-[18:41:23] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:23] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:23] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (34796807)
-[18:41:23] [main/INFO]: Unable to build Biome List yet
-[18:41:23] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:23] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:23] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (97d38e8)
-[18:41:23] [main/INFO]: Unable to build Biome List yet
-[18:41:23] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:23] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:23] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (3a7938e3)
-[18:41:23] [main/INFO]: Unable to build Biome List yet
-[18:41:23] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:23] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:23] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (37893540)
-[18:41:23] [main/INFO]: Unable to build Biome List yet
-[18:41:23] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:23] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:23] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (17653f4f)
-[18:41:23] [main/INFO]: Unable to build Biome List yet
-[18:41:23] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:23] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:24] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (28ebddd)
-[18:41:24] [main/INFO]: Unable to build Biome List yet
-[18:41:24] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:24] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:24] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (31557c8)
-[18:41:24] [main/INFO]: Unable to build Biome List yet
-[18:41:24] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:24] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:24] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
-[18:41:24] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[18:41:24] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
-[18:41:24] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
-[18:41:25] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
-[18:41:26] [Worker-Main-1/ERROR]: Couldn't load tag wover:vegetation/plant as it is missing following references: #wover:vegetation/vine (from wover-tag)
-[18:41:26] [main/INFO]: Disabling Recipe: bclib:test_star
-[18:41:26] [main/INFO]: Moving luckyblock recipes to custom map.
-[18:41:26] [main/INFO]: Loaded 2479 recipes
-[18:41:26] [main/INFO]: Loading luckyblock recipes.
-[18:41:26] [main/INFO]: EE IS NILL!!: luckyblocks:player_head
-[18:41:26] [main/INFO]: Loaded 2490 recipes
-[18:41:26] [main/INFO]: Added 0 recipes in 1ms
-[18:41:26] [main/ERROR]: Failed to load function better_babies:entity/loadup
+[00:29:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:29:30] [main/INFO]: Compatibility level set to JAVA_17
+[00:29:30] [main/INFO]: Compatibility level set to JAVA_21
+[00:29:31] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:29:31] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[00:29:31] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[00:29:31] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[00:29:31] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[00:29:31] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[00:29:31] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[00:29:31] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[00:29:31] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 0 override(s) found
+[00:29:31] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:29:32] [main/WARN]: Error loading class: net/minecraft/class_425 (java.lang.ClassNotFoundException: net/minecraft/class_425)
+[00:29:32] [main/WARN]: @Mixin target net.minecraft.class_425 was not found animated-logo.mixins.json:SplashOverlayMixin from mod animated-logo
+[00:29:32] [main/INFO]:  Isaiah's Lucky Blocks Mod
+[00:29:32] [main/INFO]:  Minecraft 1.21.1
+[00:29:32] [main/INFO]: Applied mixin: MixinBlockItem...
+[00:29:33] [main/INFO]: Applied mixin: MixinServerPlayerInteractionManager...
+[00:29:33] [main/INFO]: Applied mixin: MixinRecipeManager2...
+[00:29:33] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[00:29:33] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[00:29:33] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[00:29:33] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[00:29:33] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[00:29:33] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[00:29:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:29:49] [main/INFO]: Registering Listeners!
+[00:29:49] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[00:29:49] [main/INFO]: Initializing mod
+[00:29:49] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[00:29:49] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[00:29:49] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[00:29:49] [main/ERROR]: No data fixer registered for artifacts:mimic
+[00:29:50] [main/INFO]: Reflections took 68 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:50] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:50] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:50] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:50] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
+[00:29:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:29:50] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:50] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:50] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:50] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[00:29:50] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[00:29:50] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:50] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:29:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[00:29:50] [main/INFO]: Loading Collective version 8.1.
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[00:29:51] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[00:29:51] [main/ERROR]: No data fixer registered for crystallized_amber
+[00:29:51] [main/ERROR]: No data fixer registered for sculk_jaw
+[00:29:51] [main/INFO]: ExpandAbility here, who dis?
+[00:29:51] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[00:29:51] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[00:29:51] [main/ERROR]: No data fixer registered for anomaly
+[00:29:51] [main/INFO]: Initializing Gravestones
+[00:29:51] [main/INFO]: Hello Fabric world!
+[00:29:51] [main/INFO]: Constructing common components for magnumtorch:main
+[00:29:51] [main/INFO]: Hello Fabric world!
+[00:29:51] [main/INFO]: Its called Unobtainium until you obtain it, thats the thing
+[00:29:52] [main/INFO]: Initializing PneumonoCore
+[00:29:52] [main/INFO]: Constructing common components for puzzleslib:main
+[00:29:52] [main/INFO]: Initializing Silk
+[00:29:53] [main/INFO]: [Spawn Animations] MidnightLib detected!
+[00:29:53] [main/INFO]: [Spawn Animations] Registering server started event...
+[00:29:53] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[00:29:53] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:29:53] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:29:53] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[00:29:53] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[00:29:53] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[00:29:53] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[00:29:53] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[00:29:54] [main/ERROR]: No data fixer registered for 
+[00:29:55] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[00:29:55] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[00:29:55] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[00:29:55] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[00:29:55] [main/INFO]: Deserializing ModMobsConfig from 'config/variantsandventures/mod_mobs.json'
+[00:29:55] [main/INFO]: Deserializing VanillaMobsConfig from 'config/variantsandventures/vanilla_mobs.json'
+[00:29:55] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[00:29:55] [main/INFO]: Reflections took 10 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:55] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[00:29:55] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[00:29:55] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:55] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:55] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:55] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[00:29:55] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:29:56] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[00:29:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:29:56] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[00:29:56] [main/INFO]: Running Pre Patchers on ./world/.
+[00:29:56] [main/INFO]: Everything up to date
+[00:29:56] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[00:29:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[00:29:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[00:29:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[00:29:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[00:29:56] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (79f4bba7)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (1bb8d7a)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (76dfb2a3)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (404dca50)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (385d0872)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (59a60c42)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (76414a4f)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:29:58] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (60d2cc1e)
+[00:29:58] [main/INFO]: Unable to build Biome List yet
+[00:29:58] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:58] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:29:59] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[00:29:59] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[00:29:59] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[00:29:59] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[00:29:59] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[00:30:00] [Worker-Main-1/ERROR]: Couldn't load tag wover:vegetation/plant as it is missing following references: #wover:vegetation/vine (from wover-tag)
+[00:30:00] [main/INFO]: Disabling Recipe: bclib:test_star
+[00:30:00] [main/INFO]: Moving luckyblock recipes to custom map.
+[00:30:01] [main/INFO]: Loaded 2479 recipes
+[00:30:01] [main/INFO]: Loading luckyblock recipes.
+[00:30:01] [main/INFO]: EE IS NILL!!: luckyblocks:player_head
+[00:30:01] [main/INFO]: Loaded 2490 recipes
+[00:30:01] [main/INFO]: Added 0 recipes in 1ms
+[00:30:01] [main/ERROR]: Failed to load function better_babies:entity/loadup
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Failed to parse structure: Failed to get element ResourceKey[minecraft:predicate / data_api:flags/is_baby] at position 122: ...gs/is_baby<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -395,509 +394,124 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 	at knot/net.minecraft.class_5349.method_29451(class_5349.java:89) ~[server-intermediary.jar:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[18:41:27] [main/WARN]: Found validation problems in advancement better_babies:player_interacted_with_entity/entities: 
+[00:30:01] [main/WARN]: Found validation problems in advancement better_babies:player_interacted_with_entity/entities: 
  at pet_mob.player[1]: Unknown condition table called data_api:flags/is_sneaking
-[18:41:27] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, better_babies:pack, minecraft:give_quest_trader_trade]
-[18:41:27] [main/INFO]: Loaded 2563 advancements
-[18:41:27] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:wolf_temptables
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1db5927)
-[18:41:29] [main/INFO]: Added 2 Biomes
-[18:41:29] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[18:41:29] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[18:41:29] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[18:41:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6243d047)
-[18:41:29] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:29] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
-[18:41:29] [main/INFO]: Added 4 biomes to wover:is_end/highland in 3.581 ms
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (1db5927)
-[18:41:29] [main/INFO]: Added 2 Biomes
-[18:41:29] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[18:41:29] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[18:41:29] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (28ebddd)
-[18:41:29] [main/INFO]: Added 2 Biomes
-[18:41:29] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[18:41:29] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[18:41:29] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (28ebddd)
-[18:41:29] [main/INFO]: Added 2 Biomes
-[18:41:29] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
-[18:41:29] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
-[18:41:29] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6243d047)
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (31557c8)
-[18:41:29] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (31557c8)
-[18:41:29] [main/INFO]: Applied 0 biome modifications and added 0 tags to 0 of 147 biomes in 4.846 ms
-[18:41:30] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[18:41:31] [main/INFO]: Applied 472 biome modifications to 114 of 147 new biomes in 209.2 ms
-[18:41:31] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[18:41:31] [Server thread/INFO]: Dispatching loading event for config magnumtorch-server.toml
-[18:41:31] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2579 bytes (in 1 string chunks with the size of 10000)
-[18:41:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:41:31] [Server thread/INFO]: Loading properties
-[18:41:31] [Server thread/INFO]: Default game type: SURVIVAL
-[18:41:31] [Server thread/INFO]: Generating keypair
-[18:41:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:41:31] [Server thread/INFO]: Using epoll channel type
-[18:41:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:41:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:41:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:41:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:41:31] [Server thread/INFO]: Preparing level "world"
-[18:41:31] [Server thread/INFO]: World Dimensions: 
- - minecraft:overworld: 
-     class_3754 (27eaaaf1)
-         preset     = minecraft:normal
-         noise      = minecraft:overworld
-         features   = minecraft(148), yungsextras(62), yungsbridges(1), biomesoplenty(203), artifacts(1)
-     class_4766 (7c77d862)
-         biomes     = 114
-         namespaces = minecraft(53), biomesoplenty(61)
- - the_bumblezone:the_bumblezone: 
-     BzChunkGenerator (5dce9714)
-         preset     = none
-         noise      = the_bumblezone:bz_noise_settings
-         features   = the_bumblezone(41)
-     BzBiomeSource (2b8a7d90)
-         biomes     = 9
-         namespaces = the_bumblezone(9)
+[00:30:01] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, better_babies:pack, minecraft:give_quest_trader_trade]
+[00:30:01] [main/INFO]: Loaded 2563 advancements
+[00:30:01] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:wolf_temptables
+[00:30:03] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (78f1a210)
+[00:30:03] [main/INFO]: Added 2 Biomes
+[00:30:03] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:30:03] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:30:03] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:30:03] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:30:03] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[00:30:03] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (65c51eeb)
+[00:30:03] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:30:03] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[00:30:03] [main/INFO]: Added 4 biomes to wover:is_end/highland in 7.532 ms
+[00:30:03] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (78f1a210)
+[00:30:03] [main/INFO]: Added 2 Biomes
+[00:30:03] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:30:03] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:30:03] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:30:03] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (76414a4f)
+[00:30:03] [main/INFO]: Added 2 Biomes
+[00:30:03] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:30:03] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:30:04] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:30:04] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (76414a4f)
+[00:30:04] [main/INFO]: Added 2 Biomes
+[00:30:04] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[00:30:04] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[00:30:04] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[00:30:04] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (65c51eeb)
+[00:30:04] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (60d2cc1e)
+[00:30:04] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (60d2cc1e)
+[00:30:04] [main/INFO]: Applied 0 biome modifications and added 0 tags to 0 of 147 biomes in 4.922 ms
+[00:30:04] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[00:30:05] [main/INFO]: Applied 472 biome modifications to 114 of 147 new biomes in 201.9 ms
+[00:30:05] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[00:30:05] [Server thread/INFO]: Dispatching loading event for config magnumtorch-server.toml
+[00:30:05] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2579 bytes (in 1 string chunks with the size of 10000)
+[00:30:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:30:05] [Server thread/INFO]: Loading properties
+[00:30:05] [Server thread/INFO]: Default game type: SURVIVAL
+[00:30:05] [Server thread/INFO]: Generating keypair
+[00:30:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:30:05] [Server thread/INFO]: Using epoll channel type
+[00:30:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:30:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:30:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:30:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:30:05] [Server thread/INFO]: Preparing level "world"
+[00:30:05] [Server thread/INFO]: World Dimensions: 
  - deeperdarker:otherside: 
-     class_3754 (447da237)
+     class_3754 (661e427b)
          preset     = none
          noise      = deeperdarker:otherside
          features   = minecraft(2), deeperdarker(44)
-     class_4766 (6b19e67c)
+     class_4766 (70c1c5ed)
          biomes     = 4
          namespaces = deeperdarker(4)
  - minecraft:the_end: 
-     WoVer - Chunk Generator (2dd2b390)
+     WoVer - Chunk Generator (85b3dc3)
          preset     = wover:normal
          noise      = minecraft:end
          features   = minecraft(5), biomesoplenty(17)
-     WoVer - The End  BiomeSource (28ebddd)
+     WoVer - The End  BiomeSource (76414a4f)
          biomes     = 8
          namespaces = minecraft(5), biomesoplenty(3)
          seed       = 7210562256221756153
          height     = 128
          deciders   = 0
          config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
+ - minecraft:overworld: 
+     class_3754 (64873ef6)
+         preset     = minecraft:normal
+         noise      = minecraft:overworld
+         features   = minecraft(148), yungsextras(62), yungsbridges(1), biomesoplenty(203), artifacts(1)
+     class_4766 (926c847)
+         biomes     = 114
+         namespaces = minecraft(53), biomesoplenty(61)
+ - the_bumblezone:the_bumblezone: 
+     BzChunkGenerator (1c9a4c29)
+         preset     = none
+         noise      = the_bumblezone:bz_noise_settings
+         features   = the_bumblezone(41)
+     BzBiomeSource (41a79f5e)
+         biomes     = 9
+         namespaces = the_bumblezone(9)
  - minecraft:the_nether: 
-     WoVer - Chunk Generator (2037d119)
+     WoVer - Chunk Generator (43c8bbfb)
          preset     = wover:normal
          noise      = minecraft:nether
          features   = minecraft(37), biomesoplenty(27)
-     WoVer - Nether BiomeSource (31557c8)
+     WoVer - Nether BiomeSource (60d2cc1e)
          biomes     = 10
          namespaces = biomesoplenty(5), minecraft(5)
          seed       = 7210562256221756153
          height     = 128
          config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
-[18:41:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:41:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:41:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:41:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[18:41:53] [Server thread/INFO]: Time elapsed: 1214 ms
-[18:41:53] [Server thread/INFO]: Done (21.681s)! For help, type "help"
-[18:41:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[18:41:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[18:41:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[18:41:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[18:41:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[18:41:53] [Server thread/INFO]: [Spawn Animations] Sending global config to server...
-[18:41:53] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18:41:53] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/new_player' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:root' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/shield' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/scroll_of_returning' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/ragnarok' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/trailblazer' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/birch_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/rubeus_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/chair_cincinnasite' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/jungle_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bamboo_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/oak_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cherry_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bamboo_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/birch_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/rail' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/mushroom_fir_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/oak_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/birch_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/stalagnate_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/acacia_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/oak_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/jungle_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/anchor_tree_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bamboo_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/dark_oak_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/nether_sakura_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/nether_reed_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cherry_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/dark_oak_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mangrove_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/nether_mushroom_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/dark_oak_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/acacia_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/spruce_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/transportation/tag_rail' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bar_stool_cincinnasite' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mangrove_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/acacia_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/wart_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/jungle_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_fence' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_sign' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/spruce_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mangrove_taburet' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/activator_rail' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cherry_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/willow_gate' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_chair' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/spruce_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/taburet_cincinnasite' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_bar_stool' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_ladder' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/piston' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/redstone/tag_piston' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/decorations/tag_smith_table' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/combat/tag_shield' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/combat/shield' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/whispering_gourd_lantern' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/mushroom_fir_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/decorations/tag_shulker_box' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/stalagnate_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/crimson_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/wart_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/nether_reed_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/nether_mushroom_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/nether_sakura_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/anchor_tree_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/redstone/tag_hopper' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/warped_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/rubeus_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/willow_chest_boat' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/tools/tag_compass' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/transportation/tag_minecart' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/misc/tag_bucket' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/brewing/tag_cauldron' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'bclib:recipes/decorations/tag_stonecutter' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/detector_rail' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/bn_bone_block' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_wall_stonecutting' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_slab_stonecutting' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cincinnasite_fire_bowl' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/netherrack_furnace' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_stairs_stonecutting' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_netherrack_slab' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bricks_fire_bowl' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/misc/farmland' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/netherrack_wall' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_netherrack_stairs' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:all_the_biomes' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:root' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'betternether:enter_nether' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:misc/root' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:misc/soul_searcher' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:quartz_flats/root' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/sentrys_wrath' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_player_hurt' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_kill' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_inventory_change' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/holy_wrath' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_block' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/inventory/sentrys_wrath' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/feed_ghastling' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/firestorm' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/inventory/firestorm' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/give_ghastling' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/WARN]: Ignored advancement 'incendium:technical/multiplex_crossbow' in progress file ./world/advancements/7a4b5b1e-3041-35f9-be25-0057ff761fa6.json - it doesn't exist anymore?
-[18:42:04] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_smith_table removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:chair_cincinnasite removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_slab removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:whispering_gourd_lantern removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:piston removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bn_bone_block removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_stairs removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bar_stool_cincinnasite removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_cauldron removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_slab_stonecutting removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rail removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_furnace removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_piston removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_rail removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:taburet_cincinnasite removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:activator_rail removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_stonecutter removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_shulker_box removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_compass removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cincinnasite_fire_bowl removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_hopper removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bricks_fire_bowl removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_shield removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_bucket removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_stairs_stonecutting removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:farmland removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall_stonecutting removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:shield removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:detector_rail removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_minecart removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_chest_boat removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_fence removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_taburet removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_bar_stool removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_chair removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_sign removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_gate removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_ladder removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_stairs_stonecutting removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_slab_stonecutting removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:farmland removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_stairs removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall_stonecutting removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_furnace removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_slab removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bricks_fire_bowl removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cincinnasite_fire_bowl removed now.
-[18:42:05] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall removed now.
-[18:42:05] [Server thread/INFO]: j_leoneltorres[/100.85.97.56:54940] logged in with entity id 35 at (175.2218189110656, 68.0, -2233.8402898108857)
-[18:42:05] [Server thread/INFO]: Sending server config values to client
-[18:42:05] [Server thread/INFO]: Creating new config sync packet
-[18:42:05] [Server thread/INFO]: Loading config from file...
-[18:42:05] [Server thread/INFO]: j_leoneltorres joined the game
-[18:42:08] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
-[18:42:08] [Server thread/INFO]: Receiving client config
-[18:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/new_player' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/shield' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/scroll_of_returning' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/ragnarok' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/trailblazer' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:root' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:misc/root' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:misc/soul_searcher' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:quartz_flats/root' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/sentrys_wrath' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_player_hurt' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_kill' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_inventory_change' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/holy_wrath' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_block' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/inventory/sentrys_wrath' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/feed_ghastling' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/firestorm' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/inventory/firestorm' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/give_ghastling' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/WARN]: Ignored advancement 'incendium:technical/multiplex_crossbow' in progress file ./world/advancements/2f4b014b-f4dc-3f9a-9f3f-d0512d718892.json - it doesn't exist anymore?
-[18:42:11] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:63927] logged in with entity id 153 at (20.360371278305028, 75.0, -282.022721982817)
-[18:42:11] [Server thread/INFO]: Sending server config values to client
-[18:42:11] [Server thread/INFO]: Creating new config sync packet
-[18:42:11] [Server thread/INFO]: Loading config from file...
-[18:42:11] [Server thread/INFO]: YoshiHD4K joined the game
-[18:42:17] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
-[18:42:17] [Server thread/INFO]: Receiving client config
-[18:42:28] [Server thread/INFO]: YoshiHD4K tried to swim in lava
-[18:42:28] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.spider_17.04.2025-18.42.28.dat
-[18:42:28] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (20, 24, -283)
-[18:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13484ms or 269 ticks behind
-[18:43:08] [Server thread/INFO]: [YoshiHD4K: Teleported j_leoneltorres to YoshiHD4K]
-[18:43:12] [Server thread/INFO]: j_leoneltorres burned to death
-[18:43:12] [Server thread/INFO]: Placed j_leoneltorres's Gravestone at (5, 110, 815)
-[18:43:21] [Server thread/INFO]: j_leoneltorres has found their grave at (5, 110, 815)
-[18:43:50] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to 168.500000, 68.500000, -2236.500000]
-[18:44:10] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
-[18:44:13] [Server thread/WARN]: YoshiHD4K moved too quickly! 0.10143173924952364,-11.41831084788145,-0.15094264319384365
-[18:44:44] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Spectator Mode]
-[18:44:51] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
-[18:44:51] [Server thread/INFO]: YoshiHD4K has found their grave at (20, 24, -283)
-[18:45:25] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -69.500000, 54.500000, -259.500000]
-[18:45:37] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -12.500000, 32.500000, -284.500000]
-[18:46:21] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Adventure Mode]
-[18:46:23] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
-[18:46:31] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to j_leoneltorres]
-[18:47:27] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
-[18:48:54] [Server thread/INFO]: YoshiHD4K lost connection: Disconnected
-[18:48:54] [Server thread/INFO]: YoshiHD4K left the game
-[18:49:57] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to 106.500000, 99.500000, -2179.500000]
-[18:51:18] [Server thread/INFO]: [j_leoneltorres: Teleported j_leoneltorres to -1.500000, 114.500000, 813.500000]
-[18:51:22] [Server thread/INFO]: j_leoneltorres lost connection: Disconnected
-[18:51:22] [Server thread/INFO]: j_leoneltorres left the game
-[19:03:02] [Server thread/INFO]: Stopping the server
-[19:03:02] [Server thread/INFO]: Stopping server
-[19:03:02] [Server thread/INFO]: Saving players
-[19:03:02] [Server thread/INFO]: Saving worlds
-[19:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[19:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[19:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:03:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[19:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[19:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:03:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:03:02] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
+[00:30:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:30:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:30:29] [Server thread/INFO]: Time elapsed: 990 ms
+[00:30:29] [Server thread/INFO]: Done (23.457s)! For help, type "help"
+[00:30:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[00:30:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[00:30:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[00:30:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[00:30:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[00:30:29] [Server thread/INFO]: [Spawn Animations] Sending global config to server...
+[00:30:29] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:30:29] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[00:31:17] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[00:31:17] [Server thread/INFO]: j_leoneltorres[/100.85.97.56:57410] logged in with entity id 35 at (2.8403115791264377, 114.0, 814.7696687545601)
+[00:31:17] [Server thread/INFO]: Sending server config values to client
+[00:31:18] [Server thread/INFO]: Creating new config sync packet
+[00:31:18] [Server thread/INFO]: Loading config from file...
+[00:31:18] [Server thread/INFO]: j_leoneltorres joined the game
+[00:31:18] [Server thread/INFO]: [showmeyourskin] Client of j_leoneltorres accepted server config.
+[00:31:19] [Server thread/INFO]: Receiving client config
+[00:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
