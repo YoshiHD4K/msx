@@ -705,3 +705,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [06:12:20] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
 [06:12:36] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
 [06:13:04] [Server thread/INFO]: Villager class_1646['Unemployed'/61020, l='ServerLevel[world]', x=-6.50, y=109.00, z=769.30] died, message: 'Unemployed was slain by Zombie'
+[06:16:59] [Server thread/INFO]: YoshiHD4K burned to death
+[06:16:59] [Server thread/INFO]: Created new backpack backup file for YoshiHD4K with unique ID travelersbackpack.spider_18.04.2025-06.16.59.dat
+[06:16:59] [Server thread/INFO]: Placed YoshiHD4K's Gravestone at (-4, 112, 768)
+[06:17:10] [Server thread/INFO]: [YoshiHD4K: Teleported YoshiHD4K to -3.500000, 112.500000, 768.500000]
+[06:17:11] [Server thread/INFO]: YoshiHD4K has found their grave at (-4, 112, 768)
+[06:18:19] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
+[06:18:27] [Server thread/INFO]: Villager class_1646['Unemployed'/66233, l='ServerLevel[world]', x=2.62, y=110.00, z=784.60] died, message: 'Unemployed was slain by YoshiHD4K'
+[06:23:53] [Server thread/INFO]: YoshiHD4K lost connection: Disconnected
+[06:23:53] [Server thread/INFO]: YoshiHD4K left the game
+[06:24:00] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:51974] logged in with entity id 66810 at (-14.60180828191099, 110.0, 771.6047589822462)
+[06:24:00] [Server thread/INFO]: Sending server config values to client
+[06:24:00] [Server thread/INFO]: Creating new config sync packet
+[06:24:00] [Server thread/INFO]: Loading config from file...
+[06:24:00] [Server thread/INFO]: YoshiHD4K joined the game
+[06:24:00] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
+[06:24:00] [Server thread/INFO]: Receiving client config
+[06:24:17] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
+[06:24:30] [Server thread/INFO]: [YoshiHD4K: The difficulty has been set to Easy]
+[06:24:32] [Server thread/INFO]: YoshiHD4K lost connection: Disconnected
+[06:24:32] [Server thread/INFO]: YoshiHD4K left the game
