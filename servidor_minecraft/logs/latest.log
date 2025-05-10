@@ -943,3 +943,565 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [02:04:47] [Server thread/INFO]: [showmeyourskin] Client of Mari accepted server config.
 [02:04:48] [Server thread/INFO]: Receiving client config
 [02:04:57] [Server thread/INFO]: [Luisillo0516: Teleported Mari to Luisillo0516]
+[02:07:13] [Server thread/INFO]: [Not Secure] <Mari> gamemode
+[02:07:36] [Server thread/INFO]: [Not Secure] <Luisillo0516> kill tomas
+[02:07:38] [Server thread/INFO]: [Not Secure] <YoshiHD4K> gamemode
+[02:07:49] [Server thread/INFO]: Mari was killed
+[02:07:49] [Server thread/INFO]: Placed Mari's Gravestone at (50, 112, 837)
+[02:07:49] [Server thread/INFO]: [Luisillo0516: Killed Mari]
+[02:08:04] [Server thread/INFO]: [Luisillo0516: Teleported Mari to Luisillo0516]
+[02:10:18] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Creative Mode]
+[02:10:36] [Server thread/INFO]: [YoshiHD4K: Set own game mode to Survival Mode]
+[02:11:17] [Server thread/INFO]: Mari has made the advancement [Cover Me with Diamonds]
+[02:12:00] [Server thread/INFO]: [Luisillo0516: Skin changed]
+[02:12:01] [Server thread/INFO]: Mari has found their grave at (50, 112, 837)
+[02:14:50] [Server thread/INFO]: Luisillo0516 has made the advancement [We Need to Go Deeper]
+[02:14:51] [Server thread/INFO]: Luisillo0516 has made the advancement [A Terrible Fortress]
+[02:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/new_player' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:root' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/shield' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/scroll_of_returning' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/ragnarok' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/using/trailblazer' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/piston' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/redstone/tag_piston' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/decorations/tag_smith_table' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/combat/tag_shield' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/combat/shield' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/birch_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/rubeus_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/chair_cincinnasite' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/jungle_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bamboo_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/oak_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cherry_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bamboo_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/birch_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/rail' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/mushroom_fir_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/oak_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/birch_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/stalagnate_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/acacia_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/oak_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/jungle_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/anchor_tree_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bamboo_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/dark_oak_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/nether_sakura_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/nether_reed_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cherry_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/dark_oak_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mangrove_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/nether_mushroom_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/dark_oak_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/warped_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/acacia_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/spruce_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/transportation/tag_rail' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bar_stool_cincinnasite' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mangrove_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/acacia_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/wart_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/jungle_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_fence' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/spruce_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mangrove_taburet' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/activator_rail' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cherry_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/redstone/willow_gate' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_chair' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/spruce_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/taburet_cincinnasite' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_bar_stool' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/crimson_ladder' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_mushroom_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_reed_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/willow_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/stalagnate_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/wart_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/nether_sakura_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/rubeus_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/anchor_tree_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/mushroom_fir_hanging_sign' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/misc/wall_mushroom_brown' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/food/stalagnate_bowl_mushroom' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/tools/tag_compass' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/transportation/tag_minecart' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/misc/tag_bucket' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/redstone/tag_hopper' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/brewing/tag_cauldron' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/decorations/tag_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/misc/copy_bowl_upgrade' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/misc/copy_flaming_ruby_upgrade' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/misc/copy_cincinnasite_diamond_upgrade' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/quartz_glass_framed_pane_red' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/quartz_glass_pane_red' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/quartz_glass_red' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/quartz_glass_framed_red' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/whispering_gourd_lantern' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/mushroom_fir_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'bclib:recipes/decorations/tag_shulker_box' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/stalagnate_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/crimson_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/wart_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/nether_reed_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/nether_mushroom_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/nether_sakura_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/anchor_tree_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/warped_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/rubeus_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/willow_chest_boat' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/transportation/detector_rail' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/quartz_glass_smelting' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/quartz_glass_blue' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/quartz_glass_framed_pane_blue' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/quartz_glass_pane_blue' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/quartz_glass_framed_blue' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/bn_bone_block' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_tile_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_glass_smelting' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_bricks_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_tile' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/obsidian_tile_small_stonecutter' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_wall_stonecutting' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_slab_stonecutting' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/cincinnasite_fire_bowl' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/netherrack_furnace' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_stairs_stonecutting' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_netherrack_slab' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/bricks_fire_bowl' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/misc/farmland' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/decorations/netherrack_wall' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:recipes/building_blocks/netherrack_netherrack_stairs' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:root' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:enter_nether' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:misc/root' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:misc/soul_searcher' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:quartz_flats/root' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'betternether:all_the_biomes' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/sentrys_wrath' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_player_hurt' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_kill' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_inventory_change' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/holy_wrath' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/on_block' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/inventory/sentrys_wrath' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/feed_ghastling' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/firestorm' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/inventory/firestorm' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/give_ghastling' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/WARN]: Ignored advancement 'incendium:technical/multiplex_crossbow' in progress file ./world/advancements/3622b84e-4ceb-35ba-982d-97dd83b80990.json - it doesn't exist anymore?
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_pane_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:whispering_gourd_lantern removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_stairs removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_pane_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_cauldron removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_slab_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_furnace removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_small_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_piston removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:copy_cincinnasite_diamond_upgrade removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_smelting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_shulker_box removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_compass removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_slab_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cincinnasite_fire_bowl removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_bricks_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_hopper removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:farmland removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:detector_rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_smith_table removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:chair_cincinnasite removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_pane_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_slab removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:piston removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bn_bone_block removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wall_mushroom_brown removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:copy_bowl_upgrade removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bar_stool_cincinnasite removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_glass_smelting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_bricks_slab_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_bricks_stairs_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_stairs_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:taburet_cincinnasite removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:activator_rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_bowl_mushroom removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bricks_fire_bowl removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_shield removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_bucket removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_stairs_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:shield removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_rod_tiles_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_minecart removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_pane_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:copy_flaming_ruby_upgrade removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_smith_table removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:chair_cincinnasite removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_pane_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_pane_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_slab removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:piston removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wall_mushroom_brown removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:copy_bowl_upgrade removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_netherrack_stairs removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mangrove_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_pane_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bar_stool_cincinnasite removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_cauldron removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_glass_smelting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_bricks_slab_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_slab_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_furnace removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_bricks_stairs_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_stairs_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_small_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_piston removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:taburet_cincinnasite removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:activator_rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:copy_cincinnasite_diamond_upgrade removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_smelting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_shulker_box removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_compass removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_slab_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cincinnasite_fire_bowl removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:spruce_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:warped_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_bowl_mushroom removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_bricks_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_hopper removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:crimson_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bricks_fire_bowl removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_shield removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_bucket removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_stairs_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:farmland removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_tile_stonecutter removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:netherrack_wall_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:shield removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:detector_rail removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:dark_oak_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:obsidian_rod_tiles_stonecutting removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: bclib:tag_minecart removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:cherry_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:jungle_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_sakura_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_framed_pane_red removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_chest_boat removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:rubeus_ladder removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:quartz_glass_blue removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:copy_flaming_ruby_upgrade removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:anchor_tree_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:wart_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_fence removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:stalagnate_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:willow_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:oak_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_taburet removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:acacia_bar_stool removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_hanging_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:birch_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:bamboo_chair removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:mushroom_fir_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_reed_sign removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_gate removed now.
+[02:17:00] [Server thread/ERROR]: Tried to load unrecognized recipe: betternether:nether_mushroom_ladder removed now.
+[02:17:00] [Server thread/INFO]: SEBAXWARRIOR[/100.77.245.96:61396] logged in with entity id 7841 at (64.8849588580033, 112.5, 847.449619245939)
+[02:17:00] [Server thread/INFO]: Sending server config values to client
+[02:17:00] [Server thread/INFO]: Creating new config sync packet
+[02:17:00] [Server thread/INFO]: Loading config from file...
+[02:17:01] [Server thread/INFO]: SEBAXWARRIOR joined the game
+[02:17:01] [Server thread/INFO]: [showmeyourskin] Client of SEBAXWARRIOR accepted server config.
+[02:17:01] [Server thread/INFO]: Receiving client config
