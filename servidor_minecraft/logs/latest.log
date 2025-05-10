@@ -1971,3 +1971,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [02:37:51] [Server thread/INFO]: LivioG joined the game
 [02:37:52] [Server thread/INFO]: [showmeyourskin] Client of LivioG accepted server config.
 [02:37:52] [Server thread/INFO]: Receiving client config
+[02:38:34] [Server thread/INFO]: soyJadeepro was slain by YoshiHD4K
+[02:38:34] [Server thread/INFO]: Placed soyJadeepro's Gravestone at (30, 111, 853)
+[02:38:44] [Server thread/INFO]: [YoshiHD4K: Teleported soyJadeepro to YoshiHD4K]
+[02:38:48] [Server thread/INFO]: soyJadeepro has found their grave at (30, 111, 853)
+[02:41:45] [Server thread/INFO]: [YoshiHD4K: Made Mari a server operator]
+[02:41:50] [Server thread/INFO]: [YoshiHD4K: Made soyJadeepro a server operator]
+[02:42:01] [Server thread/INFO]: [Mari: Set own game mode to Creative Mode]
+[02:42:10] [Server thread/INFO]: [YoshiHD4K: Kicked Mari: Kicked by an operator]
+[02:42:10] [Server thread/INFO]: Mari lost connection: Kicked by an operator
+[02:42:10] [Server thread/INFO]: Mari left the game
+[02:42:17] [Server thread/INFO]: Mari[/100.98.81.63:56682] logged in with entity id 21640 at (54.91922023321799, 113.0, 829.9542950191643)
+[02:42:17] [Server thread/INFO]: Sending server config values to client
+[02:42:17] [Server thread/INFO]: Creating new config sync packet
+[02:42:17] [Server thread/INFO]: Loading config from file...
+[02:42:17] [Server thread/INFO]: Mari joined the game
+[02:42:17] [Server thread/INFO]: [showmeyourskin] Client of Mari accepted server config.
+[02:42:18] [Server thread/INFO]: Receiving client config
+[02:42:21] [Server thread/INFO]: [YoshiHD4K: Made Mari no longer a server operator]
+[02:43:11] [Server thread/INFO]: Locating element minecraft:cherry_grove took 1399 ms
+[02:43:14] [Server thread/INFO]: [Luisillo0516: Gave 20 [Eye of Ender] to Luisillo0516]
+[02:43:16] [Server thread/INFO]: [Not Secure] <YoshiHD4K> 190 111 2625
+[02:43:17] [Server thread/INFO]: Mari has made the advancement [Diamonds!]
+[02:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[02:43:46] [Server thread/WARN]: soyJadeepro moved too quickly! -9.225104213021382,-0.23152379758701613,4.112468807788105
+[02:45:28] [Server thread/INFO]: [Not Secure] <soyJadeepro> xaero-waypoint:Shared Location:S:8:119:812:12:false:0:Internal-overworld-waypoints
+[02:45:40] [Server thread/INFO]: [soyJadeepro: Teleported soyJadeepro to 33.500000, 111.500000, 827.500000]
+[02:46:16] [Server thread/INFO]: LivioG has made the advancement [What a Deal!]
+[02:46:29] [Server thread/INFO]: [YoshiHD4K: Gave 64 [Cherry Log] to soyJadeepro]
+[02:47:17] [Server thread/INFO]: LivioG was killed
+[02:47:17] [Server thread/INFO]: Placed LivioG's Gravestone at (-10, 105, 813)
+[02:47:17] [Server thread/INFO]: [YoshiHD4K: Killed LivioG]

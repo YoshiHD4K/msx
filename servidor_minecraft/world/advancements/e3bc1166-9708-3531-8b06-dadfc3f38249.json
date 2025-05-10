@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-10 02:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-10 02:25:59 +0000"
@@ -8,6 +14,12 @@
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_violet": "2025-05-10 02:45:08 +0000"
     },
     "done": true
   },
@@ -48,6 +60,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-10 02:45:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
@@ -57,6 +75,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-05-10 02:19:48 +0000",
+      "maple_woods": "2025-05-10 02:43:57 +0000",
       "rocky_shrubland": "2025-05-10 02:18:20 +0000",
       "coniferous_forest": "2025-05-10 02:17:24 +0000"
     },
@@ -68,9 +87,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-10 02:46:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-10 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-10 02:44:22 +0000"
     },
     "done": true
   },
@@ -113,6 +150,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 02:46:29 +0000"
     },
     "done": true
   },
@@ -194,6 +237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-10 02:46:29 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-05-10 02:17:22 +0000"
@@ -253,6 +302,12 @@
       "always": "2025-05-10 02:17:22 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-10 02:44:25 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
