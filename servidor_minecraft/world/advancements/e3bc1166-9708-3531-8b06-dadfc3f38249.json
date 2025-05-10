@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-10 02:35:31 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_goliath_honey_fountain": "2025-05-10 02:17:24 +0000",
@@ -27,6 +33,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-10 02:35:31 +0000"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-05-10 02:35:31 +0000"
     },
     "done": true
   },
@@ -122,6 +140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-10 02:35:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
@@ -155,6 +179,18 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-10 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-10 02:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-10 02:35:31 +0000"
     },
     "done": true
   },
@@ -203,6 +239,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-10 02:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-05-10 02:35:31 +0000"
     },
     "done": true
   },
