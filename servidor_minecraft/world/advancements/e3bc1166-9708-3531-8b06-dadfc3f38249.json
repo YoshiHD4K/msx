@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
@@ -26,6 +32,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
     },
     "done": true
   },
@@ -48,6 +60,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-05-10 02:35:31 +0000"
@@ -63,6 +87,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-10 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
     },
     "done": true
   },
@@ -84,6 +114,18 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
     },
     "done": true
   },
@@ -195,6 +237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
   "better_babies:pack": {
     "criteria": {
       "trigger": "2025-05-10 02:17:22 +0000"
@@ -204,6 +252,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
     },
     "done": true
   },
@@ -243,6 +297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-05-10 02:17:22 +0000"
@@ -258,6 +318,12 @@
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
     },
     "done": true
   },
@@ -309,9 +375,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:48:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-05-10 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-10 02:54:03 +0000"
     },
     "done": true
   },

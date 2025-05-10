@@ -58,6 +58,7 @@
       "rocky_shrubland": "2025-04-15 03:09:49 +0000",
       "grassland": "2025-04-17 03:14:10 +0000",
       "dune_beach": "2025-04-15 03:22:14 +0000",
+      "erupting_inferno": "2025-05-10 02:48:39 +0000",
       "glowing_grotto": "2025-04-17 03:40:08 +0000",
       "field": "2025-04-15 02:18:14 +0000",
       "orchard": "2025-04-15 03:21:36 +0000",
@@ -3918,9 +3919,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-10 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-10 02:48:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-10 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-10 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-10 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-10 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-10 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-05-10 02:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-05-10 02:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-10 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:48:47 +0000"
     },
     "done": true
   },
@@ -3930,9 +4063,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-05-10 02:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-05-10 02:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-10 02:50:42 +0000"
     },
     "done": true
   },

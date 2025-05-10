@@ -51,16 +51,20 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-04-16 03:03:18 +0000",
-      "glowing_grotto": "2025-04-16 03:19:24 +0000",
-      "field": "2025-04-15 02:18:11 +0000",
       "woodland": "2025-04-15 02:51:13 +0000",
+      "shrubland": "2025-04-15 03:16:54 +0000",
+      "maple_woods": "2025-05-10 02:49:20 +0000",
+      "rocky_shrubland": "2025-04-15 03:17:19 +0000",
+      "redwood_forest": "2025-04-15 02:50:54 +0000",
+      "fir_clearing": "2025-05-10 02:57:13 +0000",
+      "glowing_grotto": "2025-04-16 03:19:24 +0000",
+      "gravel_beach": "2025-05-10 02:56:15 +0000",
+      "field": "2025-04-15 02:18:11 +0000",
       "floodplain": "2025-04-15 03:06:46 +0000",
       "overgrown_greens": "2025-04-16 03:14:47 +0000",
-      "shrubland": "2025-04-15 03:16:54 +0000",
+      "seasonal_forest": "2025-05-10 02:49:21 +0000",
       "rainforest": "2025-04-15 02:56:33 +0000",
-      "rocky_shrubland": "2025-04-15 03:17:19 +0000",
-      "coniferous_forest": "2025-04-15 01:29:03 +0000",
-      "redwood_forest": "2025-04-15 02:50:54 +0000"
+      "coniferous_forest": "2025-04-15 01:29:03 +0000"
     },
     "done": false
   },
@@ -468,6 +472,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_cold_ocean": "2025-05-10 02:54:50 +0000",
       "minecraft:cold_ocean": "2025-04-15 02:39:28 +0000",
       "minecraft:beach": "2025-04-15 02:47:37 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-15 04:53:13 +0000",
@@ -2232,6 +2237,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-05-10 02:14:51 +0000"
@@ -2253,6 +2264,24 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-10 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-10 02:50:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
     },
     "done": true
   },
@@ -2280,9 +2309,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_minecraft:emerald": "2025-05-10 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-10 02:50:58 +0000"
     },
     "done": true
   },
@@ -2292,15 +2339,51 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-10 02:15:40 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-10 02:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-10 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
     },
     "done": true
   },
