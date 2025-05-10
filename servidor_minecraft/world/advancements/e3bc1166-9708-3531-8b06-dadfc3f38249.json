@@ -45,6 +45,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-05-10 02:19:48 +0000",
+      "highland": "2025-05-10 05:12:20 +0000",
       "maple_woods": "2025-05-10 02:43:57 +0000",
       "rocky_shrubland": "2025-05-10 02:18:20 +0000",
       "coniferous_forest": "2025-05-10 02:17:24 +0000"
@@ -1177,6 +1178,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-10 05:04:22 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-10 05:09:12 +0000"
     },
     "done": true
   },
