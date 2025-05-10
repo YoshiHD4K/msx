@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-10 02:59:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-05-10 02:35:31 +0000"
@@ -110,6 +116,12 @@
       "coniferous_forest": "2025-05-10 02:17:24 +0000"
     },
     "done": false
+  },
+  "another_furniture:recipes/cherry_shutter": {
+    "criteria": {
+      "has_slab": "2025-05-10 02:59:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -195,6 +207,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cherry_bench": {
+    "criteria": {
+      "has_slab": "2025-05-10 02:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-05-10 02:46:29 +0000"
@@ -228,6 +246,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-05-10 02:35:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_flower_box": {
+    "criteria": {
+      "has_slab": "2025-05-10 02:59:04 +0000"
     },
     "done": true
   },
