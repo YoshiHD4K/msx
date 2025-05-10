@@ -51,6 +51,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-04-16 02:33:53 +0000",
+      "erupting_inferno": "2025-05-10 03:04:47 +0000",
       "field": "2025-04-16 00:06:48 +0000",
       "seasonal_forest": "2025-04-16 02:28:29 +0000",
       "shrubland": "2025-04-16 01:43:26 +0000",
@@ -2092,6 +2093,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-10 02:46:16 +0000"
+    },
+    "done": true
+  },
   "magnumtorch:recipes/decorations/emerald_magnum_torch": {
     "criteria": {
       "has_emerald": "2025-05-10 02:46:21 +0000"
@@ -2116,9 +2123,28 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "traded": "2025-05-10 02:46:16 +0000"
+      "minecraft:soul_sand_valley": "2025-05-10 03:02:47 +0000",
+      "minecraft:basalt_deltas": "2025-05-10 03:06:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-10 03:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-10 03:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-05-10 03:02:47 +0000"
     },
     "done": true
   },

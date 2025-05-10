@@ -481,6 +481,7 @@
       "minecraft:ocean": "2025-04-15 02:40:58 +0000",
       "minecraft:deep_ocean": "2025-04-15 02:44:31 +0000",
       "minecraft:river": "2025-04-15 02:23:06 +0000",
+      "minecraft:meadow": "2025-05-10 03:06:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-15 02:31:13 +0000",
       "minecraft:plains": "2025-04-15 04:17:39 +0000"
     },
@@ -2237,9 +2238,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/maple_button": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_planks": "2025-05-10 02:52:03 +0000"
+      "entered_nether": "2025-05-10 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-10 02:14:50 +0000"
     },
     "done": true
   },
@@ -2249,45 +2256,45 @@
     },
     "done": false
   },
-  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_emerald": "2025-05-10 02:19:43 +0000"
+      "in_fortress": "2025-05-10 02:14:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_ender_eye": "2025-05-10 02:43:14 +0000"
+      "has_bow": "2025-05-10 02:15:13 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "entered_nether": "2025-05-10 02:14:50 +0000"
+      "has_basalt": "2025-05-10 02:15:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_feather": "2025-05-10 02:50:58 +0000"
+      "has_basalt": "2025-05-10 02:15:40 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/maple_fence": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "has_planks": "2025-05-10 02:52:03 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/maple_door": {
-    "criteria": {
-      "has_planks": "2025-05-10 02:52:03 +0000"
+      "has_basalt": "2025-05-10 02:15:40 +0000"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-05-10 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-05-10 02:19:43 +0000"
     },
     "done": true
   },
@@ -2303,27 +2310,39 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_minecraft:emerald": "2025-05-10 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-10 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-10 02:43:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-05-10 02:43:14 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/maple_wood": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_log": "2025-05-10 02:51:52 +0000"
+      "has_ender_eye": "2025-05-10 02:43:14 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_planks": "2025-05-10 02:52:03 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
-    "criteria": {
-      "has_minecraft:emerald": "2025-05-10 02:19:43 +0000"
+      "has_feather": "2025-05-10 02:50:58 +0000"
     },
     "done": true
   },
@@ -2333,9 +2352,39 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
-      "traded": "2025-05-10 02:19:43 +0000"
+      "has_log": "2025-05-10 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-10 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:52:03 +0000"
     },
     "done": true
   },
@@ -2357,24 +2406,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-10 02:15:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-05-10 02:51:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-10 02:14:50 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_planks": "2025-05-10 02:52:03 +0000"
@@ -2384,36 +2415,6 @@
   "biomesoplenty:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-10 02:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-10 02:15:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-05-10 02:15:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-10 02:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_fortress": "2025-05-10 02:14:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-10 02:15:40 +0000"
     },
     "done": true
   },
