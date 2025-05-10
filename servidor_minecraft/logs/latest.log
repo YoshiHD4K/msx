@@ -518,3 +518,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14
 [01:28:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
 [01:44:57] [Server thread/INFO]: YoshiHD4K lost connection: Disconnected
 [01:44:57] [Server thread/INFO]: YoshiHD4K left the game
+[01:51:24] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:62934] logged in with entity id 1867 at (50.5, 113.0, 830.5)
+[01:51:24] [Server thread/INFO]: Sending server config values to client
+[01:51:24] [Server thread/INFO]: Creating new config sync packet
+[01:51:24] [Server thread/INFO]: Loading config from file...
+[01:51:24] [Server thread/INFO]: YoshiHD4K joined the game
+[01:51:24] [Server thread/INFO]: [showmeyourskin] Client of YoshiHD4K accepted server config.
+[01:51:24] [Server thread/INFO]: Receiving client config
