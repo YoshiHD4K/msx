@@ -321,3 +321,14 @@
 [00:39:29] [Server thread/INFO]: Done (56.922s)! For help, type "help"
 [00:39:29] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [00:39:29] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[01:38:33] [Server thread/INFO]: Stopping the server
+[01:38:33] [Server thread/INFO]: Stopping server
+[01:38:33] [Server thread/INFO]: Saving players
+[01:38:33] [Server thread/INFO]: Saving worlds
+[01:38:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:38:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:38:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
