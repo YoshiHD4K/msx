@@ -1,269 +1,46 @@
-[01:38:58] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.16.3
-[01:38:58] [ForkJoinPool-1-worker-2/WARN]: Mod travelersbackpack uses the version fabric-1.18.2-7.1.43 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:38:58] [ForkJoinPool-1-worker-2/WARN]: The mod "thonkutil-customization-v1" contains invalid entries in its mod json:
-- Unsupported root entry "disabled:mixins" at line 11 column 20
-[01:38:58] [ForkJoinPool-1-worker-2/WARN]: Mod gravestones uses the version v1.11.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:38:59] [main/INFO]: Loading 119 mods:
-	- advancednetherite 1.5.1-1.18.2
-	- another_furniture 1.2.2-1.18.2
-	- architectury 4.12.94
-	- bookshelf 13.3.56
-	- cardinal-components 4.2.0
-	   |-- cardinal-components-base 4.2.0
-	   |-- cardinal-components-block 4.2.0
-	   |-- cardinal-components-chunk 4.2.0
-	   |-- cardinal-components-entity 4.2.0
-	   |-- cardinal-components-item 4.2.0
-	   |-- cardinal-components-level 4.2.0
-	   |-- cardinal-components-scoreboard 4.2.0
-	   \-- cardinal-components-world 4.2.0
-	- cloth-config 6.5.102
-	   \-- cloth-basic-math 0.6.1
-	- collective 7.7
-	- comforts 1.1.3-1.18.2
-	- cristellib 1.0.0
-	   \-- blue_endless_jankson 1.2.1
-	- dawn 3.3.2
-	- doubledoors 5.1
-	- elytratrinket 3.0.0-1.18.1
-	- fabric-api 0.77.0+1.18.2
-	   |-- fabric-api-base 0.4.5+64b7c69360
-	   |-- fabric-api-lookup-api-v1 1.6.3+2373a54560
-	   |-- fabric-biome-api-v1 8.0.7+e83becad60
-	   |-- fabric-block-api-v1 1.0.0+ee3621fc60
-	   |-- fabric-blockrenderlayer-v1 1.1.13+3ac43d9560
-	   |-- fabric-command-api-v1 1.1.10+d7c144a860
-	   |-- fabric-commands-v0 0.2.9+b4f4f6cd60
-	   |-- fabric-containers-v0 0.1.24+d7c144a860
-	   |-- fabric-content-registries-v0 3.1.3+c85f2e3860
-	   |-- fabric-convention-tags-v1 1.1.0+43ce63a460
-	   |-- fabric-crash-report-info-v1 0.2.1+ee261a3e60
-	   |-- fabric-data-generation-api-v1 3.1.0+6c70b68e60
-	   |-- fabric-dimensions-v1 2.1.21+489d6f8260
-	   |-- fabric-entity-events-v1 1.4.9+d7c144a860
-	   |-- fabric-events-interaction-v0 0.4.20+d7c144a860
-	   |-- fabric-events-lifecycle-v0 0.2.22+d7c144a860
-	   |-- fabric-game-rule-api-v1 1.0.13+d7c144a860
-	   |-- fabric-item-api-v1 1.6.2+8165403660
-	   |-- fabric-item-groups-v0 0.3.16+91896a4960
-	   |-- fabric-key-binding-api-v1 1.0.12+54e5b2ec60
-	   |-- fabric-keybindings-v0 0.2.10+b4f4f6cd60
-	   |-- fabric-lifecycle-events-v1 2.1.1+cc71601c60
-	   |-- fabric-loot-api-v2 1.1.2+1997ad1260
-	   |-- fabric-loot-tables-v1 1.1.4+e747827960
-	   |-- fabric-mining-level-api-v1 2.1.6+cc71601c60
-	   |-- fabric-models-v0 0.3.7+d7c144a860
-	   |-- fabric-networking-api-v1 1.0.24+2d30af4b60
-	   |-- fabric-networking-v0 0.3.11+b4f4f6cd60
-	   |-- fabric-object-builder-api-v1 2.1.5+032c981d60
-	   |-- fabric-particles-v1 0.2.13+526dc1ac60
-	   |-- fabric-registry-sync-v0 0.9.12+bb2e047760
-	   |-- fabric-renderer-api-v1 0.5.0+bf48649860
-	   |-- fabric-renderer-indigo 0.6.1+03e2b68760
-	   |-- fabric-renderer-registries-v1 3.2.13+b4f4f6cd60
-	   |-- fabric-rendering-data-attachment-v1 0.3.9+ee3621fc60
-	   |-- fabric-rendering-fluids-v1 2.0.3+54e5b2ec60
-	   |-- fabric-rendering-v0 1.1.15+b4f4f6cd60
-	   |-- fabric-rendering-v1 1.11.0+b7f3cf3460
-	   |-- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660
-	   |-- fabric-resource-loader-v0 0.5.3+047a5ecb60
-	   |-- fabric-screen-api-v1 1.0.11+d882b91560
-	   |-- fabric-screen-handler-api-v1 1.2.3+1f6558e860
-	   |-- fabric-textures-v0 1.0.13+3ac43d9560
-	   |-- fabric-transfer-api-v1 1.6.4+f4563ac860
-	   \-- fabric-transitive-access-wideners-v1 1.1.0+e747827960
-	- fabric-language-kotlin 1.8.3+kotlin.1.7.10
-	   |-- org_jetbrains_kotlin_kotlin-reflect 1.7.10
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.7.10
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.7.10
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.7.10
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.18.3
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.4.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.4.0
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.4.0
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- ferritecore 4.2.1
-	- friendsandfoes 1.4.8
-	   \-- mm 2.3
-	- geckolib3 3.0.80
-	   \-- com_eliotlash_mclib_mclib 20
-	- goblintraders 1.5.1
-	- gravestones v1.11.1
-	- iceberg 1.0.38
-	- infinitetrading 4.1
-	- java 17
-	- justhammers 0.1.2+mc1.18.2
-	- lazydfu 0.1.2
-	- lithium 0.7.10
-	- mcwdoors 1.1.2
-	- mcwfences 1.2.0
-	- mcwfurnitures 3.3.0
-	- mcwwindows 2.3.0
-	- minecraft 1.18.2
-	- mixintrace 1.1.1+1.17
-	- mr_infinity_mending 1
-	- mr_veinminer 1.1.0
-	- otyacraftengine 2.14
-	- patchouli 1.18.2-66-FABRIC
-	   \-- fiber 0.23.0-2
-	- polymorph 0.0.24-1.18.2
-	- retraining 1.1.0
-	- smoothboot 1.18.2-1.7.0
-	- starlight 1.0.2+fabric.89b8d9f
-	- supermartijn642configlib 1.1.8+a
-	- supermartijn642corelib 1.1.18+a
-	- thonkutil 2.14.1+1.18
-	   |-- thonkutil-base 1.12.2+23c1dc2c60
-	   |-- thonkutil-capes-v1 1.3.2+9e23427060
-	   |-- thonkutil-coords-v1 1.0.19+9b80223760
-	   |-- thonkutil-customization-v1 1.0.14+9b80223760
-	   |-- thonkutil-legacy 1.0.20+9b80223760
-	   |-- thonkutil-modchecker-v1 1.0.12+9b80223760
-	   |-- thonkutil-potions-v0 1.4.1+9b80223760
-	   |-- thonkutil-titlescreen-v1 1.1.9+9b80223760
-	   \-- thonkutil-trades-v1 1.1.20+9b80223760
-	- travelersbackpack fabric-1.18.2-7.1.43
-	   \-- reach-entity-attributes 2.2.0
-	- trinkets 3.3.1
-	- unfixed-seeds 1.0.2
-	- voicechat 1.18.2-2.5.30
-	   \-- fabric-key-binding-api-v1 1.0.12+54e5b2ec60
-	- worldedit 7.2.10+1742f98
-	- yosbr 0.1.1
-	- yungsapi 1.18.2-Fabric-2.2.9
-	   |-- org_javassist_javassist 3.28.0-GA
-	   \-- org_reflections_reflections 0.10.2
-[01:38:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:38:59] [main/INFO]: Compatibility level set to JAVA_17
-[01:38:59] [main/WARN]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:38:59] [main/WARN]: Reference map 'infinitetrading_fabric.refmap.json' for infinitetrading_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:38:59] [main/WARN]: Reference map 'justhammers-fabric-fabric-refmap.json' for justhammers.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:38:59] [main/INFO]: Loaded configuration file for Lithium: 102 options available, 1 override(s) found
-[01:39:00] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:39:00] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[01:39:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:39:01] [main/INFO]: Smooth Boot config initialized
-[01:39:09] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[01:39:09] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[01:39:09] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[01:39:09] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[01:39:09] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[01:39:09] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[01:39:09] [main/INFO]: Loading Collective version 7.7.
-[01:39:09] [main/INFO]: dumping Runtime Pack's assets and data
-[01:39:10] [Thread-1/INFO]: An update for Friends&Foes is available! You're using 1.4.6 version but the latest version is 1.4.8!
-[01:39:10] [main/INFO]: Definitely not up to no good
-[01:39:10] [main/INFO]: 
-                     ==     =-
-                     ==    ==
-               ==    ========     =-
-                =============== -=
-               :==================
-           ==+=====================   =           #####   ######   ##  ##     ##       ####   ######     ##     #######  ######
-            ==========================           ##   ##  # ## #   ##  ##    ####     ##  ##   ##  ##   ####     ##   #  # ## #
-            ==========     ==========            ##   ##    ##     ##  ##   ##  ##   ##        ##  ##  ##  ##    ## #      ##
-        +  =========         ========+           ##   ##    ##      ####    ##  ##   ##        #####   ##  ##    ####      ##
-        -+=========           ========++++       ##   ##    ##       ##     ######   ##        ## ##   ######    ## #      ##
-          ========+           +========+.        ##   ##    ##       ##     ##  ##    ##  ##   ##  ##  ##  ##    ##        ##
-          +=======*           *=======*           #####    ####     ####    ##  ##     ####   #### ##  ##  ##   ####      ####
-          ========*           +=======*
-       *+=-========           =========                       #######  ##   ##    ####    ####    ##   ##  #######
-           =========         ========= +=                      ##   #  ###  ##   ##  ##    ##     ###  ##   ##   #
-           -=========.     -=========                          ## #    #### ##  ##         ##     #### ##   ## #
-          :=========================-                          ####    ## ####  ##         ##     ## ####   ####
-          =   =======================-                         ## #    ##  ###  ##  ###    ##     ##  ###   ## #
-               ==================    -                         ##   #  ##   ##   ##  ##    ##     ##   ##   ##   #
-               =================+                             #######  ##   ##    #####   ####    ##   ##  #######
-              =.    ========   .=
-                    =     ==
-                   *=     =+
-
-[01:39:10] [main/INFO]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[01:39:10] [main/INFO]: Registering C2S receiver with id otyacraftengine:item_instruction
-[01:39:11] [main/INFO]: [STDOUT]: thonkutil-capes-v1 Init
-[01:39:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[01:39:11] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[01:39:11] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[01:39:11] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[01:39:11] [main/INFO]: [voicechat] Compatibility version 18
-[01:39:11] [main/INFO]: [voicechat] Loading plugins
-[01:39:11] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:39:11] [main/INFO]: [voicechat] Initializing plugins
-[01:39:11] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:39:11] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@33a7f62e]
-[01:39:11] [main/INFO]: WorldEdit for Fabric (version 7.2.10+1742f98) is loaded
-[01:39:11] [main/INFO]: Reflections took 58 ms to scan 1 urls, producing 1 keys and 2 values
-[01:39:11] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 2 values
-[01:39:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:39:14] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[01:39:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:39:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:39:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:39:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:39:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:39:14] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[01:39:14] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[01:39:14] [main/WARN]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/common.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/epic.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/legendary.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/rare.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/uncommon.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/common.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/epic.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/legendary.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/rare.json
-[01:39:15] [Worker-Main-1/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/uncommon.json
-[01:39:16] [Worker-Main-1/INFO]: Loaded 7 recipes
-[01:39:16] [Worker-Main-1/INFO]: Loaded 1612 advancements
-[01:39:18] [main/INFO]: Applied 244 biome modifications to 61 of 61 new biomes in 18.43 ms
-[01:39:19] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[01:39:19] [Server thread/INFO]: Loading properties
-[01:39:19] [Server thread/INFO]: Default game type: SURVIVAL
-[01:39:19] [Server thread/INFO]: Generating keypair
-[01:39:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:39:19] [Server thread/INFO]: Using epoll channel type
-[01:39:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:39:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:39:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:39:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:39:19] [Server thread/INFO]: Preparing level "world"
-[01:39:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:29] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[01:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[01:39:31] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[01:39:31] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[01:39:32] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[01:39:32] [Worker-Main-1/INFO]: Preparing spawn area: 65%
-[01:39:33] [Server thread/INFO]: Time elapsed: 8996 ms
-[01:39:33] [Server thread/INFO]: Done (13.408s)! For help, type "help"
-[01:39:33] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:39:33] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[01:39:40] [Netty Epoll Server IO #2/INFO]: [STDOUT]: Understood response from client in thonkutil:universal_packet
-[01:39:40] [Server thread/INFO]: YoshiHD4K[/100.83.40.27:65398] logged in with entity id 115 at (119.5, 78.0, -298.5)
-[01:39:40] [Server thread/INFO]: Loading config from file...
-[01:39:40] [Server thread/INFO]: YoshiHD4K joined the game
-[01:39:42] [Server thread/INFO]: [voicechat] Received secret request of YoshiHD4K (18)
-[01:39:42] [Server thread/INFO]: [voicechat] Sent secret to YoshiHD4K
-[01:39:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f4b014b-f4dc-3f9a-9f3f-d0512d718892
-[01:39:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f4b014b-f4dc-3f9a-9f3f-d0512d718892
-[01:39:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player YoshiHD4K (2f4b014b-f4dc-3f9a-9f3f-d0512d718892) successfully connected to voice chat
-[01:40:28] [Server thread/INFO]: The difficulty has been set to Peaceful
-[01:41:29] [Server thread/INFO]: Made YoshiHD4K a server operator
-[01:41:40] [Server thread/INFO]: [YoshiHD4K: Set the weather to clear]
+[01:15:15] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[01:15:15] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[01:15:15] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:15:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[01:15:16] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[01:15:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:15:29] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:15:29] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:15:31] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 14785ms.
+[01:15:31] [ServerMain/INFO]: No existing world data, creating new world
+[01:15:33] [ServerMain/INFO]: Loaded 1290 recipes
+[01:15:33] [ServerMain/INFO]: Loaded 1399 advancements
+[01:15:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:15:33] [Server thread/INFO]: Loading properties
+[01:15:34] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[01:15:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:15:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:15:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:15:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:15:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:15:36] [Server thread/INFO]: Generating keypair
+[01:15:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:15:37] [Server thread/INFO]: Using epoll channel type
+[01:15:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:15:37] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[01:15:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:15:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:15:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:15:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:15:37] [Server thread/INFO]: Preparing level "world"
+[01:15:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:16:03] [Server thread/INFO]: Time elapsed: 9990 ms
+[01:16:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:16:06] [Server thread/INFO]: Time elapsed: 3522 ms
+[01:16:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:16:07] [Server thread/INFO]: Time elapsed: 758 ms
+[01:16:07] [Server thread/INFO]: [spark] Starting background profiler...
+[01:16:08] [Server thread/INFO]: Done preparing level "world" (30.752s)
+[01:16:08] [Server thread/INFO]: Running delayed init tasks
+[01:16:08] [Server thread/INFO]: Done (53.890s)! For help, type "help"
+[01:16:08] [Server thread/INFO]: *************************************************************************************
+[01:16:08] [Server thread/INFO]: This is the first time you're starting this server.
+[01:16:08] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[01:16:08] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[01:16:08] [Server thread/INFO]: *************************************************************************************
+[01:16:08] [Server thread/INFO]: Timings Reset
