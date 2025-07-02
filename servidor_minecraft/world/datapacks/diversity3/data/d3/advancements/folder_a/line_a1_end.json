@@ -1,8 +1,0 @@
-{
-   "parent": "d3:folder_a/escape",
-    "criteria": {
-        "line_a1_end": {
-            "trigger": "minecraft:impossible"
-        }
-    }
-}

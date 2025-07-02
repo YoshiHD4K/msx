@@ -1,8 +1,0 @@
-{
-   "parent": "d3:folder_b/collector",
-    "criteria": {
-        "line_b4_end": {
-            "trigger": "minecraft:impossible"
-        }
-    }
-}
