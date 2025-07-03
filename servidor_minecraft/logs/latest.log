@@ -1,127 +1,27 @@
-[02:51:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:51:24] [ServerMain/INFO]: Loaded 1290 recipes
-[02:51:24] [ServerMain/INFO]: Loaded 1399 advancements
-[02:51:25] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:51:25] [Server thread/INFO]: Loading properties
-[02:51:25] [Server thread/INFO]: Default game type: SURVIVAL
-[02:51:25] [Server thread/INFO]: Generating keypair
-[02:51:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:51:25] [Server thread/INFO]: Using epoll channel type
-[02:51:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:51:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:51:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:51:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:51:25] [Server thread/INFO]: Preparing level "world"
-[02:51:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:31] [Server thread/INFO]: Time elapsed: 6004 ms
-[02:51:31] [Server thread/INFO]: Done (6.182s)! For help, type "help"
-[02:51:36] [Server thread/INFO]: YoshiHD4K[/100.68.211.54:62942] logged in with entity id 2 at (1.5, 101.0, 18.5)
-[02:51:36] [Server thread/INFO]: YoshiHD4K joined the game
-[02:54:15] [Server thread/INFO]: Stopping the server
-[02:54:15] [Server thread/INFO]: Stopping server
-[02:54:15] [Server thread/INFO]: Saving players
-[02:54:15] [Server thread/WARN]: Failed to save player data for YoshiHD4K
-[02:54:15] [Server thread/INFO]: Saving worlds
-[02:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[DIVERSITY 3 v1.6.6 - for 1.14.4]'/minecraft:overworld
-[02:54:16] [Server thread/ERROR]: Could not save data eyh@2b36670b
-java.nio.file.NoSuchFileException: ./world/data/scoreboard.dat
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
-	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
-	at uo.a(SourceFile:71) ~[server-1.21.1.jar:?]
-	at eql.a(SourceFile:46) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:127) ~[server-1.21.1.jar:?]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
-	at eqz.a(SourceFile:125) ~[server-1.21.1.jar:?]
-	at aqu.av(SourceFile:833) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:815) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:620) ~[server-1.21.1.jar:?]
-	at apn.v(SourceFile:561) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:735) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02:54:16] [Server thread/ERROR]: Could not save data cok@9c49036
-java.nio.file.NoSuchFileException: ./world/data/raids.dat
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
-	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
-	at uo.a(SourceFile:71) ~[server-1.21.1.jar:?]
-	at eql.a(SourceFile:46) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:127) ~[server-1.21.1.jar:?]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
-	at eqz.a(SourceFile:125) ~[server-1.21.1.jar:?]
-	at aqu.av(SourceFile:833) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:815) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:620) ~[server-1.21.1.jar:?]
-	at apn.v(SourceFile:561) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:735) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02:54:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[DIVERSITY 3 v1.6.6 - for 1.14.4]'/minecraft:the_nether
-[02:54:17] [Server thread/ERROR]: Could not save data cok@e4b8042
-java.nio.file.NoSuchFileException: ./world/DIM-1/data/raids.dat
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
-	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
-	at uo.a(SourceFile:71) ~[server-1.21.1.jar:?]
-	at eql.a(SourceFile:46) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:127) ~[server-1.21.1.jar:?]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
-	at eqz.a(SourceFile:125) ~[server-1.21.1.jar:?]
-	at aqu.av(SourceFile:833) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:815) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:620) ~[server-1.21.1.jar:?]
-	at apn.v(SourceFile:561) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:735) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02:54:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[DIVERSITY 3 v1.6.6 - for 1.14.4]'/minecraft:the_end
-[02:54:17] [Server thread/ERROR]: Could not save data cok@397aa157
-java.nio.file.NoSuchFileException: ./world/DIM1/data/raids_end.dat
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
-	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
-	at uo.a(SourceFile:71) ~[server-1.21.1.jar:?]
-	at eql.a(SourceFile:46) ~[server-1.21.1.jar:?]
-	at eqz.b(SourceFile:127) ~[server-1.21.1.jar:?]
-	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
-	at eqz.a(SourceFile:125) ~[server-1.21.1.jar:?]
-	at aqu.av(SourceFile:833) ~[server-1.21.1.jar:?]
-	at aqu.a(SourceFile:815) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:556) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:620) ~[server-1.21.1.jar:?]
-	at apn.v(SourceFile:561) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:735) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.1.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02:54:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:54:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:54:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:54:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:31:55] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[02:31:55] [Server thread/INFO]: Loading properties
+[02:31:55] [Server thread/INFO]: Default game type: ADVENTURE
+[02:31:55] [Server thread/INFO]: Generating keypair
+[02:31:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:55] [Server thread/INFO]: Using epoll channel type
+[02:31:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:31:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:31:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:31:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:31:56] [Server thread/INFO]: Preparing level "world"
+[02:31:56] [Server thread/INFO]: Preparing start region for level 0
+[02:31:57] [Server thread/INFO]: Preparing spawn area: 83%
+[02:31:57] [Server thread/INFO]: Done (1.203s)! For help, type "help" or "?"
+[02:32:10] [Server thread/INFO]: LivioG[/100.64.175.52:63808] logged in with entity id 0 at (-63.03409353020663, 68.0, -43.51645568896233)
+[02:32:10] [Server thread/INFO]: LivioG joined the game
+[02:32:26] [Server thread/INFO]: YoshiHD4K[/100.68.211.54:58558] logged in with entity id 1 at (-64.03339451679463, 68.0, -43.494830834904064)
+[02:32:26] [Server thread/INFO]: YoshiHD4K joined the game
+[02:34:39] [Server thread/INFO]: SEBAXWARRIOR[/100.122.4.112:54002] logged in with entity id 2 at (-61.263103605142234, 68.0, -45.011626118732565)
+[02:34:39] [Server thread/INFO]: SEBAXWARRIOR joined the game
+[02:36:35] [Server thread/INFO]: <YoshiHD4K> uf
+[02:37:48] [Server thread/INFO]: Luisillo0516[/100.113.11.119:56842] logged in with entity id 3 at (-63.0894474422542, 68.0, -46.21536287189086)
+[02:37:48] [Server thread/INFO]: Luisillo0516 joined the game
+[02:37:56] [Server thread/INFO]: <YoshiHD4K> PERO QUE PASO???????????????????????????????????
+[02:38:02] [Server thread/INFO]: <Luisillo0516> ?????????????????????????????????
+[02:40:33] [Server thread/INFO]: soyJadeepro[/100.91.217.3:54322] logged in with entity id 4 at (-63.187337131252434, 11.0, -589.8168430226675)
+[02:40:33] [Server thread/INFO]: soyJadeepro joined the game
