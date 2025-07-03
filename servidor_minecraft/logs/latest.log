@@ -437,3 +437,7 @@
 [03:41:08] [Server thread/INFO]: YoshiHD4K was shot by Skeleton
 [03:42:30] [Server thread/INFO]: <YoshiHD4K> no hablo ingle
 [03:42:40] [Server thread/INFO]: <YoshiHD4K> la tuya
+[03:46:17] [Server thread/INFO]: LivioG lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:46:17] [Server thread/INFO]: LivioG left the game
+[03:51:43] [Server thread/INFO]: LivioG[/100.64.175.52:55871] logged in with entity id 324329 at (994.5606780514793, 116.0, 1001.4052775322028)
+[03:51:43] [Server thread/INFO]: LivioG joined the game
